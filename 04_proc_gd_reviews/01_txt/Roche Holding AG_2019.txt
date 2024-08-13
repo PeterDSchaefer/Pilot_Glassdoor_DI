@@ -1,0 +1,1392 @@
+Cons: By far the biggest drawback is the toxic work culture and weak management.  There are a number of managers who do not have their employees' back, leaving them to fend for themselves until they either become toxic themselves as a survival mechanism, or leave the company in time so that self-healing can begin.
+
+Politics is par for the course - yet it is the intensity level that takes it to a whole new dimension.  Power grabs, empire building, scapegoating, and undermining other teams are openly on display without appropriate action (and sometimes not even a reaction) from local management.  The one transgression not on display, by virtue of its definition, is backstabbing (which also happens quite often). 
+
+There are some that complain about too many processes.  This is not a start-up anymore.  There is a lack of the right kind of processes that can propel an organization to efficiently reach its business goals.  Removing the brakes so that one team can work faster without fully appreciating the impacts on other teams results in a longer time to reach the organization's business objectives.
+
+The Molecular Solutions cultural values plastered on the walls are mostly viewed as wall art as local management often do not practice via leading by example.
+Advice: Deal with toxic employees and weak managers who tolerate such behavior before it spreads even further.
+Pros: It is pretty amazing to work with an organization consisting of multidisciplinary talent.  Work life balance and benefits are pretty good.  Compensation is average.  Facilities are managed quite well.  Free snacks are available though that may change once the new cafeteria is ready.
+
+Cons: - Lack of coherent strategy. There seems to be little intentionality and executive leadership in Sequencing that affects all levels. 
+- Decision-making processes are extremely slow and inefficient. I would describe it as a Kafkaesque nightmare. Documentation and meetings are mistaken for actual work.
+- A few extremely rude apples ruined the barrel. A senior technical lead once started a meeting with "Show of hands for who thinks ____ is stupid?", a contractor once posted publicly on LinkedIn asking how to decrease the influence of my role, a scientist at the VP level chastised me after thinking that I gave one of his reports constructive feedback (I hadn't, and the feedback was valid). A colleague thought it was normal to go to her car and cry after work meetings. This was an extremely unhealthy work culture, and I still get angry just thinking about many of the interactions I had. 
+- Absolute lack of knowledge about software and software development processes.
+Advice: - Understand the problems we're trying to solve for our customers and the people they serve (the patients). Don't miss the forest for the trees by focusing so much on useless processes.
+- Hire people with empathy. This is a healthcare company after all.
+- If you want to build software products, hire people with experience in software development (not just software quality) and empower them to drive change in the organization.
+Pros: - Overall mission to "Do now what patients need next" is inspiring.
+- "Work/life balance" is so good that I would describe working here as early retirement.
+
+Cons: Outsourced work,  removal of employee benefits, no new work, no transparency, no career growth
+Advice: Stop saying you want something (like employee retention) then doing nothing to make that happen (not listening to what employees want.)  Don't take away the things that made it a great place to work.  Bring back new and exciting development in country instead of hiring 70 Romanian engineers to do the work.  Most engineers want to work on tech and not manage a bunch of others.  Have a plan laid out and follow it for future development.  Make sure people can grow and get promoted in their careers and not just the ones who seem to be in with leadership.  Too many meetings happen where there are a bunch of great ideas and nothing is actually executed based on those ideas.  Stop the management carousel where leadership is replaced every year and a re-org happens.
+Pros: Interesting work,  Mostly good benefits, Beautiful work location,  good coworkers at the development level
+
+Cons: When leadership is good, it is good. When it isn't good, it sucks.  Unfortunately, when good leaders are put in roles they are moved around quickly. Advancement is nil unless you are in the boys club. Even the few women who get promoted are promoted as pawns for the men. Politics are horrible and collaboration between teams is hard. We are all supposed to be on the same side but leadership and people who are allowed to be idiots ("oh it is just so and so's way....") make work harder. And if you are very good at your job as a worker bee, it is highly unlikely you are going to be promoted. They want you to continue in that capacity. They under use talent.
+Advice: Stop shuffling people around so quickly.  Hold leaders accountable to excellent leadership practices. Stop with the damn boy's club. Hold leaders accountable for their teams' attitudes. Take a second look at the people asking to be in leadership. You can be a worker bee and have great strategic thinking. Challenge employees using their skill sets.
+Pros: Benefits, some work life flexibility, nice buildings
+
+Cons: -The mission of Roche in Tucson has unfortunately shifted from helping patients to generating increased profit and revenue. 
+-Due to the senior leadership in Tucson taking short cuts in the past, the environment now is one of constantly reacting to problems which should have been solved years ago.  
+-Some portions of senior leadership in Tucson are creating an environment of fear and finger pointing.  
+-There is a drive by senior leadership in Tucson to outsource the instrument development and focus on Assay integration and Assay development only.
+Advice: -Push back on the company directive of increasing profit and revenue to be passed to other divisions within Roche and invest in Tucson facility.  Focus the culture more on what made Ventana special, it's mission and people.  
+-Listen up and take a hard look at some of the senior leadership within Tucson.  They are unfortunately creating a caustic environment which may take a while to repair.  
+-Before it is too late, don't let your instrument development knowledge walk out the door.
+Pros: The overall company compensation and benefits are great.  The employees are always willing to help each other.  The mission of helping those afflicted by cancer is a noble mission.
+
+Cons: I’ve been here nearly 18 years and it’s a revolving door with good people coming in and then leaving while bad people keep getting promoted and having their egos inflated.  Upper management is political, rude, not transparent, and total cronies.  You can’t trust anyone to not throw you under the bus.  And the company claims they are working on their ‘cultural beliefs’ But those are all just HR check the box activities that none of upper management loves up to.  I’m so sick of the antics, egos, and jockeying for positions.  They’ll tell you one thing in the interview and once you start you’ll be doing something else because of ‘resource constraints’ and ‘we’re doing more with less’ So you get sucked dry of all energy.  Don’t be fooled!
+Advice: Listen to your assessment GEOS surveys and don’t mask the problems in HR initiative that look fancy but are not truly lived by.  Kill the politics and start recognizing those that get away with doing nothing because of relationships and those that have contributed loyally  for years.
+Pros: The benefits (not including pay) is the only thing that keeps me here
+
+Cons: Bone-headed management in Product Development with zero-tolerance for mistakes, making everyone fearful to make decisions.  This is touted as Accountability. 
+In reality, they are stuck in analysis-paralysis and can't seem to figure out what to do. New products are held up because management has blamed engineering for poor decision-making and is looking to outsource design. In reality, decision-making is the  responsibility of management and out-sourcing the design can't fix poor decision-making.
+Advice: Stop passing the buck.
+Also, making mistakes is part of design, they just need to be caught before they leave the door.  Iteration is a necessary part of developing anything more complex than tennis shoes. Celebrate when you find mistakes, don't fire people over simple things.
+Pros: Great benefits, nice location, interesting product.
+
+Cons: I found the culture here to be the most toxic of all companies in my career.  This organization is very political and clicky.  During my time here I have started to take anxiety and blood pressure medicine because of the continued pressure to perform along with constant criticism.  I would not recommend working at Roche to my worst enemy.
+Advice: Figure out how to be much more supportive of your people and understand how oppressive random constant unfounded comments are to people.  The company could be a great one with great people but you have a lot of leaders who continually beat on the same people over and over again.  I am excited to be out and away from this environment.
+Pros: Roche is a great company with awesome benefits.  They have terrific healthcare, great dental and eye care plus they really are setup well to take care of people.
+
+Cons: You had better work anywhere they want to place you or face the possibility of losing your job.  This means, you relocate wherever they want you to relocate to or face the possibility of being terminated. The environment can be stressful as well and you may not be able to trust those around you or management. Management may turn the other way, even if there are other employees causing a toxic environment and mistreatment of some in plain site of everyone.
+Advice: Stop being biased and allow certain individuals to be disrespected, bullied and mistreated by some and say nothing or do nothing.
+Pros: The seem like an OK company to work for, but you have to be cautious of how you deal with co-workers.
+
+Cons: My immediate manager wanted HR to be run like GE. GE had a policy of laying off 5% or perhaps it was 10% of its workforce every year. This created an extremely internal competitive culture that was dysfunctional and unproductive.
+Advice: Now that Roche merged, I’m not sure of the culture. It is always a good idea to treat your employees well. The number one reason an employee leaves a company is due to their immediate manager. Incorporating a 360 review process for managers gives executives an idea of how employees are being treated.
+Pros: At the time, it was still family owned. The family owned 51% of shares. They treated employees well. It was also a European company. Therefore, the culture was better than most large American public companies.
+
+Cons: - Too much unnecessary change being passed off as "Agile" leaves many feeling lost and tired
+- Lack of clarity about how the mission translates into specific, actionable goals at the function, team and then individual employee levels
+- Pay is well-below market in the most critical technical areas
+- Cross-functional, matrix alignment hides performance issues and drains accountability from the business
+- The culture sucks in our most innovative areas of the business
+- TONS of work enters the funnel, but very little comes out the end, leaving one feeling exhausted and confused at times
+Advice: Get back to the basics.  Stop trying to do so much and truly EXECUTE.  Simplify the organization structure and invest in developing and retaining your people.
+Pros: - Good, smart people with the best of intentions
+- Great company health benefits and 401(k) plan
+- Fantastic mission that everyone truly supports and understands
+
+Cons: Upper management doesn't know what they're doing, how to hire managers, how to fire toxic employees, etc
+Still no sales.
+Below market wage.
+A lot of below average, hard to work with employees.
+Advice: As a pre-acquisition employee, I got to see a lot about how Genia's internals functioned.
+
+I'd recommend prioritizing valuing your lower level employees.
+
+Upper management needs to show what company values they believe in and lead by example. They tend to be way to focused on just "getting the job done" as an excuse to ignore systemic problems.
+Pros: There are a bunch of awesome people to work with.
+The project is super cool and involves multiple cutting edge technologies which is honestly pretty special.
+Consistent high attendance happy hours.
+
+Cons: Field service for tissue diagnostics means heavy travel, high workload, do more with less=STRESS.  Your key people are getting "Burnt Out".
+Advice: I know there's currently some great initiatives to drive positive change, but we need more headcount on FES and FAS sides in areas with larger geographic territories. Numbers will never tell the "true" story especially when they're gamed or don't show overnight travel stays. And not getting scalded for having an admin day when one does happen would be great. This isn't a normal 9-5 job, so managers should stop treating it like one. Let me take care of my own family and business without the 3rd degree. THIS is the main reason I will be looking for other work.
+Pros: Excellent mission, great benefits, pay and culture.
+
+Cons: It's tough when you work for a company's largest market (US) and are still managed from afar. This frustration is compounded when strategies, tools, and programs are developed in the company's much smaller and different home market to apply everywhere. These "gifts" are given to the rest of the world with little leeway in their use. If changes are approved, the cost and time of retrofitting the "gift" falls on the receiving markets.
+Although generally good, the prevailing culture, pace, and management style in the business areas vary widely. This is an issue when you move to another area, as you are encouraged to do, because you may go into an unexpectedly stressful environment. I once encouraged a friend to work at Roche. When they described the pressure, management style, and stressful atmosphere in their area I was shocked and embarrassed.
+Advice: Avoid laying off seasoned employees for tenure, fiscal or re-organizing reasons. You are casting off a huge investment in their wisdom and experience. Instead, have that challengeing conversation to see if something could be arranged so that your investment isn't walking away to benefit the competition.
+There are many ways to avoid meetings that still accomplish the goal of the meeting. Start implementing these alternatives and foster a "meet as a last resort" culture, which will increase productivity and reduce stress. If a meeting is unavoidable, give equal planning time to the  "how" of a meeting segment as well as to the "what", which  usually receives all the focus.
+Pros: Most of the areas I worked in had a good culture and working environment. There were a few flighty ladder scramblers, but most of the people were solid hard-working folks who made working there a pleasure. The pay and benefits were very good, which I belatedly realized I'd taken for granted!
+The products are high quality and provide many positive aspects, which employees can feel good about. For example, you might work with a product that helps diabetics better control their disease or an instrument used in labs seeking the cure for diabetes or devices that are fast and accurate, getting you health answers quickly.
+
+Cons: Micro-Managed. Constant upper-level changes.  Poor communication between marketing, sales, and support with customers. Division changes every few years.  Slow growth potential and opportunities. Lay-offs.
+Advice: Stop investing in "better customer interaction," and focus on communication between each group/division.  Take notice of aspirational employees and seek to assist them, in their growth.  Truly listen to your ground employees. Stop making changes for customer experience based on what you believe will benefit them. Talk with your front-line support teams who interact with customers daily and listen to their advice.
+Pros: PTO,  Health benefits, 401k matching, decent salaries. I've also worked with some great managers and individuals here.
+
+Cons: They're no longer converting contingent staff. The culture there is dissipating. No longer innovative. Products are subpar and being pushed into the market with low quality.  Company doesn't care about you and it shows. One word I would use to describe the company is 'uninspired.'
+Advice: Take a management course training. Understand that people come first.
+Pros: Work/life balance is good here. Lots of amazing scientists and engineers. It's a shame they're not being recognized for their exceptional work and potential. People are trickling out, as they should in an atmosphere that doesn't propel you in a positive direction.
+
+Cons: Management is not honest, to the point where it isn't a personal critque but rather something that's just understood by the greater workforce.  Extraordinarly little diversity for a company in this sector, very unfortunate..
+Advice: Listen to your employees, share information with people.  Workforce is tired of being managed by a person not on site, worrying about cuts they know are coming but aren't allowed to mention, etc.
+Pros: Atmosphere and dedicated workforce are both big positives.  Having an aging workforce that cares greatly about the work being done highlights how important the work is, but also highlights how little management cares.
+
+Cons: Part of the finance team is getting relocated to Costa-Rica so opportunities in Indianapolis are not for the long run. A lot of people are contractors with no chance of getting the same benefits as regular employees. It can create a lot of resentment which is sad because the company does have good values.
+Advice: Reward contractors for good work with a few paid vacation days. A little can go a long way.
+Pros: Great culture and benefits; the company values diversity, work/life balance, and health/well-being.
+
+Cons: Senior leaders and department heads are selected based upon performance/technical skills as an individual contributor rather than people/leadership skills. Leads to poor people managers that drive out talented individual contributors with better technical skills who are treated poorly by their manager who still believe they know better or won’t truly delegate full authority to others.
+Advice: Focus on building a project portfolio that is supply-driven by resources rather than demand-driven by multi-year forecasts.
+Pros: Incredibly talented and passionate individual contributors.
+
+Cons: - Toxic work culture and management.  Employees are sometimes publicly berated in meetings.  Weekly meeting(s) are masqueraded as somewhere to share data and information across groups, but actually function as arenas where groups face off against each other vying for power and recognition.  Back-stabbing and back-biting of teams against each other is commonplace.  Fear, competition, and mistrust permeate the entire organization.
+- Lack of concrete direction and strategy from executive and senior management leads to entire site scrambling for goals and direction every year.
+- "Innovate Now" and "Speak Up" are two of the cultural beliefs, but almost no one is allowed to do anything innovative or out of the box.  Anything that bucks the status quo is immediately met with resistance.  "We already tried that and it didn't work", and then not having any data to back up claims seems to be the default response.  People catch on quickly, stop trying to contribute new ideas, turn on "coast mode", and become "yes" men or women.
+- Salaries are consistently below what other companies Pharma, Biotech, or Technology companies in the Bay Area are offering even though HR claims they are performing salary comparisons.  People leaving for new opportunities regularly secure 30-40% compensation increases.  Stock options are only offered to a select group of software engineers, data scientists or directors and above, good luck everyone else!
+- Contractors are treated like second-hand citizens, and I have seen many cut loose before their contracts are up.  I even witnessed one case where the contractor was given only 4 days of notice before being told they were being let go.
+- Points above lead to a large number of disengaged workers that are trapped and looking for a way out.  I have observed employees actively job searching in the open office environment and even in the middle of meetings that they are supposed to be engaged in!
+Advice: - Remove toxic management and employees - put them on the roof or give them severance and send them on their way.
+- Increase pay and compensation to actually be competitive with other companies in the Bay Area to help retain talent.  I don't know where the HR are getting their numbers, but remuneration packages are not competitive.
+Pros: -  The sequencing technology is interesting and has potential to move personalized medicine forward in the future.
+-  Free snacks and breakfast fare.
+-  Work/Life balance is pretty good.
+-  Roche appears to be centralizing all of their South Bay and Peninsula M&amp;A targets at the Santa Clara site and turning it into an "Innovation Center".  Could be a good opportunity to be able to transfer across many teams.
+
+Cons: Too conservative; not innovative enough. In sequencing division, organization does not have a sense of urgency, nor enough market knowledge to understand how to be competitive. Mgmt says that they empower decisions at the lowest level, but that's not the case.
+Advice: Understand your market. Hire and promote more industry experts, don't just promote those who've been there ten years. Give 'agile' more than lip service.
+Pros: An environment of mutual respect and open discussion. Good job security.
+
+Cons: There is a line for promotions. It's rare to move ahead. Be ready to put your head down and keep moving. If you look up, you might get discouraged every time youre passed for a promotion.
+Advice: "people stay when they are paid well, mentored, challenged, promoted, involved, appreciated, valued, on a mission, empowered, and trusted."
+Pros: Great place to start and create a foundation of the systems engineering principles. Great culture, great people, friends are made easily.
+
+Cons: Quality and Supply Issues Abound, Awesome CEO just left, Slow Moving Company, Conservatism &lt;&gt; Innovation
+Advice: The #1 focus must continue to be quality.  Keep doing the right thing by your sales teams to compensate for this.  Roche is amazing and still relevant - keep innovating to keep Roche relevant.
+Pros: Culture, Excellent Sales Leaders, Opportunities to Grow, Market Leader in many segments, Good Pay, Work  Life Balance
+
+Cons: No accountability in leaders ,  immature leadership, runs on entitlement , organizations keeps cleaning up it's own mess at business expense , no concept of customer service,  no business focus , cruise-control mode , no sense of urgency , does not have right people in the bus to take the organization to the next level of maturity
+Advice: what's the use ?
+Pros: Benefits  Flexibility, Global travel
+
+Cons: Lacking in advancement in opportunity.  Feels like the vision communicated from senior management and the day to day activities are somewhat misaligned.
+Advice: None
+Pros: Solid Company to work for.  Nice compensation package with great benefits.  Working environment has a lot of flexibility.  Great people to work with.  Overall experience was very positive
+
+Cons: TOXIC WORK ENVIRONMENT - when you have a boss who says about your three adopted kids from foster care and having significant trauma and whereas you want to participate in their therapy:  [SIC] "your f'ed up kids are none of the companies concern". And when you raise this issue to HR and their only concern is to protect the interest of the company and starts retaliating against you.
+Advice: None
+Pros: salary, benefits, campus, work life balance,
+
+Cons: Seem to "reorganize" often which creates a state of wondering if you'll have a job or not about every 18 mos.  Lacking in technology development which will hurt them in the long run.
+Advice: None
+Pros: Benefits are great and pay is good or better than most.  Good work life balance and cultural beliefs.
+
+Cons: High pressure, management blames employees for poor decision making, management believes that they can get perfect products if only they could create more documents.
+Advice: Do more design iterations before going to production instead of either rushing to production or being paralyzed doing risk assessments.
+Pros: Good benefits, great location, important product.
+
+Cons: Lacks innovation.  Senior management does not consider the amount of great talent available within the organization when making strategic decisions.  Also very politically driven.
+Advice: None
+Pros: Great talent, opportunities to meet with senior management on a regular basis, can grow by taking advantage of different job opportunities internally
+
+Cons: - A restricted group of managers originally hired by Genia's founders is still in charge of making all the important decisions.
+- Those same managers do not fully understand the fundamental scientific problems that need to be solved in order to deliver a product (DNA sequencing device)
+- People at the Roche HQ up in Pleasanton seem to be ok with it.
+Advice: - Be humble, listen more. 
+- Hire a couple of real, good statisticians
+Pros: Still a lot of open, interesting scientific problems to tackle.
+
+Cons: It can be difficult to progress your career
+Advice: None
+Pros: Great employer - Heavy focus on people development. Good leadership and an open and welcoming culture. The campus is well thought out and creates an environment where you can be effective in such a large business
+
+Cons: -little mobility to be hired as entry level roles are limited
+Advice: None
+Pros: -great place to meet other professionals 
+-global projects 
+-opportunity to work on more projects with other divisions 
+-mentorship 
+-friendly and caring group 
+-flexible hours 
+- great team  
+-office is wonderful
+
+Cons: Efforts to save customers not recognized, betrayal from management.
+Advice: Be fair to employees, respect their efforts to save the business, don’t betray the hands that brings the business to the table. Learn to accept is not the power what builds a company but the loyal employees.
+Pros: No pros at all after 10 years.
+
+Cons: Moving from contract position to regular employee when contracted through an outside agency. It’s best to contract through ProUnlimited, which is on their campus.
+Advice: None
+Pros: The campus has many amenities for employees convenience and town hall meetings to keep employees in the loop on current state/issues of the company.
+
+Cons: Lots of travel
+focus seems to be shifting to sales and from providing good service to existing customers
+Advice: Focus on customers we have first, not just acquiring new accounts
+Pros: Good compensation
+Great people
+I feel that I am helping people live better lives when I do my job
+
+Cons: Very complicated organizational structure and, as a result, too many levels of programs/projects management and people who actually do not produce anything useful
+Advice: None
+Pros: Very friendly atmosphere. Highly skilled specialists. Excellent benefits. Management   makes a lot of efforts to keep people happy.
+
+Cons: Change is good but sometimes can be too much at times.  There is a need to be flexible and comfortable  in uncertain environments.
+Advice: None
+Pros: Depending on your location there is a lot of opportunity for learning, skills development, and movement within the organization.
+
+Cons: They need more offices in the MA area.
+Advice: DON’T CHANGE A THING!
+Pros: Exceptional Health Care, Great down to Earth  People, innovative world leaders in they give you the oportunity to grow and the listen to your ideas and have great incentives for bringing new ideas to the plate. Great Life work balance.l
+
+Cons: Contingent or temporary workers moved from place to place too quickly
+Advice: The contingent work force leaves quickly. Are there any incentives to retain?
+Pros: Friendly knowledgeable most want to work together to achieve one goal. Not a competition.
+
+Cons: For promotions you need to be open for public presentations and being mentor for other specialists.
+Advice: Too many external specialist which are not correctly managed by internal supervisors.
+Pros: Many different perspective of Your carrier involved.
+
+Cons: Slow business/legal processes
+Management promotes political agenda
+Advice: Stay out of politics and focus on changing slow business processes to take advantage of 21st century opportunities
+Pros: most fellow workers that care about end customers
+good pay and benefits
+
+Cons: No young professionals
+Too Corporate
+People with less than 5-7 years of work experience are ALWAYS hired on as Contractor.
+Advice: Be more reachable
+Pros: Travel opportunities
+Development opportunities, IF you know the right people
+Very knowledgeable people
+
+Cons: No stock options
+Better car selections (More SUV)
+Advice: Provide stock options for employees. Otherwise, keep up the great work!
+Pros: Competitive compensation
+Excellent Benefits
+Great Management
+Growth opportunities
+Great atmosphere
+
+Cons: Lots of manager turnover can make it hard to advance
+Advice: None
+Pros: Smart people, good work/life balance
+
+Cons: No accountability within upper management. All decisions based on the "team" mentality.
+Advice: Abandon the matrix process and open environment work-spaces.
+Pros: Benefits are outstanding, 401K is second to none.
+
+Cons: Better R&amp;D and long term focus and planning for all departments
+Advice: Some business units are drowning in mediocrity while others flourish...develop a standard across the board
+Pros: Great exposure, learning, preparatory and inclusion environment
+
+Cons: - Senior leadership is abhorrent
+- R&amp;D has no direction
+- Cultural beliefs are espoused but not followed
+Advice: None
+Pros: - Pay and benefits are outstanding
+- People are great for the most part
+
+Cons: Salaries a bit lower compare to tech leaders
+Advice: None
+Pros: A friendly and respectful environment
+
+Cons: Pay could be better. Education and experience are not valued enough.
+Advice: Pay your people according to education and experience.
+Pros: Great culture and benefits. Lots of perks.
+
+Cons: Chaotic, unorganized, complacent employees only doing the minimum, run like a start-up, minimal resources, unrealistic expectations
+Advice: None
+Pros: Great benefits and friendly staff
+
+Cons: communications up and down are not always the best
+Advice: listen to all employees.  All thoughts and ideas are important
+Pros: a breakthrough company always ahead of the curve
+
+Cons: - Ventana management still struggling and didn't get acceptance widely.
+Advice: None
+Pros: - Good collaborative environment
+- Productive lunch and learn meeting
+
+Cons: culture is inconsistent across departments
+Advice: None
+Pros: great R&amp;D pipeline. Higher up managers know what they're doing. Middle managers hit and miss.
+
+Cons: hard to move up or sideways
+Advice: None
+Pros: Great company and benefits- top notch, great moral
+
+Cons: Sometimes too busy
+Too much management making decisions about things they have no experience in
+Advice: None
+Pros: Always busy
+Good if you enjoy travel
+
+Cons: Long working hours exceeding eight hours, physical work on the floor, working in dirty chemistry labs. Cleaning instruments with bleach that ruins clothes.
+Advice: None
+Pros: Payed travel, company car.
+
+Cons: Engineering managers are beyond stupid, and tanking the company.
+Advice: Throw out 'you-know-who' and his minion.
+Pros: Good pay and benefits, culture.
+
+Cons: A large company and it takes a long time to make decisions.
+Advice: None
+Pros: Stable and employees are treated with respect.  Reasonable bonus
+
+Cons: Promotions are based almost entirely on politics.
+Advice: None
+Pros: Good work environment. Progressive but organized.
+
+Cons: Quality group very conservative. Can make implementing change difficult.
+Advice: None
+Pros: Flexible work schedule , People Oreinted
+
+Cons: Work can be very hectic sometimes, but it is rewarding
+Advice: None
+Pros: Great benefits, great and friendly team to work with. Great field of work
+
+Cons: Poor company vision and strategy.  Too much turnover.
+Advice: None
+Pros: Good benefits and smart people
+
+Cons: Promotions given to the same people "boys club".
+Advice: None
+Pros: Good benefits and work life balance.
+
+Cons: Some processes could be streamlined better across business areas
+Advice: None
+Pros: Innovative medical value products and tactics for realization
+
+Cons: little opportunity for career advancement
+Advice: None
+Pros: good place to work at, good pay
+
+Cons: Not a lot of room for growth in the Wilmington, MA office
+Advice: None
+Pros: Great leadership, awesome company culture, and amazing benefits
+
+Cons: Hours of work.  Way too much
+Advice: Keep it real.
+Pros: Free food   Free diapers. And lots of coffee
+
+Cons: They just let people go without notice
+Advice: None
+Pros: The best thing about Roche is the salary and benefits
+
+Cons: Management makes decisions without involving their employees.
+Advice: Listen to your workers.
+Pros: Great Benefits Competitive Pay Amazing People
+
+Cons: Takeover of life sciences by Kapa has been bad for innovation
+Advice: None
+Pros: Smart people, good comp package, interesting work
+
+Cons: Work life balance is sometimes hard to manage
+Advice: Promote better work life balance
+Pros: Great company benefits and great coworkers
+
+Cons: No cons that I know of.
+Advice: None
+Pros: Independent work environment, a lot of training offered, laid back yet professional work environment.
+
+Cons: None that I can comment on
+Advice: None I can comment on
+Pros: Family Oriented company family fun
+
+Cons: Most of the development now on west coast
+Advice: None
+Pros: Good work culture and opportunity to grow
+
+Cons: Complex global structure takes some getting used to.
+Advice: None
+Pros: Great culture. Great benefits. Great management support.
+
+Cons: nothing I can think of
+Advice: None
+Pros: Forward thinking, innovative and push for continuous development and self improvement
+
+Cons: I can not think of any cons
+Advice: None
+Pros: Very Professional, paid well, great management
+
+Cons: Too decentralized and Indianapolis is poorly managed
+Advice: None
+Pros: Solid benefits, good 401k match.
+
+Cons: I can't complain at this time
+Advice: None
+Pros: Benefits are solid right off the bat
+
+Cons: Lots of management changes at the top
+Advice: None
+Pros: Great benefits, PTO and innovation
+
+Cons: Technology is not the best
+Advice: None
+Pros: Usually nice place. People nuce
+
+Cons: typical corporate style and process
+Advice: None
+Pros: Very good benefits for employees
+
+Cons: I did not see it
+Advice: None
+Pros: Really good company I would suggest it to everyone
+
+Cons: Slow career progression and heavily bureaucratic
+Advice: None
+Pros: Work life balance and benefits
+
+Cons: layoffs, bad business decisons,behind the curve
+Advice: None
+Pros: family oriented and great benefits
+
+Cons: none at the moment
+Advice: None
+Pros: Good work/life balance and interesting projects
+
+Cons: hard to find career development
+Advice: None
+Pros: medical, dental, and vision benefits were great
+
+Cons: Lack of communication is present occasionally.
+Advice: None
+Pros: Energetic, innovative, diverse and inspirational.
+
+Cons: Pay is below market average
+Advice: None
+Pros: Flexible, stable, mostly good people
+
+Cons: The recent transformation has brought a lot of hot air - big words, like agility, you make the difference, empowerment, etc are used completely out of balance. This is the biggest shame - now I see top paid leaders on stage that dont share any vision but mention that teams need to come up with vision and strategy etc .... so, why do we need them ? exactly, to produce a lot of smoke and big words....honestly, I dont know which box I ticked wrong in the yearly engagement survey (GEOS) that has made this rapid turn around. Yes, Roche used to have many processes, it was burocratic, etc but now I find it even worse.
+In terms of career - if you dont come from US / genentech, hardly any chance to grasp a senior role in GPS in the future - there is a strong network that is fostered!
+Advice: Please, take a detailed look at the operational level, and replace some senior functions immediately to manage a healthy turn around. And dont let your vision be blurred by diplomatic communication "This is the best place  to be ... I am so proud...etc" - why dont you do a quick ad hoc GEOS or similar survey ? Maybe I am wrong - but what I hear around the corridors I did not hear few years back
+Pros: Great pipeline, great people and talents. Used to like the culture a lot. Strong commitment in changing patients disease journey, outcomes, quality of life
+
+Cons: Barely anybody speaks English. Most of the employees, including payroll, do not speak English, even though I was told otherwise on the job interview, to the point where I was told multiple times to 'ask a colleague to translate' some official communication. Lots of career development is based on who was your university colleague or who your partner is.  Management lies, often publicly pretends they didn't hear about an issue while in reality it was raised with them a couple of weeks previously. They behave patronisingly, lie about the salaries (which are very poor comparing to other corporations in the city). Staff changes all the time and is not respected. I spent min. 10h at the office every day - out of which 9h was regular, as it included an obligatory 1h break. Horrible life-work balance.
+Advice: Stop treating people like children and servants. Start caring for them and treating them like employees of Roche instead of making them feel like they're worth nothing.
+Pros: Good benefits for Hungarian reality. Most of the TLs are horrible with people - just a few of them are good enough to list them in the 'pros' section, however they are pushed down by the higher management. Maybe the experience is different if you're a native Hungarian speaker.
+
+Cons: Diabetes care is a disaster zone at present, wholesale redundancies (50+ out of 140 staff) jobs awarded without due process to whomevers face fits, very poor staff moral due to uncertanty of role and financial situation, appaling behaviour by  some senior management who are  rude, conceited and incapable of perfoming role, ( or just unable to perform their role). senior management who boast about their salaries and the value of their expense account whilst people are being made redundant. very slow to market, new services and offerings 2-3 years late, massive market errosion,  not a place to work at present, steer clear as you wont/cant make a difference
+Advice: weed out the senior mangement who are conceited, arrogant and incapable. ensure that global products are fit for purpose and ready for the uk market, not 2 years late. products are no longer market leading, just also rans in a crowded market place which offer neither value nor technical advancement
+Pros: excellent supportive staff, nice offices, resonable pay and benefits,
+
+Cons: I don't find the culture to be particular high performing. In many cases I find many employees who have been in the company for long periods and seem to survive without having the necessary skills or willingness to acknowledge change is needed in the company and within themselves. Also there seems to be too many people in some functions, many of whom resist change to justify their existence. Also I find the salaries to not be terrible competitive. Also, as a multinational HQ, I would expect more prominence of English, however, there is still a german first culture for many communications, signage, and forms, this detracts international assignments. 
+
+The largest con I see is the highly decentralized structure, while some people think this is good, so far I have seen no real benefit particularly in support functions. The inefficiency and duplication, particularly in things like real estate management, finance is astounding.
+Advice: Question what really needs to be decentralized, vs. what should be managed as a group. Start with real estate and facility management.
+Pros: Pleasant, mostly friendly work environment. Most of my colleagues are friendly and want to do what is best. Workspace is generally nice and high quality. Budget for travel and training seems to be available if a business case is made.
+
+Cons: The Shared Service Center is still very young - only 3 years old - so the process are still yet to improve, and this is what we are working on altogether. "Rome wasn't built in a day." :)  It also then makes us an agile company! :)
+Advice: Keep the good work and to many more years at Roche !
+Pros: Waking up everyday knowing that I am eventually saving lives of others, or making it easiest to live, is a blessing. 
+My colleagues and managers are hard working , experienced, benevolent and very smart. They help me grow and improve. They also are very understanding and flexible. The most important is to reach our goals. The Team Building activities are legendary. I simply feel part of the Roche family! 
+The future of Roche GIS KL and the Shared Service Center is extremely promising. 
+The premises are very beautiful, healthy breakfast and unlimited fruits &amp; coffee/tea/chocolate everyday, plenty of other activities thanks to the Dream Team!  A lots of efforts are made to take care of us and I feel very lucky and grateful about it.
+
+Cons: Senior leaders are nearly invisible across the organization, very little transparency and lots of lip service to things like culture, diversity and leadership commitments without action or accountability. Often significant, unnecessary inflection points and wild swings of direction on teams as leaders come and go. HR is only there to support you until there is an issue and then they will always support the +1's and toss you aside.
+Advice: Take a hard look at people, practices and GEOS results, the environment globally is not getting better with the same issues persisting year after year. Get rid of those leaders that are so insecure they feel threatened by their colleagues or direct reports.
+Pros: Individual teams are often great made up of highly engaged colleagues that work hard and support each other to succeed. Benefits are better than the industry average and keep improving each year. Bonus payouts have been well above industry averages for several years.
+
+Cons: While the organization benefits from a highly educated workforce, internal local politics rule way too often. Local politics can help to a certain extent, but in some cases this is taken to extreme and moreover it happens in the detriment of the organization. Personal interests overrule the well-being of the organization. Some projects are given to people on the basis of personal relationships. Sometimes it feels middle management is playing a human size game of chess.
+Advice: None
+Pros: This organization is meant to survive and thrive the Industry 4.0. The values it stands for can definitely speak to the new generation of professionals entering workplace. Multi-site, multi- generational, multi-cultural, real efforts to maintain and boost gender diversity, etc.
+Networking place a crucial role in how career development happens, which can easily have a downside.
+
+Cons: - Promotions are not always happening based on actual skills and performance
+- As a result, working with some of the managers is challenging
+- Big corporation, meaning: has the advantages of it but also cons - procedures, processes, roles that could be cut with Occam's Razor, so be prepared for a lot of people approving/planning/executing everything - especially since it's in a highly regulated industry
+Advice: Make sure you always are promoting the people that indeed are the best ones for the job.
+Pros: - Products, doing something that helps society
+- Good comp (though what you negotiate at the beginning will have a big impact but that's true for most companies)
+- Possibilities to learn and grow, also to go abroad
+- Mature organization 
+-  Genentech
+
+Cons: - extremely political.
+- people focuses on networking to survive more than gaining content as this is more important to stay when reorganizing or changes are happening
+- all ideas and strategies are built by external consulting firms (BCG, Deloitte or Mckinsey) so it's more important to be able to have better comm skill (presentation) than being smart.
+- quietly hard working people don't get successful at Roche. Go do coffee and attend networking events. that's the way to keep your job at Roche.
+Advice: None
+Pros: - company provides great support for learning, development and other benefits
+- good support during reorganization or you are redundant
+- great source of information
+
+Cons: The only thing I would mention here is that some of the decisions tend to be slow (although this is my first SSC, so don't really have a base for comparison in the industry)
+Advice: None
+Pros: The culture in our team is welcoming and nurturing. The open-door is not just a policy but practice. Everybody is approachable and helpful. 
+
+You are given the chance to take part in many projects outside of your daily duties, this helps you network, grow and learn. This is actually encouraged but not forced.
+
+Many soft-skills training and function related advancement as well on the needs-basis.  
+
+The work time is very flexible with generous home office options for everyone.
+
+Cons: - Employer brand is not strong enough for now, many people have  not heard of Roche.
+Advice: Thank you for all the opportunities!
+Pros: - Good culture, people are generally very friendly &amp; sincere. Employees greet one another all times, regardless of position. 
+- Well-being of employees are highly prioritized. Healthy breakfast,  milk and fruits provided EVERYDAY. Plenty of engagement activities every week, at times too much. These activities do bring people closer together tho. 
+- Management practices an open culture, employees are encouraged to speak up.
+- As a SSC, I must say its' benefits are pretty attractive and competitive. 
+- Great purpose: Doing what patients need next. 
+- Overall, no regrets and happy to be part of this company.
+
+Cons: 1) due to the Greek financial crisis , a few years ago the company laid off many people so there is too much workload on those who remained , meaning not the best work life balance for some
+2) Open office space incredibly noisy , you just cannot work
+Advice: Keep on listening to the people at the lowest level of hierarchy....
+Pros: 1) The new German manager is a true leader with impeccable listening skills that has streamlined internal operations
+2)  Having worked for Roche is a passport for other companies 
+3)  You will get to learn about all the product lines  ,  an innovator , it is a school
+4)   While I was there , the CEO and the President had come to talk to us
+
+Cons: Salaries are not competitive, progression is based on likeability and who you know, alot of managers  unqualified technically therefore clueless about subject matter and can't support new starters. Alot of papering over the cracks rather than dealing with problems, too many meetings, primitive systems therefore poor data.  excel sheets used in conjunction as the systems aren't fit for purpose so alot of duplication.silos and  big disconnects between global and local teams doing the same thing, and there is even inconsistencies between global teams working on the same molecule.
+Advice: Listen to people's ideas and experiences, focus more on passion about the science and molecules. Experiences from outside of Roche can be invaluable and save you time.
+Pros: Nice facilities, all the tools you need to be productive are available, benefits good
+
+Cons: It’s really hard to get things done internally. There is little accountability and ownership of timelines. As a result it is ‚nice people’ who are considered good not the employees who really get things done. Political and not very focused on learning. Settled and rigid even though management try to implement massive changes to get things done faster. Too much focus on blaming vendors without taking responsibility and ownership for the internal mess.
+Advice: Recognize hard work and expertise. Promote accountability and learning. Simplify systems and procedures. Mean it. Shake it up. There are some old not so competent dead wood out there.
+Pros: Nice office vibe, good people, great portfolio.
+
+Cons: It claims to be in an exciting period of transition - trying to become agile and creative however this is being delivered on a budget 
+Appalling dated culture persists - all forms of discrimation overtly demonstrated by senior staff and widely tolerated/ignored (lean HR)
+Surrounded by very expensive places to live
+Recruitment and retention issues due to the above issues and recent redundancy program
+A number of staff promoted well beyond their level of ability also due to above
+Far too many badly managed internal staff moves leaving gaping holes in the structure
+Agile principles inexpertly and badly applied - leading to inconsistent practice. Combined with the other factors something of a chaotic shambles ...
+Advice: *** Well resourced diversity training &amp; transition supporting required stat ***
+Pros: Large employer
+Reasonable benefits package (- although an expensive location so not so great)
+Some Californian influence, sleep pods, subsidised food etc.
+
+Cons: A lot of people bring a lot of opinions and individuals may use the great platform of the company to play their own games but this can happen in small or creative companies too
+Advice: Use a better HR process in order to bring talented people. Take care of diversity and not just talk about it. Move away from "female-quote" and pick the right people for the right job(s). Listen to your middle-management, they usually do the "dirty work".
+Pros: Wonderful company with so many employee benefits. Many options and places to work and if you can cope with the flavor of a global company you are all set.
+
+Cons: As a result of success parts of the commercial organisation in particular have become to big, and at times getting things done relies on going through multiple committees and approvals.
+Advice: Continue to focus on changing the mindset of the organisation to do things faster with less hassle.
+Pros: The quality of people Roche attracts is amazing, over the 7 years I worked worked with intelligent pragmatic individuals.
+
+Plenty of  career opportunities, it is a big company, being mobile is however important to unlocking your way up the ladder.
+
+A lot of training and focus on developing leaders.
+
+Cons: PROCURE TO PAY DEPARTMAENT KULALA LUMPUR MALAYSIA.
+there is no human behaviour.worst behaviour then animal.if someone stuck in any problem will never go from there but will be get out or exist from company.there is racism unfair not equal treat.there is no standard business policy in the company.it better work in small enterprise atleast have respect and better human behaviour.there are a lot of good companies and shared service for employee.im just wonder statement of company is doing now what patient  need next but inside company have racism favoritism biasness how can care patient where cant care employee. think millions time apply any job here.
+Advice: impliment is standard of business conduct policy ASAP who will safe employee withou racism favoritism and biasness.
+Pros: THERE IS NO EVEN GOOD THING.
+
+Cons: Some of the company structures and bureaucracy are quite limiting. You should expect a super tanker - it takes a long time to change course, start initiatives etc.
+Advice: Scale back on the use of corporate jargon and management fads, both due to its lack of clarity as well as for its tedium.
+Pros: It's a professional environment and they treat their employees well. If you do well in your job, you will have a lot of different opportunities in the organization, as long as you are mobile or at HQ in Basel.
+
+Cons: Most of the time, promotion to managerial roles are not based on capabilities, but on service duration.Longer you are in the company, better is your chance.  This is resulting in mismanagement and frustration in teams.
+Advice: Kindly listen to feedback from team members.
+360 degree feedback system might help. Please allow 
+a) Team to rate  their  line managers (preferably anonymous, to avoid conflict). 
+b) Peers to rate the line managers to  reduce the trouble making attitude and improve the collaboration among teams.
+Pros: Good work opportunities,Good Colleagues, Average work pressure. Good work-life balance.
+
+Cons: Career development depends on your personal relation with the management.
+Lack of honesty and transparency from the management.
+Vital decisions about your role and career are taken without discussing it with the employer.
+Lack of stability &amp; high turn over since 2012.
+Lack of "genuine" diversity.
+Promotions are based on personal relataions, like &amp; dislike, &amp; not based on your performance and achievements.
+Lack of experience and maturity from certain employees at vital positions.
+Your  "NATIONALITY" plays a big role in your development.
+Advice: None
+Pros: Great Products  to work with.
+Compensation and allowances.
+Bonus.
+Was The Best Copmany to work for until 2012.
+
+Cons: This is not the place for you if...
+- You do not want accountability for what you do
+- You do not have a growth mindset
+- You do not take charge of your own development
+Advice: - Continue to invest in human capital
+- Maintain  the strong product pipeline
+- Keep up the reputation as a sustainable company with integrity
+Pros: - Meaningful work with a clear sense of purpose
+- Flexible work arrangements, good infrastructure and work-life integration
+- Opportunity to shape your own career with ample growth opportunities within the company
+- Great office environment at a lively location
+- Supportive colleagues and a thriving community
+
+Cons: old-fashioned, swiss-dominated leadership - some might say a "good old boys club"; unclear strategy wrt personalized healthcare; constant small reorganizations - slowly been pulling off the bandaid for years, rather than just yank it off --&gt; causing low morale; code of conduct adherence seems to be optional for some senior leaders...
+Advice: Take strategy communication more seriously; be more honest, bold and forthright about reorganizing the company;
+Pros: Good and always improving office environment; really competitive pay and benefits; in most places a collegial work environment; corporate with a conscience; I love my team!
+
+Cons: Departmental processes need to be less complex and more organized, but this is something that's already being worked on. Other than that, not much!
+Advice: Continue to keep site staff in the loop with up and coming goals, accomplishments and organizational updates.
+Pros: The company has a wonderful corporate culture at the Mississauga campus. They encourage employee wellness and promote social activities, and are flexible and accommodating when it comes to work-life balance. The campus is beautifully constructed with lots of natural light, adaptive work stations, a full cafeteria, gym, and casual seating areas.
+
+Cons: Extremely political work environment.
+Truth is a negotiable concept.
+Upper management are very disconnected from the realities of the business.
+R&amp;D has had very limited success in Europe (luckily Genentech &amp; Chugai are effective).
+Advice: Tone down the inspirational leader emphasis and focus more on the basics.
+Avoid the bureaucratic creep of box ticking.
+Your career advancement should not be your sole focus.
+Pros: Substantial resources
+Good reputation among physicians
+Opportunities for development
+Adept at identifying takeover targets
+
+Cons: Management in Argentina... where to start... it’s a boys club.
+Don’t attempt to think on your own, just lower your head and say yes to everything, and don’t ever think of exposing their flaws. You will be the outcast and they will look for any excuse to send you off.
+It’s a pity that people still think Roche is a good place to work.
+It is not. They have a tyranical policy on which you either are in or you’re out.
+Advice: Have the Swiss get rid of top management and start taking care of people who actually do instead of just being there making contacts and see how to backstab others.
+Pros: Nice wording, messaging and offices
+
+Cons: Can be a very political organisation, and some leaders simply do not walk the talk when it comes to the leadership commitments.
+A change in global head can literally change how you are valued.
+Multiple organisation changes and a plethora of initiatives seemed to have little impact in terms of simplifying and streamlining.
+Advice: None
+Pros: Fantastic benefits and financial rewards
+Plenty of opportunities to develop or move to new roles
+Modern working environment 
+Values/Leadership commitments set a high standard
+
+Cons: A lot of politics
+Advice: It’s a nice place to work if you don’t mind being watched by the HR. It amazed me on how the HR leadership and the way they work.
+- no genuine interest in taking care of employees 
+- no empathy, the H= Hostile instead of Human
+- “Broadcaster” (unprofessional)
+- the executives are trained as messenger
+- bad in receiving constructive feedback
+- they avoid emails. Emails are considered formal request ... making them responsible (most thing will be pushed away)
+- benefits are not compatible with other sites
+
+If the company cares about employees’ mental health, you may want to check it out.
+Pros: Great learning place for junior positions
+
+Cons: More and more overseas employees taken the management positions. They don't understand the local market but not listen to local staff. They are very short term, only want to get all the benefits from Hong Kong, gain Asia experience and then be promoted to other big countries.
+Advice: Please be humble and listen to employees. Respect people in all levels.
+Pros: Very resourceful, good colleagues and products
+
+Cons: Old school managers unwilling to change, Bad HR,  online systems that are bodged
+Advice: Strip the top management team and start again.  It needs a complete refresh rather than the same old people getting promoted to support the same old ideas.
+
+It used to be a brilliant place to work where people thrived but has been dragged down.
+Pros: Working hours , international travel, products
+
+Cons: Roche made me realize that absolutely EVERYTHING in Roche  depends on the chemistry and the daily mood of the day with your manager. It did not turn out very well with sick leaves,  disagreements and ultimately leave of the company.
+Advice: Please evaluate managers from a character and clinical perspective as well and not only from a pure professional perspective.
+Pros: Roche HQ in Basel is the most elegant and well-equipped offices I ever seen. Everything is of the highest quality; the restaurants, the meeting rooms etc.  The salary benefits are great!
+
+Cons: There are no cons to working here!
+Advice: Keep up the great work.
+Pros: I am so happy to be a part of this great team. I am a newer employee and I have found that my Manager and colleagues are so supportive and helpful to my growth in this role. Management is open and transparent with goals/objectives and really supportive of One Roche. 
+
+Great benefits, compensation and adaptive work environment.
+
+I love working at my dream job!
+
+Cons: Too much of internal marketing and showbiz by each employee; not ideal for silent genuine workers who are media shy and believe in work speaking for himself; Introspection required - Are they genuinely celebrate diversity
+Advice: Organization include Leadership team need to learn to genuinely celebrate diversity
+Rather than just social media presence, actual work with cutomer's need to be emphasized
+Pros: Patient centricity; Culture and Product Portfolio including pipeline
+
+Cons: Some bureaucracy that hinder fast development (mostly due to being a large corporate).
+Due to the very forgiving nature, you can end up with incompetent colleagues every now and then who are not laid off easily.
+Advice: None
+Pros: A healthy work environment.
+Good pay.
+Appreciation of effort.
+Very nice offices.
+The tasks are very diverse and changing so you don't get bored.
+A focus on integrity rather than navigating law/ethics loopholes.
+
+Cons: None for now based on my years of service in there!
+Advice: Keep doing what you are doing for your employees and the patients!
+Pros: Great Place to work, to be honest this is the first time in my entire career i see the leaders here give so much importance to employees and HR takes a lot of initiatives to provide the best for their employees
+
+Cons: Regarding software development, it's not that easy to adopt new technologies.
+Advice: Keep your eyes focused on the good talents that you already have instead of trying bring "rockstars" who won't even warm their seats for more than 6 months.
+Pros: Lots of benefits, a great culture, a good work and life balance, a very team focused company and a great deal of investment on the employees.
+
+Cons: The development path is not competitive as like in similar huge firms, best fit for someone who seek a steady way of growth
+Advice: Improve efficiency rather than hiring bunches of people and make the structure even bigger
+Pros: Excellent company for it's reputation in both pharma and dia industry,  the company cares about people and respect a diversified culture
+
+Cons: Sant Cugat Digital Hub (just talking about my experience there) :
+This site does not take care of employees. It is not the mission of the Site to keep people / Talent. That explains the high grade of people rotation. Every month people are leaving and new ones are coming. 
+
+There is a big lack of structure, this makes difficult to work for the department and to understand what they expect from you.
+
+Flexibility concept of this site have a total different meaning here many times. It means that you need to be flexible for working at 18.00, 19.00, 20.00, 22.00, etc. They sell it as something good but it is not the case because of that reason. 
+
+ Even though they say the opposite and they really believe it, there is still the culture of, if your boss is in the office you must stay in the office till he leaves. The Digital Hub and Diabetes in general works like a big Silo. This means that if you are expecting to be able to make a career from here forget about it. Maybe Roche Diagnostics (in San Cugat as well) it is different and it is worth to try.
+ 
+If you want to live in Barcelona, then it will take at least 1hour by public transport to reach the site. It does not matter where you live in the city. At the end of the day it always take 1 hour (forget about the car because of traffic jams).
+
+Instability due to lays off planned in US and Germany (Roche Diabetes)
+Advice: You have to change everything or if not you will lose the site. Basel gave you a great opportunity, you should not throw it away. Learn how to treat people, try to bring Roche Culture to the Site -  which I am pretty sure has many good values. Try to keep the knowledge in house instead of just hiring externals. If you dont want that people learn while working  they will leave.
+Pros: I dont see any apart from colleagues. They are really nice and willing to help at any time.  All in all and from my experience, I would just advise not to work in the site (not in Roche as a company but just in this location)
+
+Cons: Very process driven but company is aware of their pitfalls and looking at ways to work more agile. May be difficult at times due to persons working in the company for numerous number of years so resistant to change.
+Advice: Continue listening to employees
+Pros: Flexible working from home, little micromanaging, agile way of work
+
+Cons: Recent Budapest SSC Senior Management is terrible. The very few still valuable is being sent away with various "created" reasons. They are building a Kingdom with their servants. They are destroying the values built during 13 years. I hated to go to work this year, as everything  is so false now.
+Advice: Be honest!  People are fed up your  lies, communicating false results and no transparency at all, despite the communication. Lies will not engage anyone.
+Pros: The Company Roche, in general os ok.
+
+Cons: As organization is still new (just celebrated 3 year anniversary) there is still work to do to integrate new employees into the Roche culture. This is expected in any new set up with substantial growth.
+Advice: Keep up the great work
+Pros: Growing organization with strong management team that empowers and provides opportunities to team members across the site
+
+Cons: Team leader miserable  , gives you no motivation
+Advice: The team leader was miserable on a daily basis, she would never ask how your day was. She’s needs to motivate not make people feel miserable
+Pros: Nice office , gym, canteen , lots of days out . Great opportunities
+
+Cons: Management are not fair, they can be kind to you but talk bad things about you to others.
+Advice: Choose qualified team leaders instead of amateurs! Listen to the team and give them the opportunity to review their Team leader.
+Pros: Few job during month, there are days when there are no tasks at all. 2 home office / week. Annual bonus.
+
+Cons: senior leaders playing musical chair, little collaboration among peers,  hierarchical, white German or English speaking male dominant society, few  managers have  interest in developing people
+Advice: Care about employees as much as patients.  Stop being pretentious
+Pros: Decent salary, good pension plan
+
+Cons: Coexistance of old and new styles sometimes slows down transformation. But it does not prevent it to happen!
+Advice: Keep up this open style
+Pros: Developing people matters at Roche as well as growing effective leaders.
+Integrity and compliance is an absolute priority as it should be companie. At Roche we live it!
+
+Cons: For a software engineer it might not be the best company compared to other pure software development companies. There is not enough software development on site.
+Advice: None
+Pros: As a global company there are a lot of career development opportunities.
+Job rotations are taken seriously by the company.
+
+Cons: The organization is complex, making change is very difficult and extremely slow
+The company has not implemented Agile, everything is a large waterfall planning
+Collaboration is very difficult with other groups because each one works inside its own organizational space, instead of working together
+Culture is very conservative
+Advice: Implement changes
+Pros: Colleagues are knowledgeable about the product and helpful
+Work schedule flexibility
+
+Cons: A lot of uncertainty, resulting in a lot of reorganizations including a lot of job losses including mine which was outsourced to a cheaper location
+Advice: Stop losing good people for highly educated youngsters without any real life experiences
+Pros: Good employer to work for, good benefits and work life balance.
+
+Cons: Try not to take the purpose of the company home with you, and ensure you switch off from the great work we are doing, so you can keep coming back and bringing your best to the challenges we face.
+Advice: None
+Pros: Impact on the world you have, and the inclusive culture that generates a sense of belonging and caring.
+
+Cons: The whole company is a mess
+No job security
+Senior leadership doesn’t have any clue what they are doing/ didn’t walk the talk
+Senior Leadership just talk but no action
+No empathy
+No sense of belonging
+Advice: Please reconsider why you are such a good company at the first place
+Pros: Lots and lots of benefits
+Generally good colleagues
+
+Cons: Don’t see any at the moment as it is know to be best for a great culture
+Advice: None
+Pros: The emphasis on people is great - they want you to have a great experience with Roche even if you might not get the role. Everyone in the process is very professional and friendly.
+
+Cons: They tolerate bullying, which unfortunately can override all the positives. Interesting to see that bullying comes up in a lot of these reviews, too.
+Advice: None
+Pros: Great office, flexible working, some amazing people, fairly informal work culture
+
+Cons: Processes and approach to market could be improved. Heavy reliance on brand equity.
+Advice: Focus on making the organisation world-class through processes and approach to market and reduce the heavy reliance on brand equity as the key driver for market differentiation.
+Pros: Great brand. High commitment to innovation.
+
+Cons: - many political decisions are taken which could lead to frustrations
+Advice: - reduce more hierarchies and release from employees who don't have the right mindset.
+Pros: - develop in several areas in a short amount of time 
+- moving towards flat hierarchies, agile ways of working 
+- diverse, international teams
+- fair salary
+
+Cons: The local organization is self centered and tunnel visioned.
+Advice: The international organization must be more aware of the kind of people they bring into leadership positions.
+Pros: The international organization is passionate about delivering solutions for patients in need.
+
+Cons: The office space is old, hot desk is a mess, processes are slow, a lot of talking but no action. Lots of backstabbers, no one knows what they are doing, awful managers, they would hire any one, zero training if you are at welwyn site. They like to pay staff min compare to other sites. Be aware they think you are cheap if you are recruited there.
+Advice: Sort out your managers
+Pros: Few professionals people, some nice activities in the summer
+
+Cons: sometimes can be slow with implementing new and transformative things
+Advice: continue delegating smaller teams with more authority and encouraging them to be autonomous in desicion-making
+Pros: amazing company culture, very strong financial situation, dedicated and heavily investing in science to make an impact on patients' lives
+
+Cons: lot of feedback loops hamper decision making
+Advice: S/w design n dev could not be first time right. Iterative dev n testing is the need of the hour
+Pros: Detail oriented, perfectionist attitude of SMEs, good work life balance
+
+Cons: Very little opportunity for career growth. political nature in the office is very noticeable.  stressful job for after sales support.
+Advice: None
+Pros: Number 1 diagnostics company in the world, provides personalized health care to patients. marked as a premium brand all over the world.
+
+Cons: Sometimes you need to have great political skills to move forward in your career
+Advice: None
+Pros: Lots of opportunities
+Interesting and changing environment
+A supported company in terms of education and training
+Nice people around
+
+Cons: An extremely strong tendency to get weak formable people on board. „You either bend or break“-spirit in many teams. Lots of politics. Values exist only on paper.
+Advice: None
+Pros: International amibiance, good cantine, flexible working hours
+
+Cons: Slow processes and inflexibility in the way the company operates / a huge machine that moves slowly.
+Advice: More flexibility toward change and more focus on building strong teams
+Pros: fair pay, great culture, talented people.
+
+Cons: hughe transformation, technical issues with certain processes
+Advice: More coherency and a bit more organized processes (from documents signature to global SOPs)
+Pros: Competitive salaries, good working conditions - nice office, lots of training, abilities to grow within the company
+
+Cons: Some people have a very local mindset and do not have that "systems thinking"
+Decentralised still
+Budget Management could be better
+Advice: Hold people accountable when they continuously do not deliver
+Pros: Great speak up culture
+Leaders NOT bosses
+People want to work together
+
+Cons: Management team is out of touch with employees.
+Advice: Establish better connection with employees. Will improve productivity and atmosphere.
+Pros: Opportunity for advancement, diversity in tasks, nice buildings and environment
+
+Cons: Difficult rotation into the business
+Advice: Set up bridges for auditors for their next roles in the business
+Pros: Exposure to the business
+Good work life balance
+
+Cons: Political environment, no respect people, no focus on patient first
+Advice: None
+Pros: I’m a Sr.DM right now. I have 4 years experience in First Line Sale Manager in 2 big international companies
+
+Cons: In comparison to other pharma companies very low salaries.
+Advice: Try to keep good workers. All employers should have permanent working contract.
+Pros: Professional team, leadership team  eager to learn and always supportive. Very pleasant working atmosphere.
+
+Cons: No room for growth and salary adjustments largely based on manager perception, thus room for favoritism
+Advice: Treat all employees equally and objectively
+Pros: Great medical cover
+Great team members
+
+Cons: Not a good environment for your people, no room to grow
+Advice: None
+Pros: Working with talent people there
+Nice working environment
+People are willing to share knowledge
+work life balance
+
+Cons: Can be overwehlming. Load work can be very heavy. Not so much time to learn. Is either swim or drawn
+Advice: None
+Pros: Collaboration spirit and passion. Access to hundreds of different expertise
+
+Cons: -procedures can be long, but hej we are 95‘000 employees worldwide
+Advice: better less but more efficient meetings
+Pros: -open culture &amp; cooperative environment
+-interesting challenges and the possibility to make an impact
+-international exchange
+-attractive infrastructure and benefits
+
+Cons: salary a bit lower and we need time to take som responsabilities
+Advice: None
+Pros: Great company, good partners and facilities to learn all the things you need and having help from everyone
+
+Cons: Poor communication between departments. Progression can be difficult
+Advice: Look to employees that are looking for more of a challenge and progression opportunities
+Pros: Great culture, supportive everyone wants you to succeed.
+
+Cons: - Political
+- Hard work does not pays off
+- Promotions and mobility
+Advice: None
+Pros: Perks, flexibility at work, respect from managers and peers
+
+Cons: It is not so easy to change the position inside the company, the possibility of growth is relative
+Advice: The management is one of the best
+Pros: Good company, good salary with a lot of benefits
+
+Cons: Takes forever to do anything. Coffee is more important than work. Politics...
+Advice: Be agile! Mean it...
+Pros: Great learnings and exposure to many great people. Best network ever.
+
+Cons: - Not enough candor by management.
+Advice: None
+Pros: - Passionate employees, focusing on saving lives
+- Flexible work culture, openness and respect
+-Lots of opportunities for mobility and growth
+
+Cons: Ocasionally scattered organization among/between teams
+Advice: None
+Pros: Good team, willing to help, teach and explain. Do not take your 'intern' work for granted instead give value to every contribution you make
+
+Cons: Very process driven. Slow to implement changes.
+Advice: Listen to your work force and value their input
+Pros: Great set of co-workers. A real passion for making a difference to people with diabetes.
+
+Cons: Huge company, therefore slow at going forward
+Advice: None
+Pros: Flexible working hours, can do over hours and use them for more vacation
+Can learn a lot, easy to connect with new people, good company culture
+
+Cons: Hard to get promoted.  Bonus is low
+Advice: Try to improve talent retention
+Pros: Great atmosphere, good social benefits, working culture is good too
+
+Cons: Could be a little impersonal as is the case for big companies
+Instability of the industry
+Advice: None
+Pros: Free learning and training modules
+Very learned, educated, well-mannered staff
+
+Cons: difficult to shake this heavy machine
+depending on your department career development may be limited
+Advice: really apply empowerment concept
+Pros: international working environment and innovative products
+
+Cons: It is still a family business style and sometimes it may be conservative.
+Advice: None
+Pros: Roche is quite dedicated its efforts in oncology area and in the middle of digital transformation.
+
+Cons: Complicated process. 
+Some middle managers without a vision.
+Technical career path is not well defined.
+Advice: None
+Pros: Great working environment. 
+Nice and competitive colleagues. 
+Interesting mission and task.
+
+Cons: Lack of clarity around future opportunities and salary levels
+Advice: Keep listening to employees
+Pros: Rarely does a company really mean empowerment and autonomy but Roche HK is really living by that!
+
+Cons: There are no cons that I can’t think of - I love working for this company
+Advice: Keep doing what you are doing!
+Pros: Career development, great management, manu benefits, amazing coworkers, global experience
+
+Cons: The pressure is not much, there are a lot of activities organizing for employees engagement and team work
+Advice: None
+Pros: Work-Life balance is the great thing to work at Roche
+
+Cons: No cons, could not fault the place.
+Advice: None
+Pros: Excellent place to be, the company was very welcoming and kind. Lovely atmosphere to work in and would recommend anyone working there.
+
+Cons: Poisonous powerfulconnections in top management
+Advice: Make sure people can deliver and not just talk
+Pros: Great offerings and colleagues- fantastic portfolio
+
+Cons: Mature business with less room for promotion
+Advice: None
+Pros: Good benefit with business trip each year, medical and life insurance covering family members, bonus for healthcare products, or even sports shoes
+
+Cons: Slow and weak on processes
+Advice: Should focus more on people and career development
+Pros: Inspiring work, positive impact for patients, high focus on sustainability
+
+Cons: Benefits  were lower compared to the average of the industry but considered good for a person starting his/her professional carreer
+Advice: -
+Pros: Nice office, poasibilities to learn and develeo
+
+Cons: Slow moving in transformations and new hiring
+Advice: Be open to remote work. It's the future.
+Pros: The science. The people are so intelligent and caring about their colleagues and their work.
+
+Cons: A giant company which everything is slow and collaboration is not easy.
+Advice: None
+Pros: A multi national company who serves Patients healthcare as its noble purpose
+
+Cons: Scientific environment, to times narrow minded
+Advice: Do the change you believe in, don't wait for it to happened.
+Pros: Great benefits, strong culture, want to empower people
+
+Cons: Hierarchy and structure very present, not a problem when there is a good relationship with line manager
+Advice: None
+Pros: Plenty of on-site facilities, very structured, promotes oppertunity in the workplace
+
+Cons: Flat structure leads to minimal opportunities for advancement
+Advice: No advice, great place to work
+Pros: well paid, flexible working hours and supportive management, team morale is high.
+
+Cons: Nothing much to complain as they are on track
+Advice: Keep going with the positions and strategies
+Pros: System, employee benefits, people management
+
+Cons: Career opportunities, medium range salaries, discrimination on promotions
+Advice: Truly manage talent on the what's and the HOWS!
+Pros: Work life balance, global dimension, company name
+
+Cons: Lack of empathy from line manager
+Advice: Exit interview should happen for anyone leaving who has been there longer than 10 years
+Pros: Great relationships with other
+
+Cons: Can get a bureaucratic only because of the company's sheer size
+Advice: None
+Pros: Great people, excellent work-life balance, everyone is left to themselves to be responsible and meet deadlines
+
+Cons: Reorgs every now and then, decision making slow.
+Advice: None
+Pros: Great perks (health insurance, flexibility for kindergarten, free parking). Good environment.
+
+Cons: Maybe still too hierarchical and not agile
+Advice: None
+Pros: Great base pay, good opportunities to grow within the company, excellent life work balance
+
+Cons: No words to write for cons.
+Advice: None
+Pros: Because of ROCHE I am able to help around 15K people to manage and monitor their diabetes and  stay safe.
+
+Cons: Work presure , insentives delayed
+Advice: Check on RM, ASM AND EXECUTIVE
+Pros: Value individuals, good pay , Market leader Brand leader, customer convenient
+
+Cons: Working happy or unhappy depend on which group you're in. In some group, management is bad.
+Advice: None
+Pros: good company, open-minded, benefit is also good
+
+Cons: Poor work life balance within the company but culture is slowly evolving for the better.
+Advice: None
+Pros: Competitive and ambitious team, yet highly collaborative.
+
+Cons: Internal processes can take longer than in other companies, due to strict adherence to policies
+Advice: None
+Pros: Learning opportunities, quality employment with great benefits
+
+Cons: PhD grads who don't understand anything from medical and clinical science lead and don't listen to others
+Advice: None
+Pros: not a very bad salary
+
+Cons: Management does not like women with children &amp; very political
+Advice: None
+Pros: Good salary and benefit system
+
+Cons: Bullying is common unfortunately. Work life balance isn’t really there
+Advice: None
+Pros: Great benefit and amazing offence
+
+Cons: Silos between the global teams. Locally, great collaboration
+Advice: None
+Pros: they have established a new SSC in KL. Wonderful experience with great challenges to solve &amp; gain experience
+
+Cons: Possibly gives you an unrealistic expectation of business with how freely they spend money
+Advice: None
+Pros: Training and development is important to roche. They value their employees
+
+Cons: Complex processes; Politics; Lack of clear direction (too many priorities)
+Advice: Continue encouraging simplification and removal of politics
+Pros: People; Development opportunities; Work environment
+
+Cons: processes, processes and more processes
+Advice: Remove processes and adapt to the new market challenges
+Pros: Good benefits: day offs, training
+
+Cons: Leaders support political agendas, is a company where only the image is considered and not the skills of the people. Leaders even support non ethical practices. To get hired from other laboratories, they investigate you for having worked at Roche.
+Advice: Change management, hire new management that fosters new generation practices.
+Pros: Payment within the industry, good benefits
+
+Cons: None can think of, maybe the location but that would be it!
+Advice: None
+Pros: All the benefits, annual leave, flexi working. Great work/life balance.
+
+Cons: Political and complicated to work across the teams
+Advice: None
+Pros: Strong RnD and good benefit program
+
+Cons: Inequality and biased: Some employee gets extra benefits though having similar qualifications and strength.
+Advice: None
+Pros: 1. Good environment
+2. Vast scope of learning
+
+Cons: Corrupt senior management, extremely political and fearful culture, values aren’t truly lived. Not enough focus on the science and too much incompetence.
+Advice: Lost cause. Radical changes needed across the board.
+Pros: At one point a thriving company with tonnes of opportunity. People were innovative, and worked together to make a difference.
+
+Cons: lack of leadership in some areas
+poor management in some areas
+Genentech/Roche cultures are sometimes clashing
+Advice: None
+Pros: good working culture
+brilliant people
+work life balance can be achieved
+
+Cons: Restructures produce an unsettled vibe and some staff are resentful
+Advice: None
+Pros: Great people, all opinions from all staff valued, great benefits
+
+Cons: Slow uptake of new technology, very political environment
+Advice: Encourage change and drive it forward
+Pros: Good salary and focus on people
+
+Cons: Managing large count of customers
+Advice: None
+Pros: Experience and challenges and honesty
+
+Cons: No clarity on extensions and arbitrary terminations
+Advice: None
+Pros: Well supported RPF program in terms of resources. The pay is good.
+
+Cons: sometimes you have to work over nights with global colleagues
+Advice: None
+Pros: high social reputation from local communities
+
+Cons: Poor Benefits & lack of trainings in English language.
+Advice: None
+Pros: Environment, purpose, personal and professional development
+
+Cons: Nothing much to say, great place in every respect.
+Advice: None
+Pros: Employee protection and satisfaction.
+Great learning experience
+
+Cons: It is a job limited in time
+Advice: None
+Pros: Networking possibilities, acquire knowledge of the industry enviroment, nice working atmosphere
+
+Cons: Need to increase parking facilities
+Advice: None
+Pros: Nice wroking atmosphere.
+Digital HR and IT service and easy access.
+Good canteen facility.
+Work time flexibility.
+
+Cons: Nothing to say about it
+Advice: Keep on inspiring the team
+Pros: Purpose, horizontal chances (job rotation incentives), high tech
+
+Cons: efforts and deliveries not much appreciated by others
+Advice: None
+Pros: a cross-functional role very interactive with other stakeholders
+
+Cons: It has mostly a conservative atmosphere so might not be tempting for young people.
+Advice: None
+Pros: Very nice and intelligent people
+
+Cons: organizational changes happen and it causes loss of your job.
+Advice: None
+Pros: Working in headquarter in Basel has lots of good  benefits
+
+Cons: - Lots of different corporate processes (f.e. setting goals, participating in extra activities)
+Advice: None
+Pros: - Stable employment
+- Development opportunities
+
+Cons: Toxic environment and favoritism in the culture
+Advice: None
+Pros: Diverse culture and very good benefits
+
+Cons: Constant lay offs and challenging work environment
+Advice: Provide more structure
+Pros: Good compensation and opportunity to learn
+
+Cons: No work life balance nmore admin works
+Advice: Please accept the change
+Pros: Good Salary and benefits. Many HR policy
+
+Cons: Global company therefore sometimes difficult with late meetings
+Advice: None
+Pros: Amazing place to work. Great work life balance.
+
+Cons: Too much politics, conservative, slow moving,  not transparent
+Advice: None
+Pros: Salary, development, jobs within the company, benefits
+
+Cons: Unorganised systems and IT.
+Trackers for trackers.
+Advice: None
+Pros: great opportunities to move around and grow within
+
+Cons: A big company that get sometimes very hierarchical
+Advice: None
+Pros: A nice and respectful work environment
+
+Cons: Lack of career development
+Advice: None
+Pros: Great company to work at with diverse culture. Practicing agile approach for project
+
+Cons: I have no negative point.
+Advice: None
+Pros: Pleasant environment, gives all the necessary tools for the development of your work.
+
+Cons: Can be silo’d, arbitrary hierarchy but they are trying to foster a flat organizational system
+Advice: None
+Pros: Culture, management support, development opportunities
+
+Cons: For me only the way.
+I have 70km to go at work
+Advice: None
+Pros: You can improve you on a great work placr
+
+Cons: a lot of processes (but mandatory and important in terms of compliance)
+Advice: None
+Pros: culture, values
+employee development, (international) career opportunities
+innovation, quality of our products
+
+Cons: I have no cons to comment
+Advice: Excellent vision and portfolio
+Pros: Overall Conditions; Values and products
+
+Cons: Nothing found, they are working good
+Advice: Keep up the good work
+Pros: Teamwork and mentorship, career advise and counsiling
+
+Cons: Team work to protect populations from diseases
+Advice: Discover new skills
+Pros: Contributing to the improvement of healthcare
+
+Cons: Location is far from a place to live in
+Advice: None
+Pros: Good salary, good ambient, nice facilities
+
+Cons: Poor management decisions. Not easy to develop.
+Advice: None
+Pros: Great idea of the future world of medicine.
+
+Cons: Poor environment and management, political and inefficient organization
+Advice: None
+Pros: Nice pay and nice benefits
+
+Cons: No negative comments to share
+Advice: None
+Pros: - flexible hours
+- very flexible and understanding for parents
+- friendly and supportive environment
+
+Cons: Internal politics, Career advancement might be difficult, Long hours
+Advice: None
+Pros: Great benefits, Interesting work, Learning opportunities, Nice colleagues
+
+Cons: The positions are sometimes to specific and the employees too specialised
+Advice: None
+Pros: International, diverse, agile, innovative, leader
+
+Cons: No clear career path
+The salary are a little under the market
+Advice: None
+Pros: Grace place to work. Mood
+
+Cons: With Roche you can have secured future in job
+Advice: None
+Pros: Slow in decision making and implementing change.
+
+Cons: Consensus is encouraged at all times but can slow decision making.
+Advice: None
+Pros: Patient first, strong ethics and great science
+
+Cons: not very high salary even including benefits
+Advice: None
+Pros: experienced people, work culture, the office, technical meetings
+
+Cons: Not many. The canteen is expensive!
+Advice: None
+Pros: Good culture, good leadership — a fun and meaningful place to work.
+
+Cons: Things take time to implement
+Advice: None
+Pros: Great focus on people and career development
+
+Cons: I don’t think there are cons to work for Roche
+Advice: None
+Pros: - Workplace
+- People
+- Benefits
+- Life work balance
+-
+
+Cons: No peer2peer reviews, some incompetent colleagues
+Advice: None
+Pros: Interesting project, new technologies, not too much pressure
+
+Cons: many meetings, 
+sometimes annoying corporate bureaucracy
+Advice: None
+Pros: people, 
+atmosphere, 
+culture, 
+flexibility, 
+office
+
+Cons: Long decision making process, many layers to align
+Advice: None
+Pros: Good compensation, great pipeline and medical value
+
+Cons: no significant cons come to mind
+Advice: None
+Pros: Overall purpose to help patients, and the company culture
+
+Cons: The distance from home to the office
+Advice: None
+Pros: It is an innovative, qualitative and very patient centric company
+
+Cons: management is sometime complex and not clear
+Advice: None
+Pros: autonomy, employee is key , nice office
+
+Cons: Underpaid for long hours and title
+Advice: None
+Pros: Good benefits,  global company and culture
+
+Cons: I do not see any
+Advice: None
+Pros: The best place to work and advance in your career
+
+Cons: As such not found any.
+Advice: NA
+Pros: Excellent company &amp; employee friendly policies &amp; environment.
+
+Cons: Global time zones can be challenging, especially long term.
+Advice: None
+Pros: Innovation, international, well supported, rewarding
+
+Cons: Current lack of junior engineer position in Malaysia
+Advice: None
+Pros: Good Benefits and Work life balance
+
+Cons: No cons about the Roche company
+Advice: Nothing
+Pros: Very good Managers and supportive colleagues
+
+Cons: Not High Salary,  you cannot develop your self
+Advice: None
+Pros: Reliable,  best place to work, Friendly
+
+Cons: Complexity of working in a large pharma company.
+Advice: None
+Pros: The people, the culture and the diversity
+
+Cons: must improve in consistency and integration
+Advice: None
+Pros: Leader, strong longtime vision, welcomes employee´s involvement
+
+Cons: A lot of bureaucracy, processes move slowly
+Advice: None
+Pros: Innovation and many opportunities to grow
+
+Cons: Growth is hampered due to less hierarchy
+Advice: None
+Pros: The environment is pretty chilled.
+
+Cons: Lack of progression 
+Emotional managers and always out of office
+Advice: None
+Pros: Free breakfast, full of events
+
+Cons: Uncertainty, Bias, Politics, HR , Strategy
+Advice: None
+Pros: Innovative Molecules,  Product Pipeline, Learning opportunities
+
+Cons: lack of policy to retain experienced people
+Advice: None
+Pros: Great Environment, a great place to learn
+
+Cons: the organisation should work on the inter dept. Collaboration
+Advice: None
+Pros: Good Learning
+Great Exposure
+Lot of room for innovation
+
+Cons: Management Not quite there to listen to employees
+Advice: None
+Pros: Working environment is pleasant as it’s in town.
+
+Cons: Nothing really was less good
+Advice: None
+Pros: Salary is great at Roche UK
+
+Cons: No cons in that company
+Advice: Continue your good work
+Pros: Everything is pros and good values
+
+Cons: Nothing and it needs continue same
+Advice: It really Good Company
+Pros: Excellent Client and Good Project People
+
+Cons: long working hours and overtime
+Advice: Listen to your employees
+Pros: Good salary structure and incentives
+
+Cons: nothing to complain really here
+Advice: None
+Pros: good salary and conditions, flexible working, looking after their people
+
+Cons: big, slow, regulated, known, pharma
+Advice: None
+Pros: innovative, power, rich , goba, salary

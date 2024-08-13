@@ -1,0 +1,919 @@
+Cons: - Big, change is slow
+- Pockets of energy and ambition but hard to connect the pockets into a cohesive force
+- Apathy and inertia: got told a few times to be more patient and accept that things move slowly. Was not interested in watching years of my life churn away
+- Project scope: the product is huge, the timelines are long, the vendors are many and as such you often end up with a tiny part. Or wrangling suppliers 24/7
+Advice: None
+Pros: Change is slow, especially in a company as big as GM but they know that and you can see signs of GM actively trying to change the culture, work environment, branding, image, etc. and, for the most part, succeeding. I worked at GM for about a year and left not because of anything terrible but because it just wasn't a good fit. But the good stuff I saw: 
+- Growth opportunity: met many people who had moved around roles/departments/careers within GM. GM not only lets you move but seemed to actively encourage it. CEO Mary Barra herself worked everywhere from manufacturing to HR
+- Benefits: amazing 401K matching (if you stay for 3 years), great health, vacation, etc. 
+- Generally flexible work culture. Most teams didn't seem to mind if you had to work from home for whatever reason (illness, weather, traffic, etc.) 
+- Great leadership: I had great managers who were very supportive in my work and my eventual decision to leave
+
+Cons: Slow moving implementation and product updates. Below average response times to resolving major issues and improving customer experience. Rollouts occur without proper QA or critical thinking.  Failure to address issues with resolutions when things go wrong. Being expected to work 140% of your 40-hour week, based the negotiated salary at signup. Living below the poverty line in America's most expensive city. Not much room for advancement. It's not what you know, it's who you know. Working in an environment that doesn't reward hard work beyond the occasional pat on the back. Not being recognized for feedback that eventually benefits the improvement of operations as a whole. Unreliable IT department.
+Advice: Test product designs and explores sufficient QA for updates pre-release. Ask for qualitative feedback about added features or tools with internal teams who use and interact with consumer products BEFORE implementing a rollout. 
+
+Improve user experience before implementing or pivoting business models. Create long-term solutions (not quick fix band-aids). Accept feedback and suggestions from employees at all levels. Encourage more underachievers to become overachievers at all levels. Train employees on company infrastructure expectations, partnership products, and best practices.
+Pros: Having a major automobile manufacturer on your resume. Being immersed in a pre-autonomous environment. Employee, friends, and family discount on a new or CPO purchase. Great teamworking culture in a progressive environment. Unlimited financing and a strong partnership network of necessary resources.  Sponsored education and Executive MBA program included in benefits. RSP matching. Above average annual bonuses.
+
+Cons: When GM brought IT back internal, there was tremendous potential to build a world class organization. However, that opportunity was squandered, as the leadership fragmented the organization into Innovation and Operations, and further into vertical organizations. This created tremendous friction, as Operations headcount was slashed and Innovation picked up Operational responsibilities, and of course the work still needed to be done. The CIO failed to grasp this very basic concept. He also tried this approach at HP and was ousted. 
+
+Erroneously, it appears that he believed that change would result in increased innovation and lower operational costs, whereas reality demonstrated the results were one team that picked up the slack for the other, so it was an exercise in budget manipulation at a much higher overall cost to GM. 
+
+In contrast to any formally documented HR policy, the CIO has explicitly stated that  IT is being expected to work a minimum of 50 hours per week, and there is a clear objective of slashing headcount over the next 1.5 years.
+
+Looks very grim for GM IT under current leadership.
+Advice: Get your act together and consolidate organizations to avoid multiplicity of effort. Realize that your resources are people that thrive when working towards common goals rather than separate organizations with different objectives.
+Pros: Decent pay, but nothing special with the medical coverage. Squinting is considered the vision program.
+
+Cons: As part of the new hire program, you will not have a say in what team you want to be on. Even if you have a background in java development,  they will put you in what team they want you, which is expected of a company but they DON'T TELL YOU WHAT YOU'RE GOING TO BE DOING until a week or so before your start date. Until then, the "hiring manager"(more of a random name to put instead of your actual supervisor) listed on the offer is going to give you the run around of " oh you're going to be on a team that is innovative, on the edge of technology" bs. Gives behavioral interviews, which is great if it wasn't for a technical role. In IT you need to know that the person you're hiring is interested in the job and knows how to do it.
+Advice: Keep the behavioral interviews, as they should be necessary but for the love of retention rates, include a technical interview like literally any other fortune 100 company with an IT team. Also, be up front of where a candidate will be working at time of the offer. If you hire someone to be a "software developer" don't stick them as a network engineer.
+Pros: 401k matching is fantastic, health benefits are pretty good. Strong college hiring initiative(which is also a con as seen below)
+
+Cons: If you are a new college hire, this is often a bait and switch job offer. They would not tell you what you are going to be doing until after the initial training, which might or might not have to do with your future position.  They do not have good a placement strategy after hiring you.
+They do not have good software development processes in place.  They tried their own flavor of Agile for a year, but it was not implemented correctly nor enforced. 
+
+They do not listen to their experienced college hires even after finishing the program.
+
+You would rarely be challenged with exciting tasks. The work is very repetitive and does not allow you to improve your skills after a certain point
+Advice: Provide competitive pay to the college hires graduating the program.
+Enforce and improve your development practices.
+Do not give BA's all the power, they need to work with developers.
+Pros: Depending on the team you work in, you may have good work balance.  They are flexible when it comes to taking a vacation, and you get 16 holidays a year. 
+They also have very good health benefits and 401k matching up to 8%.
+The bonuses are really competitive, but you meet your target you need to work really hard. 
+It looks good on your resume.
+
+Cons: HR still sees you as a pawn but that pretty much applies to any large company so getting a raise is based off your job tile or if you can directly save the company money immediately which doesn't happen in engineering much since any cost saving changes you make more often than not will save money over years where as someone on the business/marketing side has more opportunity to make immediate cost saves that reflect the money saved that quarter 
+
+I would recommend getting the most you can before hiring in as after that your salary increase will come to a slow once inside
+Advice: Change what deliverables you use track your employees (especially engineers) and make sure their work can be recognized when salary conversations come up.
+
+Continue to keep replacing managers that have the "Old GM" way of thinking and promote those that actually care about bettering the company and not just worrying about their budgets and bonus
+Pros: Great benefits and is becoming more flexible with working from home and taking time off. Lot's of opportunity to move within the company. It's even strongly pushed that you broaden your skills or build your career in some way within the company.
+
+Cons: * Those that are courageous and push the status-quo get a target on their back. "Don't rock the boat".
+* You are only as good as your current manager/director.  If they leave, you may be in trouble.
+* Still a network of friends.  The best don't always get chosen for new roles and responsibilities.  Plenty of slackers are in management, enjoying country club life.
+Advice: * Do more with less.  Cut the fat.  You have too many employees.
+* Be more agile and fail fast.
+* Take care of those that work hard, connect the dots and are constantly contributing.
+* Overhaul IT.  The new, Austin IT is arrogant, dishonest and pure evil (I am not in IT).  The Detroit IT folks are mistreated, over-worked (since the are onsite)  and fired left and right.   In sourcing makes sense if you have the talent and expertise to meet or exceed the talent that was procured by out-sourcing.  GM IT has a long way to go....
+Pros: * Excellent pay and benefits.
+* Great co-workers.
+* Very little stress.
+* Easy to coast/stay under the radar.
+
+Cons: Vesting takes 3 years.
+Technology is ~ 10 yrs behind the current state of things.  If you don't keep current on your own you will end up with a skill set not relative to the current job market. (Struts, anyone ??)
+Meetings can take up to 80% of the week with little accomplished.
+Hardly anyone is ever promoted - regardless of what is advertised.
+Basically all the offshore consultants were hired and brought onshore.  GM has a PAC/dept that "guides/informs" all of them on legislative/immigration issues.  These letters were never sent to any US citizens - only those on a visa.  This was about 50%+ of the mail in the mail room.
+The most fear-driven micromanagers I have ever seen. Ever.
+Advice: You need to seriously stop the micromanagement, especially from non-technical managers (about all of them).
+Start by hiring those that understand testing is an integral part of development and not just an afterthought.
+Hiring students out of college without any interview at all is really a bad policy.
+Stop having so many "town halls".  With so many layers of management having a monthly meeting + the usual weekly ones, it is hard for folks to get anything done.
+Pros: Great health plan
+Some folks were great to work with and I learned a lot from them.
+
+Cons: Career advancement - While there are a lot of great learning opportunities in the early stages of an IT career, your prospects dry up fast after about 3 years. GM IT has a horrible habit of burning out top talent - if you establish yourself as a dedicated, talented employee, you are more likely to get stuck with the same work over and over again until you are hating life, rather than interesting, high visibility projects to advance your career because your manager only cares about the bottom line. If you think you can just switch teams think again - constant political battles between middle management make it very difficult to change to a job you'd rather do. And even if you do make the switch, you'll likely mess up your chances for a promotion or have to take a pay cut because HR has way too much control over employee compensation and makes it really hard to get a pay raise. They (HR) recently established quotas for the number of people in each organization that can be at a certain pay/benefit grade, and most teams are over the line so 90% of employees are stuck at their current level, by default. I've seen a lot of people quit recently because they were approved for promotions (sometimes by directors and/or executives) but were denied by HR (a lot of them were women, what's up with that Mary Barra?) who cite "policy". 
+
+Perks - Although GM's traditional benefits are very good, a lot of the perks you'd expect to see with a huge car company are just not there. You don't get a company car unless you are a senior manager or higher, and even then you'll likely get stuck with something clunky that GM can't sell. Only the executives get the "cool" cars. There used to be an awesome program where more junior employees could try out cars for a week, but the company took it away to cut costs. This really sucks because employee discounts on GM cars are embarrasingly bad - most people use standard retail discounts because they are actually better.
+
+Culture - GM recruiters sell the IT department as a "tech startup funded by a multi-billion dollar corporation". In reality, it's more like a "large consulting firm under long term contract with GM" in that there's very little of the aggressive,
+innovative culture that you would see in a startup. Red tape is everywhere - you need 3 to 5 approvals just to get read-only access to a non-secret production database for example. The more established you get, the more time you'll
+spend in endless meetings, which usually results in worse work-life balance because you end up doing most of your real work after hours. The rest of GM hasn't really embraced IT either...you'll spend about as much time selling your work as you do actually doing it. 
+
+Middle Management - Middle management and tech leads are, by and large, awful. There's a few exceptions but most of them are petty, lazy, and constantly playing politics. Many of the ones in Austin have been working together for 20+ years, so there's a lot of nepotism and playing favorites. A lot of the reason for the career advancement logjam that I mentioned before is because some of the managers brought in "paid friends" from other companies at job grades way higher than they deserve, so they are enjoying high pay and company cars for very little output and preventing other people from getting promoted. If you aren't part of that culture and don't pay homage to the old boys club, forget about gaining any sort of career clout. Many of them have a consulting mindset and tend to overpromise to the business, signing up their developers for work they either don't know how to do or don't have time for (or both), and which usually doesn't deliver much value or isn't functional, but "it's what the business wants and we have to do as we are told...so...¯\_(ツ)_/¯". Many of them also get road rage in the parking lot and on commutes - we are constantly going over safety messages because the company cars are always getting wrecked or getting tickets for bad driving.
+
+Infrastructure - GM's IT architecture is ancient, cheap, and something is almost always broken. This can make it really hard to test and deploy code because you'll often have to wait until environments are less busy or fixed in order to do your work. The old Austin IT facility was a former Dell building and was a great work environment. Lots of natural light, bright colors, and open air. The company is moving Austin IT to a new building, and it feels like a massive downgrade. It's an old warehouse which is very obvious. Exposed piping/wiring everywhere, exposed insulation on the ceilings which periodically falls on you, very few windows, drab and grey walls and floors, HOLES IN THE FLOOR UNDER THE CARPET and generally not ergonomic or safe. All the "renovations" feel very rushed and cheaply done. Even basic things like bathroom plumbing and water fountains barely work.
+Advice: Don't be afraid to trim the fat in IT middle management. Most of them are yes-men who only have their own best interests in mind, and they are preventing employees who actually move the needle at GM from ascending the ranks. Don't be so obsessed with cutting costs that you make employees unhappy and keep them from growing their careers. Taking away company vehicle perks was a huge disappointment, especially without at least an employee leasing program to replace it. Take a look at Ford and Mercedes and take a cue for how they promote their products to their employees. If you really want top tech talent this will convince the kinds of employees you want to opt for GM instead of Facebook, Google, Indeed, or even other in-house shops like Walmart and Home Depot. Austin and Atlanta are huge tech hubs and GM is getting a reputation for being a talent farm, so make some changes if you want to retain top tech talent.
+Pros: DISCLAIMER - This review is specific to IT in Austin, Texas. GM is a massive global company and each location, department, and team has a different culture. 
+
+Benefits - GM's traditional benefits are some of the best you'll get anywhere. Healthcare is very comprehensive and includes an awesome wellness incentive program, and the 401K is probably one of the best of any company in any industry. You'll get a lot of the usual stuff too - corporate discounts, company merch, etc.
+
+Compensation - Pay is certainly not bad, but can vary in competitiveness by location. IT jobs aren't scaled by how valuable skills are in their respective markets so every gets paid pretty much the same. This is great for the Detroit and Phoenix offices but isn't great in Atlanta and is not competitive in Austin. The company is trying to fix this and has adjusted starting salary for junior employees to be more competitive (although they are hoping more experienced ones will not notice I guess) The bonus is a double-edged sword - on paper it sounds really good but can vary wildly from year to year. It's based more on the overall performance of the company rather than individual merit, so you could have an awesome year but if the company does poorly your bonus will take a big hit. GM has had a couple of great years but last year wasn't so good and this year is shaping to be pretty bad, so don't expect bonuses to pay dividends for a while. This used to be offset by one-off performance awards that would occasionally be given out, but this was recently replaced by a weird game-show-like points system.  Again - overall still good, just not as good as it used to be, or could be.
+
+Top Management - The C-Suite and executive leadership have an excellent outlook and are usually transparent about the goals and challenges the company is facing. They have a good read on industry trends and try to adapt as quickly
+as a giant multi-national company can.
+Work-Life Balance - GM doesn't have a sink-or-swim culture, which is excellent for folks fresh out of college. You'll get a lot of support, training, and (usually) reasonable expectations in your first year. If you manage your time well and play your cards right (see Cons section for how this can fall apart) you'll never work more than 40ish hours a week.
+
+Other - GM has every ELA under the sun, so any tool you need to do your job you'll (eventually) get. Most associate-level employees are helpful and easy to get along with. There's a handful of cynical old cranks and smug millenial/GenX dudebro types but it's not too hard to find a niche.
+
+Cons: Dog eat dog culture
+It’s all about who you know
+Performance review process - less focus on employee improvement and more on putting employees in their place
+No feedback during the year from leader
+Can be hard to get things done
+Focus on training has decreased 
+I’ll probably never be able to attend a conference again
+Work facility is poor, I have no space for anything 
+Focus on results at all costs
+Forced org structure of all people managers having at least 12 people makes for very odd organizational dynamics. Very bizarre
+Advice: You have built a culture in IT that is around those that all used to work together in HP or Dell. That isn’t healthy.  The rest of the people are suspect 
+You need to have good people managers in leadership 
+We need to have leaders that care about employees
+Pros: Good pay and benefits 
+Lots of different roles/opportunities 
+Great CEO
+Mission and vision have improved
+Exciting technology 
+Great cars and trucks
+
+Cons: A large number of incompetent middle managers in IT. A lot of long and pointless meetings. The ratio between middle management and employees in IT is just ridiculous. At one point I was on a project where: 5 developers were managed by 5 managers. On my previous job such kind of project would take 1 manager and 6 months; at GM it took 18 months to finish. Managers insisted on implementing a design, which nobody can use.  So nobody is using the software we developed. I wasted 18 months of my life.  Every IT meeting is full of self-congratulating speeches about innovation; innovation is happening, but so slow...
+Advice: Reduce bureaucracy, cut the number of meetings.  IT is full of managers who just playing bureaucratic games instead of working on projects, which can produce real results.  Get rid of the people.  Minimize the number of projects, which use outdated technologies.
+Pros: Good work/life balance. Mostly nice people, good benefits.
+
+Cons: OT is basically straight time
+Very political and cliquey 
+Different/better opportunities for minorities and women
+Very young and inexperienced HR/Labor dept that mostly does not back salary over the union
+Treats new hires better than current high performing employees
+Advice: Treat your current people as good as your new hires, they are the ones with the experience needed to move the needle at the company. Updating OT to where a supervisor never makes less than his employees on the weekends would be a great moral booster. Stop being so stringent on giving level 7 promotions to high performing supervisors, people dedicate A LOT of there lives to this company, they deserve to be compensated as such. Lastly, raises and bonuses should be more performance based. The new system revolving around everyone getting the same 3% each year to protect feelings is terrible for long term incentive and employee drive.
+Pros: Good pay compared to other companies
+Decent benefits
+Does pay salary OT (somewhat, very limited rate)
+
+Cons: Being a large corporation, it can sometimes be difficult to make necessary changes in a timely fashion. Despite encouraging innovation, there are still politics involved, as every other corporation. Being a fairly low-pressure environment also slows things down a bit, though balanced with the greatly reduced stress that may or may not be a con. Salaries are not terribly competitive, but the benefits make up for some of that.
+Advice: Providing more competitive IT salaries is the only way you're going to retain talent in this market. You've got everything else going for you, that's really the only thing pulling people away.
+Pros: General Motors has a very open, friendly environment that encourages innovation. The benefits are fantastic and the job security is substantial. Very comfortable, definitely an easy company to spend your career at. The sheer scale and breadth of everything GM does means that if there's a job you want, you can find it here, and moving around isn't a problem. Great place to learn and grow.
+
+Cons: Management is all talk, no action and they all have their own agenda; no proper project management or realistic scoping with business; the status quo is slightly below mediocrity, so if you are smart and take pride in doing a good job you will be expected to do your work and other people's; don't expect a raise, promotion, or the ability to switch teams.
+Advice: Mary Barra - investigate your IT management and get rid of your execs that are cutting corners just to get green on their scorecard. People spoke out in the Workplace of Choice and were basically told "tough luck" by Randy Mott.
+Pros: Jobs security, 401k plan, paid holidays, WFH flexibility (depends on team)
+
+Cons: limited job mobility within this facility. The HR department is giving the employees a false sense of security that everything is ok.
+Advice: The HR department is out of touch with reality. Two thirds of the business at this location will disappear in 2020.  The fuel injector and fuel rail business is going to Delphi.  HR continues to tell people we are ok because we make parts for trucks. The fact is when the injector and rail business goes away the plant will close. You cannot keep a 1.5 million square foot facility open to make one component for an engine. Advice to management: STOP GIVING PEOPLE A FALSE SENSE OF SECURITY AND BE UP FRONT WITH THEM SO THEY CAN PREPARE.  As of right now, we have not been awarded any new business and it takes several years to bring a new product to full production.
+Pros: Decent pay and benefits.  Good place to get manufacturing experience
+
+Cons: Upward mobility is somewhat limited for developers.  Corporate management is still learning how to deal with an in house IT team and so you can sometimes feel like IT is an afterthought.  Compensation as far as base salary is concerned is lacking compared to other companies around Austin.
+Advice: Value your developers.  You are losing good people when they can leave and get double digit percentage bumps in pay
+Pros: I loved my time at GM, the people were great and I lucked out with my team placement.  People's experiences vary from team to team (as with every company) but in my area my coworkers are what kept me around for so many years.  The benefits outside of pay are excellent.  The move to an internal cloud service has eliminated many of my complaints about infrastructure at GM.
+
+Cons: Training is non-existent, so if you take pride in your work it is difficult feeling good about your day. Management does not listen to hourly employees for suggestions on how to make things more efficient. There are a lot of unhappy people due to how much upper management pushes, both middle and lower managent and hourly employees. Safety is treated more as a chore than a first priority.
+Advice: Start training your employees, both salaried and hourly. Listen to your floor employees, the answers to a lot of your problems are there, not in a meeting. Start treating safety as the first priority like you say, and not safety first so long as it doesn’t impede production.
+Pros: You get several paid holidays and vacations days grow as your seniority grows. You have the potential to make a lot of money if you want to work overtime.
+
+Cons: Most of employee is just like  a little ant to the company and can't feel any complishment no matter what you do. Salary is not reflect the job performance.   Do-nothing here is better than do lot of things with some defect.
+Advice: Rate people's performance better based on what they did rather than just based on what they said.
+Pros: Very good benefit.  All people are very nice to work with.  If you are good to talk or people still is good,  this is the best place for you.  It is a comfortable place for lazy people.  You don't need  be work hard or smart to get promotion and just to let you boss happy with good talk.
+
+Cons: Only downsides are that it’s hard to move up but that’s because managers never leave.
+Advice: Allow a little more growth within the company. Allow a day where you can bring dogs to work.
+Pros: Good 401k match of 100% up to 4%. Really good relocation assistance. Good health insurance options. Tuition reimbursement of 8000 a year that is almost always approved. Flexible hours and work from home based on your manager. Unlimited sick days based on manager as well. For the new college hire program you get a raise every 6 months for the first 3 years. And every employee is eligible for a bonus at the end of the year, and it’s usually really good.
+
+Cons: Highly political. Philosophy does not match reality in regards to work-life balance. Opportunities are very limited unless you are a recent college hire. When they want to get rid of an employee, they put him or her in a position in which they he or she is highly likely to fail. They use this approach instead of layoff to avoid high unemployment insurance or protect the company reputation. Innovation is pitched to recruit talent. However, only a few areas offer the opportunity to innovate. In some cases, executives who are supposed to drive innovation impede it. Detroit-based employees who have been at the company for many years have better protection from job cuts (it is who you know). I could go on and on... Some people behaving ethically get punishes and some unethical (breaking company policy) policy get away with it. Company performs Workplace of Choice surveys. However, when employees spell out the solution, the company ignores it and implements something different (if anything at all)
+Advice: Practice what you preach.
+Pros: Their benefits and compensation are very good.
+
+Cons: Pretty much everyone ends up with a work related injury that you shouldn't expect them to care about.  Employees are completely disposable and are treated as such. As soon as you get hurt you get treated poorly  and told to quit so that they can bring in a new fresh body. Also lots of discrimination toward line workers from management.  Also  management will make mistakes and pin it on the  employees.  If you are a new hire you will also probably be  a temp for several years before being offered permanent employment. Lots of people joke that they work in hell but GM employees actually do.
+Advice: Treat your employees like people instead of robots or machines.
+Pros: Great pay and benefits. Some of my co workers are nice.
+
+Cons: The guidelines for leadership are there and expectations are not followed by all.  If you are not in the privilege group you can forget fairness regarding opportunities.
+Advice: Look deeper into your managers in certain areas.   Employees are afraid to speak up due to retaliations.   I watched with my own eyes contractors being promoted without degrees and others that were hired into to GM  with credentials  were overlooked. and mistreated.    People were promoted to higher levels  due to personal relationships with management and very minimum leadership experience.  You never have to admit it but many know the real deal.
+  Career Opportunities should not be based on who you are friends with.
+Pros: Good company just the leadership in certain areas are not held to same  high standards.   People not sharing the truth.
+
+Cons: Work life balance is something you need to be proactive about. You could work 80 hours a week and still not finish your work load. Figuring out a good balance for yourself and your compensation/responsibilities is key to not burning out.
+Advice: Keep up the great work. Would like to see better Team GM rewards or higher wage increases to compensate for downturns.
+Pros: Work with the top industry leads and technology in automotive world. Always way too much work to be done every day, which for someone that struggles to stay focused is a blessing in disguise. Job description 100% lines up with my hobbies and love every day at work. Vacation time and benefits are top notch, in fact I have too much vacation time if anything (absolutely no complaints).
+
+Cons: Our schedules for the work day are not very flexible.  We are not able to plan any time with our families on the weekends.  It’s hot and dusty.
+Advice: The business is being mismanaged.  We do not have enough coverage to finished our work schedule.  We need more help. We need better equipment to do our jobs, like reach trucks that are broken down.  Also, it’s very dusty and hot in the summer.  There is no air conditioning. Our fans are not positioned correctly to provide optimum cooling relief.
+Pros: The pros are the health care coverage.  The profit sharing and 401k benefits are also great.  The hourly pay is very competitive.
+
+Cons: I came in as a college hire. When the company hired all the people at once there was no real vetting process. It was as if they hired anyone that can turn on a computer. Over the years these people have stuck around. It can be really frustrating to work with these people. 
+
+What makes this more frustrating is that the company has a lack of opportunities for raises and promotions. So it doesn't seem to matter if you work hard or if you spend all day chilling. You will be compensated the same and given the same raise. This may be a positive for people  who just want to show up at work and collect a pay check. But it stops people from going out and being ambitious and excelling at work. 
+
+Because the company doesn't promote or provide opportunities for upwards mobility all of the good talent tends to leave for companies that do give these opportunities. These people are either never replaced or replaced with college hires. As a company we really should be doing a better job of retaining the good talent and letting the bottom people go elsewhere. However it seems to be the opposite. So I'm not looking forward to what GM IT will look like in a few years. 
+
+The last thing I will say. The salary isn't great. I would say it's at the bottom level of competitive. Like if a competitive salary in the area is between $x-$y then GM is paying you $x on the dot.
+Advice: You're going to really start seeing some issues in the next couple of years when all of the great developers you originally hired go elsewhere. You need to keep the good people and let the bad people go. Make your employees feel valuable and they will be able to do some great work for you.
+Pros: I want to preface everything I say here by saying that GM IT is very large and diverse. The experience that one person has isn't the experience that other people will have because it will defer from manager to manager. 
+
+GM IT is still relatively new. A few years back they hired thousands of people all at once, and there were some real growing pains. It's getting better, but there's definitely still room to grow. 
+
+Because GM is an old car manufacturer people assume that the IT environment here is very formal. It's not. It doesn't have the techy environment that you see from typical large software shops like Google. There is a bit of a balance. 
+
+Very relaxed working environment. The work life balance here really can't be matched. Again this depends on the team you are on, but for the most part work life balance seems to be what people like about here the most. 
+
+The health insurance is good. You get some money on your HSA card every year for a physical. They do pay a few thousand per year for education reimbursement. Which is nice if you decide to go to grad school.
+
+Cons: In a bigger company, adopting change can be slow. While this isn't always a bad thing, lots of ways the company could be 'nimble' are bogged down by the size of the company. It's slowly improving though.
+Advice: None
+Pros: Working in new products is difficult, but very rewarding. There are lots of different areas to grow in, lots of different skills to learn. Career opportunities are there, but networking is a must. Benefits are great, work/life balance is generally good (you'll have busy days and lazy days). 
+
+The culture here definitely takes after it's long history, which is both good and bad. There are a lot of younger, newer faces that are bringing innovation and driving change in this company.  I'm very optimistic for the future of the company.
+
+Cons: Not much to do after the new hire program is done,  glass ceilings everywhere unless you know the right people, many positions are full of people unfit for them
+Advice: At this point, most new hires are aiming to stay for three years and then leave. Aim for longer retention. Also, correct immediately any misplacement of new hires in unsuitable positions.
+Pros: Good work life balance, better-than-average compensation package, 20 vacation days after first year, new hire program has 6-month salary increases for 3 years plus bonuses, startup vibe; expect to "wear multiple hats", which helps you to learn new things.
+
+Cons: All the usual hassles of working at a huge company: endless meetings, tedious reviews and approvals necessary to get anything done.
+Advice: Invest more in fun and social workplace activities. A little bit of team bonding goes a long way.
+Pros: The people in senior leadership positions are genuinely good human beings. It's clear that GM does a great job of developing and promoting promising leaders who will create a great company culture.
+
+Salaries, bonuses, and vacation policies are very generous and there are plenty of opportunities for career development.
+
+The company is extremely supportive of women in tech and the percentage of female leaders at every level is higher than any tech company I've ever worked at; lots of fantastic mentors and role models.
+
+Cons: At this point the red tape is out of control. Whole teams exists for quality assurance, and no I am not talking about testers. I am talking about people who don't code or know how to code, reviewing your changes with a checklist and creating more and more hoops to jump through to do your job. Do you want a database refresh? Ok fill out this Sharepoint excel request, then copy all the data from that excel file into a special format Excel. Take the special format excel and copy its structure into an email and reference the line number. Email that to the DBA (not-even-kidding). The company has built such a wall around deploying stuff it consumes 50+% of your development cycle.
+
+The company was hesitant to deal with low performers for years and now they are paying the price.  Generous benefits and an environment where free-riding was pretty easy has resulted in lower than expected attrition.
+
+Now that auto sales are declining and we are entering into a crunch cycle, HR and management is trying to clean house. Under performers are being put on performance improvement plans (a nice way of saying 'go away') and those who don't leave once on these plans are typically fired within 6 months. Hiring, except for college hires, has been curtailed. 
+
+Unfortunately the above does not bode well. Already many teams are overworked carrying the burden of the non-workers. Now that many under performers are being sent packing, their partial workload falls on the rest of the team. This is causing the already overworked high performers who are fed up with the red tape to leave. What is left is mediocrity at this point.
+Advice: After this round of firing please keep the house clean. If you let under performers (driftwood) build up over time and address it all at once it is more detrimental than addressing the problem annually.
+
+Do something about the red tape. Protecting the company's production environment is great, but if you can maneuver a regular change, it becomes impossible to fix honest mistakes or bugs. You can't have innovation if you can't make changes.
+Pros: Generous benefits (401k, holidays, PTO)
+Depending upon your boss you might have the option of flex schedule
+
+For college hires the raises every 6 months and final promotion after 3 years leaves you close enough to market rate salary wise.
+
+The company bonus in previous years was overly generous. Now that sales are declining people have become used to unrealistic &gt; 100% multipliers.
+
+I started as a college hire in 2013 and stayed with the company for over 5 years working in different capacities. If you want to move around and try different roles that is possible now (was not so easy when I started).
+
+Cons: Some departments such as fuel cell in Pontiac has very poor work/life balance, constantly working 55+ hours, sometimes over 60, no overtime pay, no flex time off. Very demanding program schedule and management.  Many days a week working starting 6 am and finish last meetings at 11 pm. Feel physically and mentally burnt out. Causing a lot of problems to employees and their families. No use talking/complaining to the manager, he/she is part of it, suffering as well.
+Advice: Need to make it fair to employee. Either pay overtime or hair more people. Working on new technology is interesting, but not interesting enough to work many extra hours for free. This is not fair and not sustainable.  If this is the way it is, then at least tell people that during interview.
+Pros: Company has great future as a whole. Proud to be part of it. Huge investment in new technologies.
+
+Cons: If you work downtown it can be a bit of a commute during the winter if you choose to live in the suburbs. There is now great housing in Detroit that was not available when I worked at the Rencen.
+Advice: Keep your heart and keep her alive and strong. Blessings for the best results.
+Pros: My end date was actually 2009. However, I know who is there since  much of the IT team who were contract are now permanent. Exceptional people! Great environment, demanding in a good way. A learning organization with great Leadership. You have the ability to provide input, simplify complex, work in a dynamic team Crossmatrixed and cross-fuctional.  You see results of your contribution.
+
+Cons: Middle and upper management are not supportive or networking or creating a work-rich environment
+Poorly manager and brought up leaders (if you are not on the "secret" list of future executives then don't even bother.
+At times, my manager was caught talking behind my back in meetings (VERY unprofessional & rude) 
+Slow moving company with lots of red tape
+Benefits are OK (discount on new car).
+Advice: Younger people don't want your job. We want to learn, have a supportive manger, and  grow our career.
+Pros: Networking / professional guidance 
+A lot of flexibility for roles and changing teams
+Support for extracurricular activities (inside and outside of work)
+Lots of learning opportunities
+
+Cons: They expect you to work in 90+ degree weather with no AC and minimum bathroom/water breaks.
+Everyone starts out as a temp and you get treated like garbage because temps are "disposable"
+Advice: Advice to the union leaders - quit abusing the temps. Been a temp for 4 years with no hopes of getting hired directly. I do the same work as a direct hire and yet I can't get dental or vision, profit sharing, or even paid vaca days. The union needs to change this abuse cycle.
+Pros: GM pay for you to have health insurance
+You get paid for every ounce of your time when you are clocked in
+
+Cons: Still very silo driven, meeting dates more important than quality in many cases, IT networks slow, PC's dated and under powered.
+Advice: Invest in the tools to get the work done like new laptops and internet speeds, spending money on pretty but outdated collaborative sitting is not going to get you to world class designs. Nice having new parking garages but I'd rather have a new laptop instead of a 5 year old one, the tablet I am typing on is faster than my Engineering laptop and my home network is too!
+Pros: Matching 401k, decent health plan, 15 to 16 holidays, bonus plan, lots of good people
+
+Cons: The size of the company at times can be overwhelming. Great ideas sometimes get squashed for the greater good of the entire global market. This ideology will limit the amount of risk the company will take with design.
+Advice: My advice to management would be to be more in tune with employee suggestions. Provide more team building opportunities monthly to receive a greater return from your very talented employees.
+Pros: GM has a ton of resources. Talented group of Designers that are at the top of their craft. As a global Company GM provides opportunities to work abroad across the globe.
+
+Cons: Timing is everything re hiring in. It’s an 8 yr haul minimum to full pay, often longer due to temp status abuse. 
+Can be difficult to plan life outside. Saturday’s can be added up to Thursday before. Also can be cancelled on Friday, so management plays that game. 
+Common practice to hold hostage as a temporary status worker for multiple years. Temp pay $15, caps at $19 after 4 yrs. 
+Upward movement limited as seniority rules in all aspects. 
+Leadership is horrible, scared chickens with head cut off. 
+Supervisors just as bad, strong lack of talent. Supervisors also have no power to manage team, all decisions have to filter through their bosses boss. 
+Overworked supervisors either forget or ignore most requests - even after union push. Usually answer provided at last possible moment. Each local union has strengths and weaknesses. 
+Cyclical industry never seems far from next lay-off, tho benefits are great even on layoff.
+Advice: Hire talent and let talent make choices. Get out of contract hires Cheap borns cheap. 
+Abusing temps for multiple years is a huge knock. It’s borderline evil.
+Pros: Benefits 90/10  with $600 deductible and no monthly fees, full vision/dental.  
+No defined pension but do offer 401k. Company contributes weekly at, $1/hr plus 6.5%. Funds are avg. Roth 401k option. 
+Wages are good, but full growth ($17-$30) takes 8 years IF actually hired permanent. 
+Overtime often very available. 1.5x after 40, on Saturday, 2x Sunday. 
+Great profit sharing and various metric smaller bonuses ($200-500) almost quarterly. 
+Union Work environment is safe, yet laid back, shorts, Tee, sneakers is Okay. 
+Opportunity to transfer to various locations when hiring, depending on distance and time commitment compensated $5k-$30k for a transfer. 
+Layoffs are compensated up to 80% of pay.  
+Healthcare 2 yrs post layoff. 
+EVERYTHING IS EQUAL(ish) AS CONTRACT IS NEGOTIATED 4 years FOR ALL.
+
+Cons: Zero secure future at this company
+Management don't know what they are doing, one day they hire thousands while the second day they layoff thousands.
+VP - CFO is running business similar to how they run business in her home country!
+If you are engineer or manager with more than 15 years of loyalty experience, you have no value as they will treat you like a dead horse!
+Advice: Fix the company roadmap once for all. 
+Enough the hit or miss in steering the company
+You should have owned Cruise Automation rather than being under their mercy 
+Remove the CULT from the company and treat people fairly in salary as always new employee will be paid 20% higher than old loyal technical one
+Pros: Decent working hours
+Nice culture for employees
+M  Plate cars are available for everyone
+
+Cons: Beauracracy
+Very siloed 
+75% of people are praised for doing nothing, and their work gets dumped on the 25% who actually know what they are doing
+No work life balance
+Advice: Learn how to scope a project and force everyone to pull their weight. SAP team is unorganized and management has no idea what they are doing
+Pros: Competitive salary and benefits 
+Some good people sprinkled throughout teams 
+Good tuition reimbursement program 
+Vacation time and paid week off for Christmas
+
+Cons: I really haven't encountered anything so far that I would count as a 'con'!
+Advice: Keep up the great work with the culture and transparency.  It is very refreshing!
+Pros: I have been incredibly impressed with how GM treats their employees.  Even when folks are arguing in meetings, it is done with complete respect.  People do not talk behind others' backs, and Mary Barra has created a fantastic culture of trust in the organization.  A great place to work and feel useful.
+
+Cons: Too much political drama. Managers hire their family and fri new...people who are early twenties getting "architect" roles which should of taken them 20 years but they are in bed with the hiring manager. It's all political bs. You can be on the same project for a year but your dev lead can change 3 times and each person will have a opinion on how things should be done. And if things don't go their way and the project fails they will throw you under the bus!! It's all favoritism. Current management is doing a hush hush LAY OFF by giving bs performance improvement plans on individuals who have been doing great but they don't want to pay severance.
+Advice: Get rid of the incest that's happening within management
+Pros: Laid back but almost no benifets.
+
+Cons: They are multiples issues or Cons I can mention:
+- Lack of stable systems
+- Culture barrier (you can see the difference between levels in the corporate ladder)
+- There is no respect on the health of the employee, and you will have a unbalance work style life (get call every night to fix an issue with no backups)
+- Toxic work environment (you will see harassment and racist profiling)
+- Lot of interns and College hires (hard to get an experience employee to help on the problems at hand or SME)
+- After you master a technology you will be stuck doing the same thing for years to come. (plus becoming obsolete in the long run, and management won't help you move forward in your professional career)
+- Lower management/ Middle management is disconnected with the higher management. (Different goals and lower/middle management follow a different path from the higher management guidelines)
+
+In the end,  They lack the personal expertise or they won't invest in experience personal to stabilize their current technologies and adapt to the new market trends will eventually be the downfall.
+Advice: - Re-organize the management, and talk to the actual people that are doing the  actual work. (but usually they will witch hunt you down if you talk anonymously )
+- Rework the policies at hand and how to review the performance of their employees.
+- Review the Management and Director with an unbiased view and layoff if needed. (Too Many Managers)
+- Add core values to your management staff
+- Strongly considered changing the management culture in GM. (is disconnected to the actual market, and value your employees time/effort)
+-  Add new audits to review managements, and work that is being done. (Yes, it is happening and they aren't not doing nothing about it)
+- Add training to your employees to create new skill set.
+
+Overall there is a lot to work on, and I have my doubt there is going to be any change anytime soon. GM is currently shrinking and the reputation of the cars need to improve a lot.
+Pros: Good place to start out of college(until you have 2 years in GM), you will get expose to technologies of the 90, and old methodologies. (No Cloud tech here of what I know of)
+
+Cons: Mandatory overtime six days a week 365, horrible work life balance, treated like a piece of machinery
+Advice: It's ironic that Henry Ford came up with the concept of the five day forty hour week because in 2018 General Motors has its plant workers working nine hour days six days a week. Studies have concluded that working over 50 hours a week actually diminishes productivity. But GM is all about numbers. GM doesn't care about you as a human being. When you're on the clock, you are a human robot. Some plant workers work seven days a week with no days off. Workers have to schedule days off months in advance. It doesn't matter if a family member died, if you choose to take a day off, you can be fired. This almost happened to one of my co-workers who chose to take a day off when one of his family members died unexpectedly. There is no vacation time. Other than having one day off a week in Sunday, you have a grand total of three days off a week a year as a new temp. Everyone is brought in as a temp and you can be a temp for years. Blue haired good ol boys who have been working at GM for decades hold temps with the utmost contempt. The work itself is something a robot could do. It's extremely boring, mind numbingly repetitive work that will leave your hands sore, numb and tired from being in your feet, but it's honest work. This job will envitably be replaced with robots in the near future. If you can stick it out, General Motors is one of those companies that will take care if you for the rest of your life. There are people at GM who have been working there 10, 20, 30+ years. But I don't think General Motors workers in the 80's, 90's and 2000's were being asked to work 55+ hour weeks/six days a week year round. Not even Amazon works it's employees this much year round indefinitely. You are completely replaceable at GM. They are always hiring now that everyone wants a big brand new truck to drive like an a-hole while you don't have any time to enjoy your money or time with friends and family. When I was hired they said the number one reason people lose their job is by not showing up. Maybe because most people are not robots and actually need 48 hours away from work every week to stay sane. If you have a family or value your personal time look elsewhere.
+Pros: Decent starting pay for a low skill level job
+
+Cons: Work is monotonous and mostly done standing. Changing jobs (work stations) is a must once the body starts to break down. Easy to get caught up in union/management back and forth on every issue, big or small.
+Advice: Remember that 99% of people want to do the best job they can and to be recognized as such. Saying we’re all a team means nothing if the actions don’t follow.
+Pros: Great pay and benefits. Union job so, as you gain seniority, you gain security of shift and job preference. Generous bonuses (dependent on Company performance).
+
+Cons: Its automotive so there will always be ebbs and flows good times and bad. If you cant stomach being a top performer or else potentially be on the chopping block this industry might not be for you.
+Advice: Keep on the current path. The biggest minor flaw is that a lot of the plants are showing their age and could use some updating from an office perspective.
+Pros: We are at the top of the food chain. They spend money to make money and everyone here buys into keeping this a first class company.
+
+Cons: Would not implement a designated work from home schedule.
+Took away employee rental benefits
+Certain managers disregard work/life balance
+Advice: Be more mindful that people should not be expected to eat, sleep and breathe General Motors. Other than that I'd say keep up what you're currently doing
+Pros: Great company to work for fresh out of school. 
+Flexible as far as working from home, establish a certain level of trust with your upper management and you will have no issues requesting to work remotely.
+Collaborative work environment
+Surrounded by plenty of smart people to learn from.
+
+Cons: Lot of time wasted between departments to get direction. Wish there was a more efficient way to communicate and to be more efficient as an Engineer.
+Advice: Invest on higher quality parts that will have less warranty issues in the future. Customer will appreciate that !
+Pros: GM has its vision locked in for the future of mobility and the customer is at the center of everything we do. Priority to keep them safe. Exterior and Interior design has improved drastically and it’s exciting for the future.
+
+Cons: To many old people slowing the work flow to take advantage of overtime.  They also teach younger workers old paradigm of bigotry, sexism and nepotism.
+Advice: Believe women and POC who call out old men, their relatives and their cronies and not dismiss any other minorities call to attention to harassment and intimidation.  HR should also not say something to the tone of "It is all hear say and nothing can be done."
+Pros: It is a very creative work place.
+
+Cons: HR trains their leaders to manipulate their way around the age factor.  23-29 y.o. will go far in 3-years.  If you are over 40, watch out.  'Older employees'  experiences are worthless.  They load you up with work, have antiquated systems and you will be told the newly hired graduate does a better job, knows more and works harder.
+Advice: No one will say what is crystal clear:  age descrimination.
+Pros: If you don't mind that you are hired based on your age, or have a relative working here, It's great.
+
+Cons: My bad luck I ended up joining one of the most toxic groups in my 25-year carrier. The manager hired and promoted people who spoke his native language, knowingly delivered software with fake test cases that went to production vehicles.  When I bought up these issues, the upper management would not investigate the manager. I resigned  because I had it. Also, keep in mind if you resign and take their package (two months of salary) you cant work for GM or any GM-related companies rest of your life.
+Advice: 124 people died while you guys covered up the ignition switch issue,  The culture of cover-up need to stop.
+Pros: Good pay, Vacation Days, Easy Work
+
+Cons: Institute leadership development programs for all rather than a select few new hires.  Treat all employees equally in that regard, and continue to help everyone with a roadmap for advancement.
+Advice: Continue moving GM forward to a bright future!
+Pros: Mary Barra and her leadership team are doing an outstanding job of leading GM into a successful future.  The implementation of the Achievers program along with the culture change is really reaping benefits!
+
+Cons: Sometimes you can be working with such terrible software engineers/developers because there are no technical sections for the interview.
+
+Those terrible engineers get paid the same as you.
+
+Extremely low compensation.
+
+Managers literally do nothing.
+
+No career growth.
+
+Employee discount terrible for vehicles. If I had a friend that owned a dealership I can get a better deal without their discount.
+
+No signing bonus.
+
+Disrespectful to Computer Science Grads (IT Majors get paid the same amount as Computer Science Majors) which shows me how ignorant managers there are.
+
+Horrible upper management (Not your direct manager).
+Advice: More compensation for employees and more respect for Computer Science Grads.
+Pros: Relaxed environment.
+Depends on what team you get put on but I had a fantastic manager.
+
+Cons: There’s still some of “the old GM” mindset in a lot of upper management, money gets wasted where it should t, integrity isn’t as widespread as one might hope- weak middle management.
+Advice: We went into bankruptcy once- perhaps the plant vs corporate budget should be re-analyzed
+Pros: Work life balance is improving. Innovation is encouraged and hard work is rewarded. Pay, benefits, and vacation/holiday time are great-  the new employee recognition program and open workspace concept show that the company is trying to move into the new work era.
+
+Cons: Difficult to advance your career. 
+Have to leave the company to get competitive pay.
+Quality employee retention doesn't happen. 
+Huge swings in work loads.
+Advice: There are numerous employees in high positions that abuse their power, and ask their employees to do something, but they themselves do not follow. Don't promote people based off their years at GM, and promote them for their work.
+Pros: Good work life balance for the majority of the year. 
+Really good benefits. 
+Do your work well, and typically you will be happy at GM.
+
+Cons: Limited upward mobility and silo mentality hurts the future of the division. Maven was supposed to be the gateway for GM’s autonomous future but they seem to be moving forward with Cruise managing all aspects of autonomous vehicles.
+Advice: Push to get out of GCCX and in line with Cruise to work together instead of on virtually the same project.
+Pros: Innovative start up operation inside a major company. Setting the pace for Urban Mobility for an OEM. Car sharing, ride sharing and peer to peer experience.
+
+Cons: No meaningful organization.  Hired managers from vendors and this misses the chance for innovation.  Everything that wasn't Java became my responsibility.  Lots of ambiguity.   Corporate culture is extinct.  They made developers pay for coffee!!!
+Advice: Focus on innovation not repeating what you did when you were an outside vendor.
+Pros: Lots of teams to work on.  Lots of projects to become a contributer.  Lots of talented people there. They were trying so hard to improve.
+
+Cons: Terrible management, micromanagement is annoying, will change time for end of workday minutes before time to get off.  Weekend work not known till 2 days before so impossible to plan anything.  They have removed 3rd shift, added it back and removed it again in 2 years.  No job security
+Advice: Needs to be a complete management adjustment in Spring Hill.  Do not see how it makes a profit.
+Pros: Decent pay for unskilled work, nice bonus and profit sharing, tuition assistance for school.
+
+Cons: Heavy work load, inbalance between dev and support roles. Upper management is constantly  changing, bringing with it new goals that are not fully vested and cause a lot of unneeded stress and complications.
+Advice: Think through the long term outcomes when making staffing decisions.  Whats good on paper is not always good in practive.
+Pros: Flexiable work schedules, family oriented, encourages career exploration.  Benefits outside of medical, retirement, so on, are really good as well.
+
+Cons: Probably a lot of standing.  If something goes wrong with a vehicle, I may feel the blame for the problem. Pressure to do my job correctly is always there.
+Advice: Hire me...Keep up the good work and give an 18 year old a chance.
+Pros: GM has great benefits and pay. It's kinda like working for America,  you feel proud.
+
+Cons: 1. Huge company - bureacracy/politics are inevitable but depends on the department
+2. Parking is a nightmare
+Advice: Strive to stay ahead of competitors in terms of technology and innovation, place an emphasis on seeking out the best candidates for advancement and develop them
+Pros: 1. Work flexibility - schedule, location, a lot of independence
+2. Advancement - plenty of options, management supports career development
+3. Environment - modernized office spaces, comfortable setting
+
+Cons: Not a long term solution for early in career. Hiring is slow. Same type of work constantly. You might be kicked off your career track and forced to work in another until you find another job. Not a tech company and so don't expect new technology for cars as your position. Only a few team at most work on that.
+Advice: Culture driven by profits will not retain employees. Clearly defined work when hiring.
+Pros: Good people to work with. Use industry standards.
+
+Cons: As a millennial its hard to work in an environment that is really slow to progression. but its a great job. Didn't feel like the company invested their time on me for improvement (when i didn't know something or did something wrong i wouldn't know till my yearly review).
+Advice: Better communication. Invest time on the employee and they will invest in the company.
+Pros: Great job, friendly environment. Made so really great people. Hard working helpful people.
+
+Cons: It is a large org. It can be  daunting to make effective changes to process. There is politics. Too many people, levels make decisions. This needs to be streamlined..
+Advice: Have a real vision. Triple zero is not a vision. It is more a mission. The brand / marketing teams need to think more than 6 months out and be more strategic.
+Pros: Changing in the right direction. It is starting to be quite strategic. There is a lot of energy to innovate.
+
+Cons: Difficult to advance unless you're family legacy or "marked" for fast advancement.   Some managers not well coached in managing, don't support or "have their employee's backs",  some areas favored over others, a lot of office politics, VERY silo-ed organization making expansion of learning limited; this varies by department.  Base pay relatively low but descent benefits package.
+Advice: None
+Pros: big name, big company, stable; generally good education and training onsite in various areas
+
+Cons: IT's almost as if the management wants to make your job as hard as possible. There is little to no communication between the line and the Group leads.
+Advice: Be more open with your subordinates and communicate with the Team Leads on expectations for the day.
+Pros: Good Pay Great benefits. The Spring Hill plant has some of the most advanced auto assembly tech,and they know how to use it.
+
+Cons: Shift rotation and need to move to different plants. A lot of plants require salary employees to rotate shifts and career advancement often requires a move to a different plant.
+Advice: None
+Pros: The money is great and there is are endless career opportunities. There are very few restrictions in career mobility and employees are encouraged to seek out jobs they would enjoy.
+
+Cons: Leadership in some areas are too narrow minded to see innovation potential. Punitive leadership is rampant in some areas and leads to fear based decision making.
+Advice: Get your message of One Team and Drive for Innovation to ALL of your leadership.
+Pros: Very innovative capabilities in both automotive and IT. Lots of young talent eager to make a difference. Diverse opportunities in many disciplines.
+
+Cons: Too much red tape, no one innovates in the innovation center. Management is busy playing blame game and running around putting fires out. Absolutely no vision to handle IT business
+Advice: Think like an IT company. Let technical folks focus on their experties
+Pros: Good salary, benefits, vacation 401k, health insurance, dental
+
+Cons: The processes to get innovation done and into production is pretty heavy.
+Advice: The cost reduction focused process should not be applied to the innovation areas. New processes need to be designed for the teams to be able to  innovate and fail fast and able to recover.
+Pros: Depends on where in the company you work, but the work is pretty exciting in the innovation space, especially in the connected vehicle area.
+
+Cons: After the first 24 to 30 months management starts hitting you with false performance issues so they can justify shoving you out the door for another college hire because they will work for less money - don't waste your time with this company and there BS
+Advice: Back up your initial slick talk and promises with actions
+Pros: Okay initial pay and okay health benefits with 401k
+
+Cons: Slow career development and progression.  Leadership should put more emphasis on growing high performer and rely more heavily on past performance, rather than outside hires with an impressive resume.
+Advice: Listen and process feedback and don't take it personal.  Receive the feedback as opportunities to improve leadership style!
+Pros: Global manufacturer and leading the AV Development.  Diverse opportunities with a clear focus on culture initiatives.  Compensation is extremely well.
+
+Cons: Commute times can be highly variable downtown.       During critical times you may be expected to work some crazy hours.
+Advice: Keep up with the culture change.
+Pros: Culture at GM is changing for the better, very competitive compensation, very talented colleagues.   Great amenities once you get here.   Expect to work very hard and the same from your peers.
+
+Cons: Extremely political, Marketing Director and levels and below have little say over the direction of their brands, decision come from the top.  Little loyalty within regardless of the amount of effort you put in.  Limited fresh blood to bring new energy and ideas to their marketing world....very large and old ship to turn around.
+Advice: I wish it mattered but the advice will not be listened to.
+Pros: I have none at this time.
+
+Cons: Long hours. Hard Management. Declining sales.
+Advice: None
+Pros: How much work you put into the job correlates to how much you are going to bring home at the end of the month. Depending on what dealership you are at, the day is flexible. I am able to make over $50k a year without a degree and with little prior skills. There isn't a lot of places out there where you can do that.
+
+Cons: Lean cost cutting to the extreme, angry and bitter employees with a PYA culture permeates that from top down, Mound Rd is a minefield.
+Advice: Stop focusing on buzz words and catchphrases and evaluate your managers and staff because you'll find out that they are lacking and looking for people to throw under the bus to survive.
+Pros: Pay is good, Warren campus is nice, people are mostly polite and nice
+
+Cons: Management/Politics
+Poor work/life balance
+Lack of new skills/training
+Advice: Management at General Motors needs to focus on "effective communication". A large portion of the time executives will come up with some scheme and a half-baked plan on how to get it accomplished which ultimately doesn't translate to mid-level management and project teams.
+Pros: Compensation
+Relaxed work environment
+Coworkers are friendly and all there to get the job done.
+
+Cons: Stuck in Waterfall / agile a foreign concept
+Technology driven instead of value driven 
+More emphasis in projects completed over value delivered (check the box)
+Management heavy - set in their ways - some should not be people managers
+Almost impossible to change jobs - internal posting are mostly just to check a box and say they advertised the opening - when they already have someone selected
+Internal HR inflexible - promotions rare - rating/review process changes annually
+Advice: Stop focusing on "diversity" and get people in who are the best person for the job.
+Pros: Benefits
+Location
+Facilities
+Not the car program - average Joe gets better deal than employees
+Co-workers
+
+Cons: Your boss does not support you and will make deals with the union behind your back. There is zero support and the frustration level is extremely high. There is no work life balance. They think they own you and you will work when they tell you to. They hire according to race/ethnicity to meet their targets. You will want to quit after 6 months
+Advice: None
+Pros: The salary. That's it. Nothing else.
+
+Cons: The work environment is toxic.The managers have no experience or people skills.So are illiterate and can barely write a coherent report.You may have to work mandatory Sundays without warning.
+Advice: My advice to management is to learn how to teach their employees as human beings.GM already gives employees a nice benefit packet that they like but make it a place where they love to go to work.Youll see improvements in yourread areas
+Pros: GM has great benefits and bonuses.We get a bonus in February,June and December.We also get at least a week off for Christmas and usually a 4 day break for Thanksgiving.
+
+Cons: None really, some people did not like many hours but I did. Also, the never knowing when you were needed varied by situation.
+Advice: Keep up the good work. I really enjoyed what I did and proud of my work with others in the team concept.
+Pros: Working hand in hand with all suppliers and company to get the best possible parts for our automobiles and cars.
+
+Cons: OLD baltimore plant mentality. is bad in those 15 plus employees
+Advice: enlighten the long (old) timers  and the current and new young employees  on the laws of an employees RIGHTS this day in age.       OLD SCHOOL IS OVER
+Pros: money but new hires get a lot less and will never make what a 10 or even a 15 or 20 year employee makes
+
+Cons: I feel like GM is trying to be the biggest automobile manufacturer in the world. They want to stand on top the mountain and beat their chest we are the best. The culture change they are working on might take change this stance. I'm a firm believer in offering a great product at the best price with outstanding service.GM fails at this, looking for growth always is the most important goal at GM is growth. They have no problem breaking up your family and moving you as an employee. I bet GM has the highest rate of divorce than any company. They move you away from kids and or their schools. You can have a work/life balance if you met your numbers. If you do not hit your numbers you work whenever they tell you weekends holidays and vacation. I have 3 supervisors they tend to work against each other and bring me in the middle.  Both of my supervisors were relocated and do not have their family with them ( their family lives in another state and travel back and forth). They might just be mad because they are alone. What I see are lies from management. Micromanagement is huge and my team has very low morale all of us have our resumes ready and are currently looking for another job.
+Advice: Do not treat customers like you own them and they owe you. GM does whats called funny money or backend money. Stop offering a volume-based bonus for customers. Try offering them the lowest price upfront many dealers and distributors are running a business that relies on profit just like GM. Give them the opportunity to make the profit upfront and not if you reach this goal. 
+Make the best product you can period. Give the best customer service. Be sincere about offering this not just saying but living it in your own values. I know we have the "Be Bold" feedback but I will tell you I'm scared to approach management with any feedback. Any time I offer a promotion or feedback it is always shut down, There are times when a promotion I thought of will run but I never get credit my supervisor will take credit for it. Everyone needs to be honest about the culture change. GM has the opportunity to a great company to purchase from and to work for. Lots of work needs to be done to get there. Look at Subaru great profit no chest pounding. We worked a Habitat for Humanity for GM once the cameras were gone so were the employees. It was just for the media. 3 of us stuck around to complete our task of helping out.
+Pros: Company vehicle. 401K matching is strong
+
+Cons: More expectations with less compensation. Cuts to the bonus payout and yearly cost of living raise based on one hardcase managers review. The entire engineering department got hammered on yearly review which resulted in bonus and raise cut in half. Use to get paid 1 extra hour of straight time when plant runs 9 hour shift, now they have taken that away but of course still expected to work a 10 hour day. This cut only applies to engineers, not supervisors. They still get their extra hour per day. The shift length changes on a daily basis. Every day you never actually know if they are running 8 or 9 hours until the very end of the shift. They actually told us the cost-cutting is due to our vehicles being heavily discounted, yet our hourly production rate is increasing. Meanwhile, the weekly company newsletter boasts of strong yearly earnings and record quarters. One of the most poorly managed companies I have ever worked for, no leadership and no direction, just daily crisis management. The first meeting with the GM was a 20 minute speech complaining about maintenance people riding bicycles and drinking coffee, like this is the biggest problem in the plant - utterly ridiculous. Not allowed to make any improvements due to cost but of course they want a miracle when the obsolete equipment fails and there are no spare parts. You are set up to fail and then criticized for doing so. The money was worth all the aggravation until they started cutting everything but taking 25k out of your pocket changes that equation significantly. If I had it to do over again I would not have accepted this position. The relocation package was very good however less than 2 years in they laid off several people who had relocated just for this job. Not at all what I expected. Looking to get out soon.
+Advice: Quit taking our money.
+Pros: It was the money until they started cutting into bonus and took away extra hour of pay for working 10 hours a day. Relocation package was very good however.
+
+Cons: red tape (to be expected when working with one of the largest companies in the world), ambiguity (which can be fun with the right attitude!) Sometimes it's 'who you know' vs. 'what you know'
+Advice: Continue being visible and transparent with employees - continue to broadcast team goals and direction
+Pros: Smart people, vast resources, opportunity to develop your career, innovative, cutting edge technology, good visibility with leadership
+
+Cons: Leadership squashes people who try to live by the company values and going to HR makes matters worse because they only manage up.
+Advice: Pay attention to the complaints and comments by the working force, don't just believe the "leaders" because you're friends with them.
+Pros: GM is trying to be a better company, the "lower" ranks are trying to live by the values and mission of the company.
+
+Cons: Sometimes things may take a bit longer to get done as you need several approvals from various teams.
+Advice: Keep on innovating and supporting your employees and talent.
+Pros: Opportunities are around every corner to engage and learn from others. A fantastic vision and values guide employees every day. The GM Behaviors that leadership has put forward really resonate with every employee.
+
+Cons: GM has one of the worst cultures I have ever experienced in my entire career. There's micromanagement up and down in the IT organization. Most of the managers are not even qualified to become managers, they are just there due to their bosses favoritism/Politics. Developer's Life is a complete mess, everything is slowly being pushed to developers (Testing, Operations).    
+PLEASE AVOID GM IT IN ANY WAY POSSIBLE, IT'S A TRAP!
+Advice: Overhaul the entire IT Organization or the future is really dark. It's a sinking Titanic
+Pros: Good benefits and decent pay.
+
+Cons: Business in Detroit is slow to make decisions which an Agile software team cannot work with well. There's not really any employee perks in the building. Get employees excited about their products.
+Advice: Mix up teams more often if the projects get stale. Allow people who exceed expectations reach higher roles faster.
+Pros: Great lateral positions and exciting projects. Nice benefits. Great cars.
+
+Cons: Only concern is to emphasize the team work principal to all, in particular to people they been there for a long time and provide the help needed to the rest of the team
+Advice: Keep encouraging and supporting your teams.
+Pros: Big company, many opportunities, GM has great cars and trucks. They always bring the safety topic. Vacation and holidays are great
+
+Cons: Appears that it is difficult to move up in job levels.
+Advice: None
+Pros: GM gives a $1500 annual HSA contribution. Health and dental combined cost <$50/mnth for single. 16 company holidays + 15 paid vacation days + sick days for new hire. Good mobility within same job level. Bi-annual compensation reviews for first 3 years.
+
+Cons: IT is very disorganized and bureaucratic and inefficient. Some good people, some not so impressive. Management was poor. My role ended up being different than advertised.
+Advice: Scale down goals and focus on building motivated, talented workforce in IT.
+Pros: I like the high-level direction of the company. There are some very interesting projects ongoing.
+
+Cons: Too much management, not enough people to get the work done. Overly litigious and procedure. Processes constantly shift.
+Advice: Be more flexible on the remote work options, and please stop allowing processes to constantly change. Having processes in place are meaningless that way.
+Pros: Lots of opportunities for growth, flexible schedules, great benefits, lots of great technologies to touch.
+
+Cons: Lots of ups and downs in the automobile industry.  If you are looking for job security, you may want to look for other options.
+Advice: None
+Pros: Great people who are dedicated to their work and the company. Great benefits, work-life balance, and quality of life.   GM is a company that cares about its people and customers.
+
+Cons: Overly bureaucratic
+absolutely no consideration of work-life balance
+No career mobility
+minimal technical career track
+Older technology
+rigidly stratified upper management
+lots of long-time employees grazing rather than working
+Advice: Shake things up a bit ...bring in some new talent at the director level.
+GM-IT is governed by 20th-century thinking
+Pros: Good Co-workers
+1st Level management is attentive but very restricted in what they can do.
+
+Cons: Large corporation culture and issues, easy to get lost in the mix if you're not continuously proactive and tenacious.
+Advice: Treat creativity as the valuable asset that it is, before losing it to a competitor through a disenchanted employee.
+Pros: Deep well of creative solutions and brands to work on. Never a dull moment
+
+Cons: - Wrong people often get promoted to management roles, the good managers get moved on quickly to better jobs
+- Very easy to get forgotten about and pigeon holed if you're under the wrong manager
+Advice: None
+Pros: - Good respect of work/life balance, ability to work from home when necessary
+- Challenging work
+
+Cons: No stock options. A lot of the work force is aging and could benefit from fresh talent. Some tasks require too much administrative approval
+Advice: Could benefits from hiring fresh talent
+Pros: Excellent 401k. Health care is great and 1500 HSA money. Almost 200% match for upto 4% of base income. Flexible timings. People around you are friendly.
+
+Cons: Work schedule is hectic unless you have been there for years and got a good shift.
+Advice: They were pretty cool.
+Pros: Great opportunity if you can actually get in full time, I do like that they honor seniority, being young it's more of a challenge, but the room to grow is there with hard work and dedication to make the best vehicles.
+
+Cons: Company is caught between transitioning for the future and too many old school thinkers in leadership. Current round of layoffs not good for morale. Highly politicized.
+Advice: Realize that it’s not just at the manager and below level where changes need to be made.
+Pros: Good work life balance, great opportunity to work on large high-profile initiatives.
+
+Cons: - Management caters to employees under the age of 35. 
+- Being bullied by your manager and director in the same room.
+- Blame game central.
+- Poor HR support.
+- High stress, no sleep, stomach cramps.
+- “Leave your experience and knowledge at the front door, for this is GM.”
+Advice: - Not to generalize all management.  To my previous leadership team, try taking management 101 and learn to build the employees up rather than tormenting them.
+Pros: Being able to  say you work for the prestigious name of General Motors.
+
+Cons: Unpredictable 
+Unorganized 
+Unsafe 
+Switching work hours
+Advice: I think you should place people where their experience level is , instead of randomly placing people anywhere. Also making people stay an extra hour to train people at the end of a third shift is not very beneficial because they are tired and probably won’t retain any of that information.
+Pros: Good pay 
+Good pay 
+Pay
+
+Cons: May get lost in the numbers
+Advice: Always important to understand the skill set that is currently being managed and develop your team to where it best suits the team and the business.
+Pros: Due to the relatively large global structure,  there are many opportunities to grow and develop within the company.
+
+Cons: Nepotism is very prevalent and the executives make horrible decisions. A lot of incompetent coworkers that cause the burden of their work to fall on the most responsible people
+Advice: Listen to the complaints your workers have made on Workplace of Choice. Rather than get defensive about issues, fix them to keep good people around.
+Pros: Good vacation/holiday time, unlimited sick days
+
+Cons: Customer service is a hard role to stay with. People tend to take their brand aggression out on you personally.
+Advice: None
+Pros: I get to wake up every day and be surrounded by amazing vehicles that I can take pride I knowing that I work for that company.
+
+Cons: Bureaucracy can sometimes hinder new ideas
+Advice: None
+Pros: Exciting/challenging work.  In my  personal opinion, GM is a great place to work. They are trying to lead in the auto 2.0 and the work is exciting and challenging. You will be required to step out of you comfort zon and learn new skills to drive the business forward
+
+Cons: See title, you can either get yelled at for not utilizing vacation, or get yelled at for not completing whatever fire drill is assigned while on vacation.
+Advice: Come down to the bottom for a week or 2. Very different from when they were there 15 years ago.
+Pros: Competitive pay and benefits,
+
+Cons: *Like any workplace, not everything is perfect. However, it is overall a great place.
+Advice: Corporate budget constraints make it extremely hard to perform maintenance tasks. Loosen up on the ability to acquire spare parts and materials needed to do the job efficiently.
+Pros: *Great pay
+*Employees heavily involved in the decision-making process
+*Outstanding medical benefits
+
+Cons: “Old GM” is very much alive and may come in the way of young people trying to help make a difference in the company and its future.
+Advice: Be consistent with the programs you have in place across all of GM.
+Pros: Great benefits, best in class pay, and overall a good experience.
+
+Cons: Politics, still very bureaucratic, long hours at times, fear in the organization based upon old culture. Takes longer to get promoted after you reach a certain level.
+Advice: Culture is changing but there’s still a lot of opportunity
+Pros: Opportunity for upward mobility, great networking, leadership focused on culture, somewhat work life balance, global opportunities that one could explore
+
+Cons: No real future as you will be considered a temp for 3-5 years until you get hired as a full time employee
+Advice: Better organize the way your Group leaders relay staffing info to temps. Also, stay on top of when you have a new employee on your shift.
+Pros: Free health insurance, good pay and overtime
+
+Cons: They want you to work more for less every year and if you get a bad manager there is really no way to change teams, you are stuck in that team for years. I had to resign, yes it was that bad. Wanted me to not take vacations and spread my free days out... what kind of vacation I can take a weekend? smh
+Advice: Learn how to listen to people and do good to people. Not only your bottom line.
+Pros: Will work in many projects
+
+Cons: If you like fact-pace environment, this is not a company to chose except engineering organization (not IT organization). no promotions as well. you can apply for a job internally but you can't apply for next level of your current level even you are in the company for 5 years.
+Advice: None
+Pros: Holidays and work life balance
+
+Cons: Worklife balance. Expectation of sacrificing personal life if you want to be successful.
+Advice: The number of times I have heard people having to cancel family events or vacations due to "urgent" work items is unacceptable. Culture needs to change.
+Pros: Salary, bonus, benefits and 401k are all great for the industry
+
+Cons: The environment at times with a lot of people working remote can be quiet.
+Advice: None
+Pros: The people are friendly and helpful. The work is challenging but not overwhelming. The work life balance is great.
+
+Cons: It is a big company, with all the benefits and bureaucracy of a big company.  Not for everyone.
+Advice: Continue to invest in technology, cautiously, to compete in a very different world.
+Pros: The pride is back in Detroit.  CEO is doing a great job steering the company into  the future.
+
+Cons: -Lack of young people
+-No track program for college hires  in IT
+Advice: There are track/rotation programs within GM for other departments (engineering, finance etc.) but not for GM IT. Young college hires would greatly benefit from a rotational program in such a massive company.
+Pros: -Great benefits 
+-Great PTO
+-Nice people
+
+Cons: Company runs off processes established to lead to errors and failure without constant meticulous human intervention at every level. Culture that final designs aren't meant to be released correctly initially, but only improved through laborious and time consuming recursive releases.
+Advice: Better processes => better execution => better products @ lower expenditure
+Pros: Well kept work environment
+
+Cons: No chance to choose what job you want to move on to next. The leaders move you almost without notice. Very unstable industry, lack of planning for future .  you do not get enough resources to do your job. They expect you to do two people's job.
+Advice: None
+Pros: Good benefits, many GM paid Holidays
+
+Cons: They hardly hire full time employees for full benefits. I was a temporary employee for 3.5 years with only 3 days unpaid vacation the last two years
+Advice: There's too many levels of management. Communication is poor, and hard work goes unnoticed
+Pros: Good wages, easy labor for the mechanically inclined.
+
+Cons: It's a big corporation so there's a lot of corporate politics.  Lateral movement can be extremely difficult, and vertical movement can be near impossible. Starting pay is lower than market rate, and there is no work from home.
+Advice: None
+Pros: Great health benefits, 401k matching, and decent pto
+
+Cons: Often career moves are made for you and not by you (back filling another move even though your new job does not align with what you want to do).
+Advice: Know your employees strengths and weaknesses.
+Pros: Good compensation and benefits.  Working for a larger company allows to varying opportunities.
+
+Cons: Too much approval valves, sometimes slows down decision. 
+Comparably low salary within industry.
+Process development does not consider other affiliates. too concentrated in US culture and process.
+Advice: Think global to become global leader.
+Pros: Much to learn from GM product development process and well organized tools and acummulated information. 
+Good work life balance.
+
+Cons: None that I have notice thus far
+Advice: Cecilia Thompson was awesome. she immediately addressed my concerns and even followed through to make sure I was very satisfied. She really do need to be recognized for her outstanding work. She is one of a kind.
+Pros: Friendly employees, very supportive environment
+
+Cons: Still some of the "good old boy" holdouts gumming up the transition.
+Advice: Look closer at some of your "leaders". You say corporate cultural behaviors for all, but some pick and choose what behaviors they will espouse. It's either all or nothing.
+Pros: Evolving, but not everyone buys in to change.
+
+Cons: More transparency from leadership
+More opportunities for remote work
+Advice: None
+Pros: 20 vacation days + 5 days around Christmas after 2 years of employment
+All UAW holidays
+Flat leadership structure in some departments
+A lot of emphasize on rotations to make sure employees don't get bored
+
+Cons: -Training and downloading software from IT takes a big chunk of time so make sure to start early
+Advice: None
+Pros: -people are very passionate about their work and really enjoy working there 
+-great open office environment in some parts 
+-easy to move around the company
+
+Cons: Long work hours, weekends included (6-7 days per week), stressful environment, unrealistic goals for management, favoritism takes precedence over talent and potential in career advancement
+Advice: Absorb the experience and unless you love it, move on to another position, career or company.
+Pros: Great benefits and excellent pay!
+
+Cons: The management and the finance office is absolutely horrible.  No one wants to work as a team and everyone is constantly talking bad about one-another. Petty bologna.
+Advice: Stop micromanaging and being shady.
+Pros: Great location, relatively decent place to work and move up.
+
+Cons: Work life balance is a challenge at times and exposure to a very cyclical industry.
+Advice: None
+Pros: Strong senior leadership team that has turned around the culture and redefined what success looks like.  Commitment to  leading the next generation of mobility and traditional automotive technology.
+
+Cons: Past is Prologue - you are pretty much locked in to the past quality reputation from the past - yet the cars are absolutely top notch
+Advice: Change the name and the Logo
+Pros: Pay is very good and the work is relatively easy once you get used to it
+
+Cons: Work hours can be a little long at times and management is very demanding. They don’t care about work life balance. And the  bureaucracy is annoying at times.
+Advice: None
+Pros: The benefits are really nice. The healthcare is affordable, good pay relative to the area, and lots of vacation days.
+
+Cons: A little bit bogged down by the automotive industry and its cyclical nature.
+Advice: Keep investing in technology. Benchmark the IT processes and results against the top 5 technology companies for improvement.
+Pros: Enterprise-level tools, systems and processes to get experience at a Fortune 25 IT organization.
+
+Cons: They overload jobs that were once full in 2016 and do not address safety issues or protect experienced workers who have devoted years to the company.
+Advice: Take safety issues more seriously and don't give management power to dismiss middle management who try to address safety issues.
+Pros: If you are young and strong and don't need to sustain relationship you can make good money once you get past the 2 or 3 year hurdle of part - time.
+
+Cons: Not enough OT
+Cant really think of anything
+Advice: Keep up what your doing you make GM a great place to work
+Pros: People are very nice, laid back environment, people dont usually get in each others way, nice pay, decent food. Very understanding management
+
+Cons: Need to continually remind your manager of your achievements
+Career advancement not as easy as explained in hiring/orientation process
+Advice: Keep the eye on sustaining growth without overworking employees
+Do not lose sight of your top performers
+Pros: Good vision, engagement, and support from top management
+Great benefits
+Good work-life balance
+
+Cons: Stale culture, work life balance in some organizations, difficult for new hires to advance, unapproachable leaders, mature working environment
+Advice: Adjust workplace culture across the board, don't just talk about it, be about it
+Pros: Benefits, pay, availability to move up after time
+
+Cons: Cold weather in Michigan.  The work is well based on the process , so everything is slow and routine.
+Advice: None
+Pros: Job security. Decent salary. Good place for the engineers.  I think GM is one of the best company for engieer among the big 4.
+
+Cons: NA- middle level leadership (exec Director/Director leve) still operating in silos....hard to change the culture.... to the GM core values that is the future
+Advice: Will not make any difference
+Pros: NA - we’ll difine core values  for the company’s future  from the senior leadership
+
+Cons: It is very political and there are many different agendas. People are friendly on the surface, but not to be trusted...Perhaps that's simply business.
+Advice: None
+Pros: Salary is good and there are opportunities within the organization if you are interested in transferring to other parts of the business.
+
+Cons: Can be a tad bureaucratic, but that's to be expected with a company as large as GM.
+Advice: None
+Pros: Great teams, opportunity to be at the cutting edge of SAP technology. Lots of autonomy with groups. Ability to pursue individual growth. Great work life balance.
+
+Cons: Nepotism runs rampant.  Forced overtime in excess of 60 hrs a week some weeks. This place does not have a clear program to help people with the excessive anxiety.
+Advice: If someone seems to be having an anxiety attack or is obviously struggling mentally get them help immediately! Not just someone to talk to but a professional.
+Pros: The pay level is higher than most entry level manufacturing jobs. If you like overtime chances are you will get it.
+
+Cons: Could use better Health plans, but I think that is hard to get these days.
+Advice: None
+Pros: Company has very good benefits. 401K contribution and matching, great PTO days and Holidays. Health benefits are good, including HSA contribution.
+Pretty good work environment.
+
+Cons: The company is based in Detroit. There are few other top notch finance opportunities in the region. If you leave the job, you pretty much have to leave the place.
+Advice: None
+Pros: Very smart people, lot of focus on developing talent
+
+Cons: None just want to work 40hrs or more.
+Advice: I'll never let you down. I'm always on time and I'm willing to work at the best of my ability. To better the company and my self.
+Pros: To keep active help the company when need. Keep production in good quality and if repairs are needed they get done correctly. I'm looking to grow with the company.and learn more.
+
+Cons: It can be difficult to manage your personal career moves with all the opportunities available which is a positive.
+Advice: None
+Pros: Great start up feel from being in sourced a few years ago. Lots of learning and training opportunities to network across functions.
+
+Cons: The company treats you like a number, no real since of family.
+Advice: Find a way to value your employees like you do the customer.
+Pros: Ability to work alone, review claims and you have the authority to make the decision on the claim.
+
+Cons: Can at times be overwhelming with how much work you have to get done.
+Advice: None
+Pros: Great pay, especially for Michigan. The other people there are very polite and always willing to help out.
+
+Cons: There aren’t many opportunities for advancement without a ton of politics. No everyone wants to work on the assembly line for ever.
+Advice: Help someone advance their career into management or corporate from the line.
+Pros: I have a job make a nice income.
+
+Cons: Lots of people choose to slack off pushing workload to responsible developers. But they are really nice people :-)
+Advice: Innovation can come from anywhere, including failure. Doing the right thing is more important than being right.
+Pros: Flexible hours/work from home
+Friendly co-workers
+
+Cons: No support from management. They throw you into the fire and expect you to deal with Union.
+Advice: Provide more support
+Pros: Opportunity to manage teams and operations at a very young age while earning some extra cash for overtime hours
+
+Cons: Too many people married to their job and the company.
+Advice: Don't expect people's lives to revolve around the job. Work is just a tool of life.
+Pros: Can easily change job functions. Depending on the team, it can be very relaxed.
+
+Cons: The automotive industry has it's ups and downs
+Advice: None
+Pros: GM is an excellent company to work from.  The benefits are great and leaership is transparent and honest
+
+Cons: Benefits, management, work environment, lack of upward mobility
+Advice: Erase the poor management. GM is notorious for poor leadership! Fix the issue!
+Pros: Pay is decent. They pay enough that you won't go anywhere else.
+
+Cons: Slow to react, conservative, don't care about career development. Promotions go to the wrong, inexperienced and clueless people almost every time.
+Advice: None
+Pros: Lots of intelligent and talented people, vastly improved Executive Leadership team and improving culture.
+
+Cons: They expect you to work looming hours for no overtime.  They expect you to work around the clock.
+Advice: Care about your people more.
+Pros: Good salary and benefits package.  Lots of cutting edge assignments.
+
+Cons: I haven't found anything yet
+Advice: Support your teams so they can grow up inside the company.
+Pros: Great environment, great co-workers and very positive attitude reign in this place, also good work-life balance.
+
+Cons: There are quite a few employees who are subpar
+Advice: Utilize HR Dept to legitimately fire/remove/demote underperforming Employess according to corporate guidelines
+Pros: Prior Pension and Retirement benefits
+
+Cons: Was in mass layoff with in the company.
+Advice: Value your employees and there families.
+Pros: Fast pasted and learned a lot of positions that made me valued on any shift.
+
+Cons: Unhealthy work environment, stressful job, often treated poorly by other employees, typically union members.
+Advice: None
+Pros: Room to climb the ladder, get to use technical background on manufacturing floor, get to be creative and have freedom.
+
+Cons: Lay offs come at anytime.  Rumors are circulated like a wildfire everyday.  No sense of job security.
+Advice: Learn honestly and transparency.
+Pros: Insurance, profit sharing, union, weekly paycheck. Seeing a car built from start to finish.
+
+Cons: Half of the managers are very poor and incompetent.
+Advice: In stead of promoting people based on quotas, promote them based on competence!
+Pros: Used to be a great company that cared about their employees.
+
+Cons: -Located all the way out in Roswell
+-Not the best insurance
+Advice: None
+Pros: - HSA contribution to make up for HDHP
+-Lots of vacation time
+-Unlimited sick days
+-Lots of room for growth and movement within the company
+-Moving compensation
+
+Cons: some team players are left out
+Advice: encourage strong leaders and give them to opportunity to grown and lead
+Pros: working with Drive to Great  achieving results, actions and meeting customer expectation , delivery  on time,

@@ -1,0 +1,1201 @@
+Cons: Now that we've been bought by SAP, the true decision-making happens in Germany, despite the fact that SAP has historically failed in the Cloud.  The Works Councils have a strangle-hold on the company, so there's little correlation been performance/experience, and professional opportunity.  SAP had layoffs earlier this year, and the determining factor seems to have been whether or not the employee was German:  U.S-based team members almost all got sacked, but our colleagues in Germany held onto their positions, or got transferred within SAP.  Thus, the decision-makers are almost completely insulated from the consequences of bad decisions.  Most of the SuccessFactors employees who were with SuccessFactors when we got bought by SAP, have fled (probably less than 10% remain).
+Advice: Lars was right.  The only way SAP will succeed in the Cloud long term is if you keep the Cloud business separate from the legacy on-premise business.  Stop putting the folk who have failed in the Cloud in charge of the folk who have succeeded -- that's a sure fire way of getting us to leave for other companies -- and you paid billions for us.  I'm on Glass Door today because I've finally had enough, and am researching how much I should I ask for in my next job (I've already interviewed with the hiring manager, and am meeting with HR tomorrow).
+Pros: There are still a few fantastic employees left from our pre-SAP days, and I love working with them.  The office is also pretty cool, and there's plenty of flexibility in when/whether to physically arrive -- working from home is fine.
+
+Cons: I can understand why many people rate SAP as satisfying. This is because working for SAP is like working for a government contractor. It is a relaxed environment with no work pressure and great work life flexibility. The pay is great and company hands out big titles to everyone (there are probably more than 1000 "Directors" alone)
+
+I'm all for this but the reality is that the company has not gone anywhere in years. There are a lot of employees who produce nothing. Lot of people who get paid to be lazy and have no talent or interest in building next big thing. Layers of management who produce nothing. If all these people were let go, it would not make a single difference the next day for SAP.  The company as a whole is not innovating. It is still feeding off from old innovation that the company had once built. HANA is a grain of sand compared to what came out of SAP in the early days. In fact, the company is now walking backwards undoing everything that made it such a big company. Buying other companies to fill the gap only works till those companies also get SAP-fied. I think SAP is on its path to lose major business due to this.
+Advice: Bring back the old SAP of 80s and 90s when it was the leader in innovation.
+Pros: Lot of nice people. 
+Great location. Lot of good amenities. 
+Management always puts in the effort to keep employees informed through meetings.
+Relaxing environment if you are looking for that. Sometimes too relaxing that no one really produces anything useful.
+
+Cons: - Primary account execs not motivated by compensation plan to ensure inclusion of secondary products (specialist sales) are included in deals. They do get commission, but there should be a factor placed on whole deal for including the secondary products to better motivate them.
+- Part of selling newer technology at times of early market adoption maturity is investing in relationships with customers whose revenue is further out.
+- Sales compensation of these less mature technologies should include engagements and efforts leading to "advisor status" for future funded projects.
+- Frequent and involuntary territory changes with poor split compensation policy (only compensated for 30 days after change for any of your existing opportunities / efforts prior to change of territory) 
+- very lopsided distribution of territories/ accounts, and of Customers with Funded sales cycles (the only way to make your number) are very unevenly distributed across sales reps.
+- FOR any prospective Account Executive, choose to only accept position if you have responsibility that includes some mature technologies, as well as established and recurring existing customers if you want a prayer of  hitting quota.
+Advice: - You have some very talented employees in your sales organization who are setup to fail due to poor distribution of accounts and methods of measurement for some of the specific products.
+Pros: I was an Account Executive as a Technology Specialist (examples:  mobility, technology, hana etc.)
+- Passionate leadership.
+- very comfortable work environment and provided equipment
+- innovative solutions (but are double edged if measure on rate of adoption)
+
+Cons: SAP is like working in a retirement home. A lot of lifers, a lot of people not wanting to leave their positions, and a lack of fresh and creative people. The CEO keeps talking about all the millenials he wants to bring in.  All of my friends who are millenials were either laid off, moved into a short term contracted, or vastly underpaid.  SAP people love to throw the word "junior" around and use it as a bad word to scorn anyone under 35.  The company is super traditional, male, white, and top down style management. Unless you are a White or Asian man who can play hardball politics, you won't move up in this stale company.
+Advice: Remove the multiple layers of management.  Everyone is either a Director or VP and a lot of managers are not necessary.  Put budget into recruiting and university relations and make it a point to hire younger and more diverse people. Don't just throw "diversity" around and say you're diverse because you're a global company.  When you look at Palo Alto, there are no women leaders (they're all pushed out) and all the leaders are male, white, or Asian.  Stop trying to be like Apple or Oracle and make your own brand.
+Pros: Depending on your manager, you can work from home whenever you want.  They are very flexible on how you do your work as long as you get it done.  Outside of the company, the SAP brand is respected. Free lunch in the Palo Alto location is a big plus. Their catering company, Bon Appetit, puts a big emphasis on fresh and organic food.
+
+Cons: Much of SAP technology is antiquated and if you are an engineer there's a good chance you'll be working with their business suite (their largest and most important/lucrative product) which is complex, outdated and implemented in a proprietary programming language called ABAP.  In Palo Alto there is a fair amount of modern development including cloud, mobile, HTML5, etc.  However to varying degrees you can never get away from the R3 ABAP stack.  Efforts to modernize the SAP product line is sometimes misguided or does not make sense with today's trends, but nevertheless the effort is there and in general is bringing SAP into the modern software world, albeit on a somewhat bumpy road.
+Advice: None
+Pros: SAP has competitive compensation, practically guaranteed large bonuses, benefits and even decent stock option and employ stock purchase programs for such a large company.  Palo Alto campus is in a nice location and in general colleagues are easy to work with and have a good attitude towards achieving success, solving problems, etc.  SAP typically has long retention, minimal attrition and very few layoffs (almost unheard of), which I believe speaks to the general happiness and satisfaction of the employees.  Many colleagues have deep expertise and knowledge and in general are willing to share and help w/out the attitude that many very senior employees typically have at other tech companies.
+
+Cons: Growing and integration pains as one would expect when a company is acquired by another.
+IMO too much time spent developing new bells and whistles and not enough time ensuring the ones already available work as expected.  
+Never worked at a place where there was such an abundance of training material none of which actually helps one do their job.  Feels like we just make this stuff up as we go, do in large part to the constant adding of the aforementioned bells and whistles.
+Don't get a remote job if you do come here to work, make sure you work out of a brick and mortar location, will increase your chances tenfold of getting noticed and promoted.
+
+In a word-frustrating.
+Advice: Fix what we have now.
+Slow down on the development cycles.
+Catch up all documentation to current versions of product
+Conduct interactive VLS training for all modules with a support persons needs in mind not a PS consultant.  We need to help fix it, not build it.
+Have given up on the idea of advancement, don't know the right people.
+Pros: Working with SF was a blast, great people, high energy, motivated to help businesses maximize the return on their most expensive investment, their people.   Couple this with the SaaS model and you have a great concept.
+
+Cons: Sales quota's unrealistic & unattainable for 3rd tier SAP offering; which falls far behind behind Software & Professional Services, yet quota's are higher??? Poor communication among sales divisions & misc. product teams who could have easily benefitted and improved sales opportunities collaborating as a "team". If you do not work in the software sales division, you have work cut-out for yourself, selling value as a 2nd/3rd string team member, before you even get to work with "external" customers! viewed as step-child once removed & rarely invited to come to the party. Unfortunately I reported to a insecure, micro-manager with no people skills who was very narrow minded & operated with a stove pipe mentality, she felt threatened by anyone who thought "outside the box" or dare question her directives.
+Advice: Witnessed fair amount of "churn & burn" in my specific division as well as and among new hires in SW sales for new target "strategic accounts" in white space. Company needs to more fairly distribute territories & base accounts to even playing field among sales reps.Too many tiers of management and too much bureaucracy, too many hands in the pot, trying to claim ownership! Core Culture & Values that were once highly respected and strong seem to be declining.
+Pros: Highly regarded SW Solution company, constantly expanding offerings through corp. acquisitions... possibly too quickly. Dedicated employees & co-workers, good benefits.
+
+Cons: There is a severe disconnect between new leadership (SAP) and the rest of the organization. Major issues are acknowledged over and over without marked improvements. Lack of transparency in communication and poor planning/implementation/measurement of initiatives to remedy major issues. Challenging to maintain motivation when we "hear" about improvements, but don't "see" positive outcomes. Pay for performance went out the window last year. Talented people are leaving or actively looking. Have to fight for work/life balance. Probably the most disturbing is hearing "It's not MY job" on a regular basis now. That simply didn't happen a few years ago.
+Advice: Listen to your people! We know how to solve the problems and want to be part of the solutions. The job market is once again competitive...retain your talent. If you are not going to pay for performance any longer then increase focus on career development planning, create opportunities, increase perks that benefit everyone (including remote employees!). Be truthful and transparent in communication.
+Pros: I like the product concepts, the team I work with, my direct Manager, freedom PTO policy and ability to work from home. Always something new to learn and opportunities to work on interesting projects. There are still talented, dedicated people in leadership roles who understand what made SuccessFactors great and retain the values that created the formerly awesome culture!
+
+Cons: Erratic changes leading to morale issues.  
+Top executives fleeing.  They can not keep a cloud leader for more than 6 months
+Many people are leaving and finding better comp and opportunties elsewhere.  
+Company is in serious transition and unfortunately that is pushing good talent out.  
+Inside Sales leadership in both Vancouver and Scottsdale needs a major overhaul.  Running the place like it is 2005.  Instead of fixing it the attitude is if you do not like it leave.
+High School like clique in Scottsdale.
+Advice: Take a hard look at the Inside Sales business model and make improvements.  If not, you will continue to lose people to your competitors.  Show value to SAP instead of using the ISE's to be assistants to the AE.  You bring people from other companies where they are sales reps and try to turn them into lead generation.
+
+Right now the Inside Sales org is basically a training center for other positions and mainly third party companies benefit.
+Pros: Great logo for your career.
+Very smart and great people overall.
+
+Cons: Weak HR management in implementing immigration policies for top talents combined with poorly experienced immigration lawyers, promotions are dependent only on the personal wishes of a manager irrespective of real performance display, long and painful approval processes, over emphasis on online learning and lack of personal touch, recent departure of several key players from leadership roles.
+Advice: Top recommendation would be to find better lawyers for the international immigration process as the current team is inexperienced in handling time sensitive and complex cases ( and that goes beyond one individual employee alone). Device a flexible performance appraisal process that considers extra ordinary circumstances for individual resources rather than a one size fits all approach. Create a redressal mechanism for employees to express discontent with employee manager relationship without the fear of retaliation and adverse consequences.
+Pros: International workforce, the pride of working with the most impactful company in the enterprise space, market rate compensation, generous vacation policy and benefits, free lunch, gym on premise at large offices, recent innovation in game changing technology, good top management, great logistics and transition process for international transfers
+
+Cons: Can be hard to transfer internally due to hiring freezes
+Too many decisions (hiring, giving away tickets to SAP Center) are made based on who you know
+Technology lags in some areas, SAP tends to be very slow to innovate
+Slow moving in general
+Very bureaucratic with layers of management and multiple teams doing overlapping work
+Management can be arrogant - twice my team has been reorganized with new management over the last three years and both times the new Group VP came in and totally trashed anything and everything we had done previously (ah, not very motivating!)
+Advice: We often hear the company can't afford it - whether that means a travel request or investment in a needed product area.  Make some tough decisions on old products and cut out the many, many layers of stuff we don 't need (internal communications, newsletters, special web sites, etc.) and spend money where you need to!
+Pros: If you need to make your own schedule this is an awesome place to work
+SAP compensates individual contributors well - you can make good money without having to manage a team
+Free, healthy lunches in multiple cafes on Palo Alto campus
+
+Cons: Simple...Management in the Scottsdale office. They ask us to run deals as if we were in the field and then reward us with scavenger hunts. Morale is so bad, yet management thinks nothing is wrong and continues to go to lunch with each other and hang out on the weekend and attend each other's weddings. Describing management as delusional would be a compliment. If you come to work at SAP...don't go to Scottsdale.
+Advice: This only applies to Scottsdale. There are good people in this office and you are treating them poorly. If you want them to focus more on the dials to find business rather than dials for job interviews elsewhere, you need to think more strategically to motivating your employees. Even the newer people are getting a bad impression early on from the negativity coming from tenured reps.
+Pros: 1. Well-known in IT industry 2. Free lunch program 3. Lots of tools for personal development 4. Smart people to network with.
+
+Cons: Even though SAP has a great deal of positive energy, there are many people in the company who take advantage of it. Layers of mid-level management which do nothing but talk. I have seen many of them who have been here for years and do a lot of talking but deliver nothing useful to customers. CTO & leadership have a vision and SAP needs to cut all the layers of fat & create flat hierarchy of engineers to deliver the vision.
+Advice: When someone starts talking, stop them and ask them to show what/when they will deliver. Talk to them about the results after they have delivered and give them constructive feedback.
+Pros: Good executive management that cares about the employees. Management is transparent to its employees. There are a bunch of people in the company who want to take on challenges & want to make a difference in the industry. The CTO of the company is a good leader with qualities needed to make SAP competitive.
+
+Cons: Not a lot of opportunity for career growth - you can stay where you are for 20 years if you want
+Top-down mandate for strategy - often with no actual insight into the problems they are trying to solve
+Lots of strategic changes being made without a real vision of what the changes are attempting to accomplish
+Quite high turnover in product management 
+Low pay for equivalent position in other companies in the Silicon Valley market
+Flex hours can mean working 12-18+ hours per day during busy times
+Advice: Stop sending out continual notices of change in executive management.  This doesn't impact my day-to-day and we will have a different rich white man in that office in less than 6 months any way.
+Pros: Ability to work virtual from anywhere in the world
+A stable, long-term career if you want it
+Lots of smart people to learn from
+Looks nice on your resume (which I've heard numerous times since working here...like this should compensate for everything else...)
+
+Cons: Lots of change.  If you aren't adept to change then SAP may not be the place for you.  We make changes to things regularly and sometimes they can be complex.  They are usually for the good and to keep ahead of our competition but you need to be flexible and not challenged with making changes.
+Advice: Minimize the change and allow our Senior Execs to run their plans before pulling the plug on them.  The last several years we've had an extensive amount of changes each year and it would be nice if we allowed our Execs the opportunity to fulfill their goals and initiatives.
+Pros: I've been with the company for the last 4 years and have found it to be both engaging and challenging.  My roles have provided me with the opportunity to stretch my abilities and continuously learn new things.  I've enjoyed my time at SAP.  The company offers plenty of opportunities for advancement as well.
+
+Cons: - Recent mass layoff let go of many high-performing employees based simply on geographic location, leaving many not-so good performing employees in HQs.  
+- Career path is not often times not clearly defined; promotions are often tied to political positioning of the individual
+- Every year first 4 to 6 months are in chaos while management take time to decide what employees supposed to achieve in the remaining 6 months of the year.
+- Often processes are too "German" and too process-oriented
+Advice: - Strong alignment with the cutting-edge technology as well as the ability to be more agile will determine the future of this company.
+- Retain the talent.
+- Simplify communication before simplifying the workforce.
+Pros: - Has solid policies & processes in place.  
+- Work/Live balance has improved in the last few months.  
+- A performing product (HANA) run by a company with strong user-base.  
+- Great benefits and salary.  
+- Employees are mostly friendly and collaborative.
+
+Cons: Lots of uncertainly as far as the direction of consulting. With the new cloud/simplification process comes change, which is not communicated well.  
+Here are the disadvantages to SAP:
+-Lots of layers of management - hard to get new ideas up the chain
+-Constant reorgs hurts morale and causes uncertainty
+-Worried(especially as of late) of job security - losing great employees to more secure firms
+-The vision changes every six months or so it seems
+-Your experience depends highly on the manager that you are assigned. Luckily I had a great one, but others are not so fortunate
+Advice: Stop changing the corporate strategy every few months, if it is confusing to employees I'm sure it is even more confusing to our customers.  Keep hiring top talent.
+Pros: I loved working for SAP NA as a consultant for the following reasons:
+-You truly own your own career, and can take advantages of all opportunities
+-Flexibility to learn new skillsets as the market demands
+-Exciting and fast paced environment, you will never get bored
+-Some of the smartest people in the industry work here
+
+Cons: Was part of the Ariba acquisition in 2012, and now in early 2014 have been going through the compensation planning for the year.  The company speaks about their philosophy of being open and fair about compensation, but they tried to hide all of their bands and pay grades from Ariba employees.  They didn't do this very well, and it's now pretty widely known that the  Ariba employees are paid well below the SAP salary bands, but SAP has no plans to rectify this.  So, being a former Ariba employee means that you make a fraction of what your SAP counterparts make for the same level of work and responsibilities.
+Advice: If cloud is truly a big part of your strategy going forward, take care of this issue before all of your cloud talent leave.  You're being penny wise and pound foolish.
+Pros: They are very good at painting the vision and strategy for the company- if the compensation and rewards were in line, it would be highly motivating.  It's difficult to find pros when the compensation is so out of line.
+
+Cons: Everything changed when Lars left the company. A long period of assurances from senior management both at SuccessFactors and SAP, but little action as key people ran for the door. When the dust settled, things were very different as SAP exerted more and more influence. The "transparent" culture turned out to be not so transparent after all. And, very disappointed to see that despite having products that purport to help people work differently, the day to day business behaviors were pretty much like every other company I've worked for.
+Advice: Make faster decisions - you let too many people get away while you were figuring out what to do
+Pros: Lots of promise when I joined - we were driving Cloud for SAP. Very exciting to be a part of that. Working with smart people who know how to get things done. Amazing new office with all the perks. Interesting, varied work. Felt that my contributions were valued.
+
+Cons: Terrible strategy, organization and goals.  But that is the nature of the tech business.  Tenure over talent and you can get very pigeon-holed, especially into tech.  Management is never in place long enough to implement their strategy and everyone suffers the wrath of sales-based management with tech left fixing everything while the sales jerks sit on the beach with all the $.  Many unqualified people in high places which makes upward mobility brutal for those up-n-coming rock stars.  Compensation is supposedly performance based, unless the company or your division under-performs, then they steal your $ like in 2013 when only 25% of bonuses were paid, even if you exceed your numbers by a large margin.  Many VP's who know little about the technologies that they represent creates embarrassing situations in front of customers.
+Advice: Cross train certain technical people into the business/sales side dammit!
+Pros: Solid workforce, especially from the technology side
+
+Cons: It is very easy to manipulate and misuse the system and create your own small mafia-group and go unnoticed and unpunished for a very long time. Keep in mind, that it represents only 10% of the company. You have to be unlucky to fall in this group - unfortunately it does exist and there is no escape if you are trapped there.
+Advice: It will be so disappointing if SAP Management gets it advice from Glassdoor but you must at least try to find the bad apples in the management layer - the ones who are not aligned with people and do not believe in SAP core values.
+Pros: Good and smart people, deep-rooted respect for the product, most people believe in core values defined by SAP. Fair salary, good benefit package. You can work here all your life.
+
+Cons: SAP Sales Management promotes a "mean girl" culture.  If you're in the clique, you get assigned wonderful opportunities and can make significant money.  If you're not in the clique, you get to create new opportunities on your own, but it's best to hide them from the head of sales of your group/.  The head of the clique can not wait to reassign that opportunity and income to one of her followers.
+If you're talent is to be 90% inwardly focused on internal politics and currying favor from internal power brokers, this is an ideal environment.
+If you're 90% customer focused, watch your back.
+Advice: The once a year sales force reorganization process hides enables this cliquish mentality.   True sales competence lies in creating new opportunities from nothing and taking them to closure.
+Pros: SAP field sales reps can make significant money.    I've known several reps who made $2m in one year.
+
+Cons: Some of the worst upper management I've ever seen in my career. Constant mgt fight between German and US, upper management makes decisions and refuse to take input from people actually doing the work, bringing productivity to a standstill. Constant cutting corners, no budgets, endless politics make getting things done impossible. Extremely top-heavy with upper management, not lean.
+
+Company currently has no direction, just parrots buzzwords and cannot clearly communicate to employees. Extremely political. Mired in complex processes. Constant re-orgs.
+
+Does not care about employees, does not walk the walk about "people are our most valuable assets, we grow talent" - high performers laid off, with critical skills the company needs now; no real opportunity for career growth.
+Advice: Remove most of your upper management. Take the time to learn what employees do. Stop being reactive and be more honest with employees. You are losing your best talent.
+Pros: The smartest people you'll ever work with. Good benefits, ability to be collaborative and always learn. Used to be the best company to work for.
+
+Cons: I can only talk about delivery organization, since I worked in that domain. 
+1) Too many managers
+2) Managers have no say in your career. Managers in delivery org. are nothing by HR coordinators.
+3) You are treated as a pawn, no visibility of whats going on in the organization.
+4) Even after 100% utilization, management has ridiculous reasons for cutting bonuses back.
+5) Bad pay master, considering people like me joined thinking low base pay will be offset by bonuses.
+6) No growth via hard work, only if you have a good network you will grow. Talent & consulting knowledge mean nothing. Promotion based on nepotism and your connections.
+Advice: Fire all managers & directors who are not client facing in the consulting division. They are plain overheads.
+Pros: When i started 8 years ago, there were a lot of learning opportunities and career opportunities. I wouldn't say that any more
+
+Cons: NO work life balance, despite all the talk.
+No checks on ridiculous amounts bureaucratic demands, including what color paper a memo is printed in...
+Bonuses have been going down for years, at least in the US.
+Key employees leaving.
+Pressure to down-rate talented, hard working employees to enforce mandatory curve.
+Senior management very political. 
+Too top-heavy, growing groups of upper level managers.
+Not devolving decision making to the lowest appropriate levels to allow those in the know to
+Advice: Thin out the massive bureaucracy, devolve decision making to the lowest, appropriate level.  STOP all the reorganization, Reward and keep your talent.  Stop managers from rearranging the deck chairs for and to no purpose.  Do a 360 review on your new managers and see if they are doing a good job or causing chaos with no improved results.
+Pros: Pockets of fantastic talent
+Dedicated workforce
+Not beyond repair
+
+Cons: Continous re-organisations are very stressful and difficult to handle; the predominantly sales-oriented current management is not focusing on products but on how to sell more. 
+Of course success goes through selling, but continously up-selling is destroying customers trust. 
+In addition, regular and almost random lay-offs are strange for a company deemed so successful, and represents a brain and experience drain. All that is new is not shiny.
+Advice: Re-focus of product development, customer experience and transparency. The joint CEO model provided many benefits across geographies, now it is going to move to a strong US-based controls - could that mean trouble on the horizon?
+Pros: Having worked with SAP internally and as a customer for 20 years, I have seen the ups, the downs, the sideways and the not-so-great. There are many technically brilliant people (particularly in Germany) happy to share knowledge and know-how, and almost endless opportunities for learning, with a competitive salary and benefits.
+
+Cons: Promotions are basically "who you know" and I've been bounced around too many times and looked over.   The best people tend to leave once they see they are not going to be recognized ....    Most senior management place higher value on externals - so generally you can expect to remain stuck.
+Advice: SAP needs to learn to begin with the individual user.    Stop taking super complicated solutions from Walldorf, hosting them, and calling it a "cloud solution"....
+Pros: SAP has this massive install base of ERP systems, so the "opportunity is SAP's to lose".  Unfortunately we do seem to be losing one battle after another, with the likes of Salesforce.com and Workday simply eating our lunch.
+
+Cons: Long, long hours. Your fat salary comes at the price of long hours. Don't expect a 40-hour work week here, at all. If you're unfortunate enough to be in a position that requires traveling, expect to see your family a lot less than you do now.
+Advice: Keep it up with the great training, the fantastic cafeteria (low cost to employees), and the compensation.
+Make a better work-life balance, people have families and kids they would like to see every few days. Being stationed in the middle of nowhere for 5/7 days a week for weeks on end gets old.
+Pros: Some of the best training available at a company. We're talking classroom, books, etc. provided. It's a real throwback to your college days.
+Some of the best compensation possible as well, such as a large salary, a bonus, and equipment.
+
+Cons: *Sometimes parking is hard to find at Newtown Square office
+*Some positions require a lot of travel. 
+*Work life balance is encouraged, but some positions make it difficult to maintain
+*Yearly increases are not as high as they could be. 
+*To start here, many employees must begin as an hourly contractor and work towards becoming salary.
+Advice: Continue to foster a culture of development. Managers who build a great team are the best way to build the company from the inside.
+Pros: *Good benefits, salary, maternity/paternity leave, bonuses. 
+*Pleasant security and other staff. 
+*Great culture that focuses on development, teamwork,  success of both the company and the customer. *Depending on your manager, there is a lot of opportunity to learn and expand your horizons. there are courses in-house for employees that make personal development a real option.
+
+Cons: Attrition of benefits over time, quarterly focus on profits degrades quality, work-life balance is way off.  Travel is the norm for most consultants and sales people, but SAP takes it to an extreme.  The expectation for working during off-hours has been heightened in the past 3-4 years.  The recent realignment to a cloud-based business model is causing a great bit of internal upheaval.  Recent layoffs have hurt morale.
+Advice: The focus on quarterly performance and trying to squeeze more work out of salaried employees is hurting quality and depressing morale.
+Pros: Great bonuses, good vacation policy, community-oriented, decent medical benefits, very smart people to work with in general.  The company does a good job of taking care of and up-skilling new employees with the long view of their success.
+
+Cons: Typical "red tape" associated with a large company...it takes longer to respond to market demand and customer expectations sometimes because of the processes we need to go through (compared to start-ups for example)....so if you are competing with start-ups and smaller vendors, it can be a little challenging... 
+
+Takes some time to get adjusted to SAp's work culture, teams, how to get around the teams etc...
+Advice: None
+Pros: Excellent work-family balance, work from home options, very nice benefits (although salary not too high), encourage employee growth....
+
+Colleagues are nice and respect each other and help each other out and there is a lot to learn from the different resources available, training given to employees, opportunities to grow and build your dreams and aspirations...all in all, it's a GREAT company to work for and I would recommend it highly to people from different stages of their career!
+
+Cons: As with many companies who are experiencing double-digit growth every year, change is the name of the game at SAP. Sometimes it seems we go through changes just to shake things up.
+Advice: Being a German company, SAP has at times a stuffy corporate culture and need to over-complicate things. However, with the appointment of the new CEO there is a positive change in the right direction. Bill McDermott has brought transparency and simplification to SAP.
+Pros: Software is one of the best industries to work for and SAP is one of the leaders in the software industry. As an employee, you have opportunities for personal growth. Since a lot of employees work remotely, there is not a strong office culture but the company has strong core values.
+
+Cons: Products are perceived in the market as old technology with bad user experience. Constant change in leadership (top and middle management); terrible culture; although they are trying to attract young talent they continue to fail to deliver on talent-development programs; rampant nepotism; lack of accountability, too many "legacy" employees with high salaries who are not bought into the idea of bringing new talent onboard and most importantly, keeping it!
+Advice: You really have to do something about the company's culture. If you want to attract young talent your current employees need to be bought into your vision, it is not enough to continue pouring money in new "Leadership Development Programs" that over-promise and under-deliver.
+Pros: Huge customer base, that is about it.
+
+Cons: Politics and culture of an old legacy software company are rampant. Extremely slow moving. Lots of people with extremely long tenures (which is not common in the tech world) that have no other experience outside SAP and are so very set in their ways--very political and "clickish". Lots of unproductive employees they can't get rid of due to european employment laws. Will take a miracle for SAP to improve the outdated culture, red tape, and bureaucracy built over the last several decades at this company. They're a bleeding talent from some of the innovative companies they have acquired in the last few years.
+Advice: Do what you can to fix your employee engagement and flesh out all the dead weight lying around in the shadows.
+Pros: Global recognized brand, huge customer base, large scale projects working at a global company that makes technology most major companies use
+
+Cons: Internal processes still needs to be streamlined. Takes lot of effort to accomplish things internally. I certain organizations like consulting there are still lot of middle managers.
+Advice: Stay focused on our current strategy of making our software available on-premise, on-cloud and on-mobile. Be transparent about your decision to make large acquisitions and also how it will be integrated into core SAP applications. Streamline our internal processes so software can developed and delivered in shorter cycle.
+Pros: SAP is a very employee friendly company. Company has recently become more focused in becoming a cloud company even though it takes longer to recognize revenue and it is less profitable then SAP's core on-premise business. New leadership under Bill McDermott is very good and transparent about SAP's future and strategy.
+
+Cons: Time consuming internal processes that can slow down deal cycles. Too much emphasis on cumbersome and redundant sales forecast reporting. With the exception of a few managers, leadership is non-existent.
+Advice: Provide that type of support the sales staff require to do their job efficiently and effectively. Facilitate a more cohesive company culture. Minimize the (seemingly) constant changing of internal processes that have a direct effect on the day to day duties of its employees.
+Pros: Demand for the company's cloud product mix is very high, with strong pipe. Good place to gain front line exposure within the (B2B) cloud software space on a global scale.  Flexible work from home policy. Very seasoned and skilled sales professionals throughout the org. Great place to gain large scale, enterprise deal making experience.
+
+Cons: SAPs purchase of Successfactors has negatively impacted Work/Life balance
+-From Unlimited Vacation Days to 16 days a years. High billability requirement  
+-From Quarter Bonuses now moved to annual
+-Ability to Max Bonuses from 300% now only to 150%
+-Health Care Option PPO.. high dedectible or high premium - pick your poisen
+-No raises after SAP purchase or no bonus rate hike.
+-No team connection - since more than 50% works from home.
+-Not sure where the opportunity growth is.
+Advice: To keep top talent around.  Remember what keeps employees happy.  Benefits need to get better - taking a day off shouldnt be a struggle.
+Pros: Work From Home flexibilty. Ability to buy Stock Options at a great discount.
+SAP Growth is going to be great.
+
+Cons: Poor work / life balance
+Significant execution challenges trying to compete against Cloud vendors
+High Executive turn over - instability and constant shifts in messaging and direction
+Advice: You can't fix what you don't acknowledge and the culture discourages openness.        
+Purchasing smaller cloud companies doesn't make SAP a Cloud company.     
+The architecture of the company's core applications will be increasingly difficult for the company to sustain in the long run - difficult to be effective in the cloud.     
+Too much emphasis on one particular database product - one that the market isn't adopting as an agnostic solution.
+Pros: Competitive compensation and benefits
+Flexible work location and hours
+
+Cons: They use outdated technology and have lot of bugs which is frustrating for customers. The company is trying to adopt new technologies but they are too slow. If you are an aspiring engineer, this place might not be for you because career growth and development for engineers is not a priority. The rewards and growth promises are reserved for everyone except engineers so many talented engineers leave the company. This makes the product quality poor and below standards.
+Advice: Focus on innovation and reward your engineers like many silicon valley companies. This is missing and critical for companies like SuccessFactors to improve product quality by attracting and preserving talent.
+Pros: It is a SAP company so there are many benefits to employees.
+Office building, Free Food, Gym, Shuttle Service.
+
+Cons: No work from home arrangements although I understand they have relaxed that to some degree over the past few years.  Many reorgs over the years which can create instability and confusion.  There always seemed to be an annual reorg which put everyone on edge.
+Advice: None
+Pros: Very progressive work culture which promoted collaboration and innovation.  When I first got there in 2001 the benefits were 100% paid for by the company.  When the bubble burst they took more and more money out of our paychecks each year.  By the time I left in 2007 they were growing and starting to reward for performance.
+
+Cons: Product development management is poor.  Constant major re-orgs in the 20,000+ person group confuse the organization rather than increase productivity.  New development efforts are frequently started with little regard to established competition, frequently resulting in introduction of shallow products that are years behind the market.
+Advice: Carefully choose which market segments to participate in and make long-term commitment to dominate them.  Significantly improve "green light" process for new product development, requiring sales and marketing approval of minimum viable product feature set before committing to development.  Separate CTO function from product development management.
+Pros: Salary and benefits are good.  Very well educated and experienced colleagues.  Company appears to be stable.  Sales and marcom efforts are very professional.
+
+Cons: Inside sales is trying to find its stride.  While a few reps fall in to large deals, most are scraping by and not meeting their numbers.  It all depends on the territory you are assigned.  The processes are not set up to handle volume transactions.  To get a closed deal booked and delivered is laborious.  Additionally, SAP support seems to drop the ball often, causing the clients to reach out to inside sales in desperation.
+Advice: The current mantra is "simplify everything so we can do anything", but no formal teams are tasked specifically with doing this.  This absolutely needs to be done.
+Pros: Fantastic benefits, large client base to sell to.  Good work-life balance.
+
+Cons: - No mobility to new products when company direction changes, even if certifications are obtained in the new products
+- Sales is not given incentives to promote services positions for implementation
+- Price themselves out of project positions
+- Reviews are fully focused on billable time for consultants but consultants are not given the full picture of available projects
+- Full time projects any longer than a short duration are almost non-existent
+- Focus on RDS methodology marginalizes consultants
+- Bonus allocations continue to decline
+Advice: None
+Pros: - Good benefits package
+- Growth company
+- Learning materials readily available
+- Most projects are M-Th and remote Friday
+
+Cons: -- Poor reputation: Company's brand perception is extremely negative in the SF Bay Area
+-- Corrupt culture: employee advances are handed out based on who you know, not what you know
+-- Reorgs: With 2+ re-orgs per year you career can quickly stall and you can be trapped in a bad group
+-- Uneducated Managers: Managers are untrained and often under-educated.
+-- Fake Job titles: Virtually everyone holds a business title of Director or VP. In reality very few people hold these titles as per the Corporate HR system.
+-- 1980's Technology: With its own HTTP layer and ABAP custom language built in the 80s, SAP technology is crap and often ridiculed by the tech leaders in the SF Bay Area
+-- Working from Home: Often abused many VPs and Directors, who are missing in action and working on personal projects instead.
+Advice: RUN
+Pros: -- good pay and bonuses
+
+Cons: SAP really took over the company culture to start 2014 and it has been a train wreck. There is no SF identity anymore. SAP is completely disconnected to SuccessFactors market needs, they have just been making the company more SAP like....but they could have stood to gain much more if they leveraged SF strengths more effectively.
+Advice: Stop trying to make SF, SAP. The company was awesome and had great market presence before you began bleeding it.
+Pros: The company used to be transparent, open, full of team work and spirit. The good ole days are gone.
+
+Cons: Lot of acquisition means restructuring, which means your position can turn out to be not what you signed up for, older methodology means some of their new endeavors, e.g., mobile, cloud, can seem pretty antiquated compared to startup products, compensation isn't great, culture isn't very relaxed outside of SAP Labs
+Advice: Focus on bringing in new blood (university hires), smaller teams that focus on specific aspect of a solution, and read what the blogs are saying about HANA and mobile products
+Pros: Flexible work options are available (working from home is an option in many cases), lots of room to learn, many resources available to employees
+
+Cons: Too much bureaucracy and many processes. You are asked to be a leader from people who have no clue about being leaders. Decisions are made by force not by convincing.
+Advice: Middle management is not technical and cannot determine merit properly. Upper management does not provide means to middle management to deal with under performers.
+Pros: The company provides Job security as they will find something for you to do if things are slow. Lots of innovation provides access to new technologies. There is lots of potential for travelling and in many cases to customers which provides you with face time to customer upper management.
+
+Cons: Continued SAP integration pains, difficulty getting information. Networking essential to getting your job done. If you were used to having everything spoon fed to you, get used to the new navigation methods.
+Advice: Communicate directly and tangibly. Too much abstraction leaves employees wondering what it has to do with them. Be as transparent as possible. Lack of transparency (this means everyone) leads to mistrust, gossip, lowered morale as a result of people feeling left in the dark or left out.
+Pros: beautiful digs, smart, caring people. A special cultural legacy left by company founder. Generous perks. Casual environment. Pride in product. Inspiring colleagues.
+
+Cons: Work-Life balance is very hard to attain.  Have to sometimes work during your vacations.  When you finally de-stress while on vacation, you jump back into stress on your first minutes back from vacation.  Career development education and training is hard to accomplish due to constantly being on the go.
+Advice: Need to take better care of your employees who do the day in and day out work.  Too many VPs !
+Pros: Able to work in various parts of the organization to learn about different aspects of the business.  Great benefits.  Great group of people to work with.
+
+Cons: The only challenge is the focus and emphasis on the quarterly earnings. There is a huge expectation to keep delivering results quarter after quarter, and sometimes that diverts enegy and thinking for the longer-term strategic perspective.
+Advice: Continue to give clarity to the longer-term picture. Employees know that innovation and change are particularly rapid in IT, but living or dying by the quarterly numbers prevents people from thinking further down the road.
+Pros: A strong organization, good culture, market-leading solutions and a strong commitment to innovation. The calibre of talent in the organization is impressive...you are working with some of the best and brightest, yet there is a strong culture of teamwork.
+
+Cons: A lot of high level changes such as Vishal's suddenly leaving for InfoSys. SAP is yet to put out an official announcement but Vishal's already assume his office in the new company. As for the small potatos, it is NOT easy to switch to another team - people tried and left.
+Advice: We need much more clarity to build confidence on our leadership. The bottom line is we need solid confidence on the software SAP produces - please try to avoid failures such as Windows Vista, Window 8 from happening at SAP coz we have already seen some bad ones...
+Pros: It's still big so the influence will remain strong for a while.
+
+Cons: No pay raise for 2 years
+Mgmt says no growth util Sr Mgmt  or your current manager leaves company
+Benefits cost to employees increased more than more than 150%, in 2015
+
+Under estimate work and then ask team to be efficient
+Being in HR space but HR partner never responds to employee emails in time.
+Advice: Train your management and drive employee growth. Do some anonymous survey about group managers. don't do annual review just for sake of doing. Give at least cost of living pay raise.
+Pros: Flexibility work from home. 
+Into cloud software. That is nice
+Engg team collaborates with PS team for enhancements which is good
+
+Cons: Advancement and opportunities are sometimes based on politics and relationships not necessarily on merit or being better than others.
+
+Frequent organizational changes.
+
+Work / life balance is not very good.  Have worked up to 10 hours on weekends for over 2 months now.
+Advice: Don't overlook your stars and don't think everyone is happy.  There are many options out there who are offering great renumeration to folks with SAP experience.
+Pros: Challenging environment with measurable KPI's makes it clear cut to know if you are doing well or not.
+
+Cons: At the time of this review, there is a major re-org taking place in North America.  Entire technical teams (dev, QA, doc, support, management) are being laid off, and whoever is left has to pick up the slack on already short-handed teams.  If you're looking in the Bay Area, it's probably alright, but I'd be wary of smaller locations, as their days may be numbered.
+Advice: None
+Pros: The departments I've been involved with are accepting of remote working and flexible hours.
+Decent benefits, with 401K matching and contributions to HSA.
+Interesting projects to work on.
+
+Cons: The environment is too distributed, your team likely spans 3-4 timezones/countries.  Not all teams match the demands, which caused quite a bit of conflicts.  Quite a bit of "protecting my territory" around groups/teams.  The company lost its focus & agility post SAP acquisition.
+Advice: Watch out for those single-point-of-failure situations.  There are quite a few of that.
+Pros: Great people, can-do attitude shared around most functional groups.  Cloud is in the company's DNA.  This is a place to be to learn as much about Cloud products.
+
+Cons: The company decision-making process is simply too "silo-ed".  The right hand doesn't know what the left hand is doing, and it leads to decisions that can be detrimental to the entire organization (because the decision was made with the good of a single organization in mind).
+Advice: Break down the silos.  Product decisions need to be made at a product level, with input from each of the silos that are affected by it.  Not making decisions within a single silo that affect every silo that the product touches.
+Pros: The Company has great benefits and great pay.
+
+Cons: + Challenge to make sure you get the right territory to be successful
++ Very political so need to have your game face on at all times
++ Not invented here mentality can inhibit creativity to help get deals done
+Advice: + CEO is a charismatic leader with a can do attitude.  Needs to make sure his leadership team is creative and open to new ideas that drive revenue.
+Pros: + High performing sales organization with talented team members willing to help to support sales.
++ Opportunity to make lateral moves inside the organization to learn and grow 
++ Virtual working environment
+
+Cons: - Inefficiencies due to a highly distributed development organization
+- Bloated organization with a considerable number of not overly motivated "lifers", meaning employees with 10+ years of tenure
+- SAP is betting its future on HANA, a risky strategy
+Advice: - Bring in new (outside) management talent in the middle layers of the organization
+- Elevate product management to have an equal footing next to Engineering
+Pros: - Very competitive compensation packages as compared to other big enterprise software companies (e.g. Oracle)
+- Good opportunities to work in various location across the globe
+- Diverse workforce
+
+Cons: Most likely need to relocate to advance in the company (which you may consider a "Pro" or a "Con"). Walldorf is the HQ and thus the center of SAP's universe even though great ideas spring up all over the company. Not really a "con", but I'll put it here: You must be a consensus builder in order to succeed.
+Advice: None
+Pros: Smart people who work hard.  There is an emphasis put on work-life balance. Redundancy is being cleaned up throughout the company. Training is available, if you need take advantage of it.
+
+Cons: There are way too many reorganization exercises.  Even when you're not directly impacted, you are 2 degrees of separation from someone who is and the culture/ work morale can be taxing.  Communication from the "trenches" seems to lose meaning as it gets pushed up to upper management ... like the telephone game.
+Advice: None
+Pros: The company is large which provides a lot of good opportunity and the focus on social responsibility is pretty inspiring. Communication pushed down from top is usually clear and consistent across organizations.
+
+Cons: Too much talk and not enough action. Frequent change in direction. Frequent re-orgs. Management career very limited outside Germany. Control on everything almost exclusively in Germany and expect others to just be puppets.
+Advice: If you consider yourself a global company then act like one. Don't be too German-centric and don't consider external sites such as US campuses a threat. You try to promote innovation but at the same time you stifle it just because it comes from outside Germany.
+Pros: Compensation, work-life balance. Mobility of non-management staff - i.e. can move teams/orgs relatively easily.
+
+Cons: Being a very large firm, its easy to stagnate if you are not focused on career development.
+Advice: Keep up the good work.
+Pros: There are lots of teams doing very diverse things. Some teams are doing really cutting edge work while some are doing old fashioned maintenance type work. There are plenty of opportunities for career development if you take the initiative. The culture and benefits are good. Good vacation policy. Flex work schedule is also beneficial. Leadership is good and focused on company growth and also employee development.
+
+Cons: Large complex organizations.  Sometime difficult to understand who "owns" an issue and is responsible to solve.  Political organization, particularly in regards to development vs others.  Very impatient organization in terms of sales.
+Advice: Address politics that exists between sales, development, and others.  Address internal and external perception that its still "Germans" that really run the company.
+Pros: Very smart people working there. Strong enterprise market/solution coverage.  Large development budgets.  Great employee benefits (health, etc.). Well known in the industry.
+
+Cons: Yearly reorgs does not guarantee you will be here.  Also, this does not provide any incentive to explore professional growth.  The politics are of "Shark Tank" status and makes it difficult to manage career development.
+Advice: Don't just look for profits.  Appreciate people for the hard work they do.  Don't find ways of cheating them out of a larger bonus.  They work hard and deserve it!
+Pros: Great compensation, Great benefits, great stock purchase program, great opportunities for growth
+
+Cons: - No stock option.
+- Too many reorgs.
+- Politics are getting more regular and can be fierce at times.
+- Old (good) cultures are gone. This can be tough to get motivated.
+Advice: Please bring back the caring and friendly culture of old and again treat employees with respect and dignity.
+Pros: - Free lunch, drink, and good coffee.
+- Salary and bonus are pretty good, especially the bonus part.
+- Good matching for 401k.
+- If you work there for a long time, you will have a lot of vacation.
+
+Cons: -Constant change in Executive leadership
+-Unclear long term strategic vision
+-Constant opoerations/process changes
+-Very few opportunities for Sr Level Finance positions in the West Coast
+Advice: None
+Pros: For employees in Germany: Employment security, great benefits, wonderful resources, opportunity to try different career paths with little experience. 
+
+For employees that reside in regional headquarters there are many opportunties for career advancement. Executive leadership is very supportive of promoting talent and for taking chances on High Potential Individuals to assume new roles where they have little experience.
+
+Cons: Some of the leaders are not equipped for their roles.  Constant leadership reorganization can make for some chaos and ever-changing directives.
+Advice: There needs to be better mentoring and development of leaders so that more of the middle management can be effective with their teams.
+Pros: There is reasonable work-life balance and they offer plenty of opportunities for growth and advancement.  Sure, there is some dead weight like any organization has, but SAP is focused on improving their products, hitting their numbers, and satisfying their customers.
+
+Cons: Hierarchical structure and management interactions in some groups could be challenging political environment. Some managers are micro managers. Sometimes the way the organization runs doesn't allow to extract the full potential of an employee. Responsibilities are limited at times. Too many cooks in the kitchen often results in projects running out of synch and lengthy unproductive ones.
+Advice: Motivate employees more. Hire and Retain Talent.
+Pros: Great Company that offers what they promise. Strong German Culture. Flex Work approach. Benefits and bonuses always paid out.
+
+Cons: Communication between teams was not organized as well as it could have been.  It sometimes felt like groups which worked together often were unaware of what the other team was doing.
+Advice: SAP has been making some drastic changes which I believe will result in a better overall structure.  Keep thinking bug but don't lose sight of the importance of retaining good employees.
+Pros: There's always work to be done and something new to learn.  SAP provides great benefits and a good work environment.
+
+Cons: ....you are just a number so YOUR number might come up inexplicably; Middle and upper management are disconnected from the rest; The old sense of "team" is gone.
+Advice: It is tough not to rip Management here....  I will just say I am disappointed with them.
+Pros: Technology is top notch; one of the "800 pound gorillas"; some very good people work there;  vacation time and work remote; will spend money, but....
+
+Cons: Late and incoherent strategy for cloud offerings, pressure on individual contributors to produce the strategy that is not yet there, great people yet very odd culture driven by fear, I agree with other review stating too many nontechnical managers over technical processes, strategy changes every 4-6 months disrupting momentum
+Advice: Get coherent cloud strategy in place, get Suite optimized for cloud, pare down to smaller set of good products
+Pros: Lots of opportunity, somewhat decent work life balance, great people, access to resources, great customers
+
+Cons: Very low salary for developers in palo alto compared to other companies in and around palo alto
+No career growth
+Company is full of politicians who do less work and more of politics
+Some employees are totally useless and dont provide any value to the company or customers
+Too many managers and Managers are not good leaders
+Wrong people leading teams and organizations
+HR is totally useless
+Too much fat in palo alto almost everyone is a senior director ,vp or svp
+They dont apply for green card for atleast 3 years after you join sap labs usa
+Low employee motivation
+No good projects to work
+No Clue how to build cloud platforms and products
+Old SAP outdated technology
+No new innovations
+Advice: None
+Pros: Huge loyal enterprise customer base
+
+Cons: Must be able to navigate political landscape of management.  
+The compensation upside is limited and dependent on ability to navigate political landscape
+Advice: Less focus on building a Millennial culture and recognize the talent you have walking the halls
+Pros: Large company with extremely talented employees.  
+Brand recognition in the market provides a great opportunity to gain access to potential clients.
+Great enablement and career development
+
+Cons: - Compensation is just average, you have to negotiate to get better pay
+- Unclear on how to move up in the company, internal bureaucracy is a thing
+Advice: - Be clear on why people get promotion and how, be open to new faces
+Pros: - Great culture
+- Some good training for employees 
+- The work involve a wide number of users. if you want to make impact on a big scale this is the place to do it.
+
+Cons: Can get stuck for many years in the same project working with old technologies if located in a small office.
+Small offices do not share a proportionate amount of perks as big offices.
+Advice: Be more clear about direction. Less emails, shorter ones and more focus about what need to be done.
+Pros: Good salary and freedom to develop your career if you are working on the right projects.
+Good opportunities to work in different locations and travel if one likes it.
+
+Cons: Given SAP's size, there is a highly matrixed environment that can slow things down, but it also ensures initiatives are well thought out and professionally executed.
+Advice: Continue culture of strong leaders, who can recognize, develop, and nurture talent.
+Pros: SAP has the long standing relationship with its customers that give it a trusted advisor status that is a great asset.  Collaborative work culture filled with highly talented people who operate with high integrity.
+
+Cons: Promotions are difficult. If you are not in the click you will not move up or get looks at new opportunities. Performance reviews can be more personal than business related. Errors in judgement are never forgot or forgiven, difficult to overcome once management has a set perception.
+Advice: Make sure the little mafia's that develop are broken up. This culture will continue to keep quality employees from staying.
+Pros: Good pay, great people for the most part
+
+Cons: Senior vp turns over is high. Usually we spent more times to educate the about the product than relying on the senior executives to set vision and long term strategy.
+Advice: None
+Pros: Smart people, and team work environment. Very good with work life balance. If you are on vacation, people don't expect you to read and reply emails. Although sometime you do reply for emergency situation.
+
+Cons: Too much emphasis on SAP proprietary technologies.  Development offices are spread around the world, which an make it difficult when you need to work with someone outside your location.
+Advice: Need more flexibility to move if you're not happy on your current project.  Company is losing good people.
+Pros: Generally treats employees well.  Good pay and benefits.  There are interesting things to work on if you're in the right project.
+
+Cons: The many job function and department silos can make it challenging to get things done, despite management's belief that people should feel empowered to make decisions.
+Advice: Streamline overlapping job functions if the goal is to become a more agile work environment.
+Pros: Great company to work for quality of life balance. Things change frequently, which keeps any job at the company interesting. Great compensation and benefits. Management is excellent in communicating information to the workforce. Vast amount of training opportunities.
+
+Cons: Advancement is tough, but available for the people who excel, and who are dedicated to their work.  Pay used to be very high, but has changed for some groups.
+Advice: Grow your circle of talent for Succession Planning.  The people to drive the team forward aren't always the obvious choices.
+Pros: Excellent leadership, opportunities for the dedicated, great benefits and pay, and the best and the brightest to work with.
+
+Cons: Management is concentrated in Walldorf,, so unless you are very well networked or have had the opportunity to work in Walldorf you may be limited for upper management positions.
+Advice: None
+Pros: Company is growing and establishing itself as a cloud player. Opportunities abound for those willing to stretch themselves out of their comfort zone. Work environment is good and working from home options are available depending on the organization you belong to. Excellent place to learn how to work in a large global environment.
+
+Cons: Technical debts. Data center operations lack of automation, not like a real cloud company. Bureaucracy brought in by acquired company and SAP.
+Advice: Get rid of a few rotten tomatoes. Lead SAP toward Cloud business rather than got dragged back by SAP legacy.  Investing on tech infrastructure more.
+Pros: Used to be great culture. Dedicate Engineers, Sales and Supports. Very business driven. Customers are happy with our produce and service. Flexible work from home schedule.
+
+Cons: Extremely Eurocentric when I comes to adoption of new ideas.  Too many middle managers that do NOT add any real value.  Lack of diversity and the "good ole boy" network is truly in effect
+Advice: Instead of mainly promoting individuals you like; try promoting those that are actually qualified into positions that matter.
+Pros: Good benefits, training, and growth opportunity--as long as your on a visible team that is well promoted by its manager
+
+Cons: As in any big company - organizational complexity is the biggest issue I've seen. Also, Sometimes work / life balance can be challenging.
+Advice: None
+Pros: Smart people, principled company, solid technology, and strong vision. People are hardworking and passionate, and there is an atmosphere of trust. Truly global company with lots of interaction with colleagues around the world. Great benefits and commitment to people's development and diversity. Overall, great place to work.
+
+Cons: Conflicting company values and strategic direction. Internal processes make it virtually impossible to get anything accomplished. Leadership cares more about the font and color used in a Power Point slide than the content.
+Advice: Take a queue from Microsoft and eliminate a few middle layers of management.
+Pros: Many 'virtual' roles offer flexible work/life balance. My role requires me to travel 2-3 days per week and then work from home. The compensation package is very competitive as well.
+
+Cons: suggest working in the software area or you will not be relevant (e.g. services is not as important)
+hugely process oriented - very slow to respond
+a lot of churn in the sales area
+virtual team - con is that if you are new that going into the office gets you nothing as almost everyone is virtual.
+Advice: None
+Pros: smart people
+innovative technology
+recently introduced cloud solutions (are late to game but catching up quickly)
+
+Cons: Most of products are home grown, a little bit off from the new technologies which are popular outside the company. Two many re-org. which sometimes cause big overhead. There are two many layers on the management structure.
+Advice: Stay focused, and avoid too frequent strategy changes.
+Pros: It is very large well run company, very stable with good benefit, such as various resource to get training,  flexible working hour, and free lunch. Great working environment in Palo Alto Campus.
+
+Cons: Bonus plans & goals don't get finalized until late Q1. Performance metrics are generic and arbitrary 
+
+Annual sales team shuffle and management changes leads to confusing q1
+
+Everyone is a "director" but if not in sales not sure what they do
+Advice: Make metrics & goals more relevant to individual not just form to mark complete for HR
+Pros: Free lunch, gym, good benefits, stock plans
+
+Good internal training on solutions and job function related topics 
+
+Great company events
+
+Cons: While succession planning and personal growth are a focus, the current leadership seems more interested in bringing in new talent than advancing the key internal candidates.
+Advice: Keep up the good work, but find a way to promote excellent talent from within the organization
+Pros: While every large company suffers the pains of growth and change, SAP has excellent people and teams in every area of the business as well as plenty of opportunity for exploring new roles.
+
+Cons: i like to call it organized chaos that sometimes is frustrating, lack of organizational planning and constant quarterly demands on revenue attainment
+Advice: minimize the amount of unnecessary change that takes people away from focusing on what is really important
+Pros: the people, the product and the impact that we are having on the world, the global environment and the opportunities that are provided to work on cool things
+
+Cons: Slow moving a giant colossus of a company.
+Direction can be hard to understand from the ground level.
+Advice: Stop changing direction.
+Use the people below you and stop thinking you're all made from Heaven
+Pros: Great swell of people to network. 
+Great benefits for all ages. Started with 3 week vacation. 
+Best name in the business for notoriety. This will get you places.
+
+Cons: Reorg every six months. Many many many layers of duplications. Politics are as strong as you can get.
+Advice: Fewer reorgs
+Pros: Great benefits, good people. Products are not awesome but they are industry standards. Going to Europe every month, all business class.
+
+Cons: Too many people are coasting in their jobs, not my responsibility attitude.
+Too many responsibilities have been outsourced and the employees are only managing these contracts.
+Hard to describe what we sell to others.
+Advice: Too many managers/directors and not enough people doing work.
+I get inspired during quarterly meetings but nothing seems to changed afterwards.
+Pros: Good pay, good benefits, good brand.  Will be good to have on resume for the future.
+
+Cons: Too many reorgs. I saw lots of friends get laid off and it finally happened to me based on the latest simplification strategy. I worked for SAP 15 years in 2 different jobs and had at least 12 different managers.
+Advice: Strategic vision and long term plan with focus on employee retention
+Pros: Great chance to learn lots of new technology. Most of the people are great.
+
+Cons: Too much process and mid-level management.  Hard to switch teams with constand headcount freezes. Relative rating bonus system completely subjective and not tied directly to performance
+Advice: Scrap this relative bonus system that tears teams apart.  When you say the company gets a certain raise, stick to it and don't continually screw over the US.  Keep pushing new innovation
+Pros: Great top leadership anf great products.
+
+Cons: Work life balance is very difficult to maintain. Intern conversion rate is very low.
+Advice: Invest in your interns more. Interns do the work of their supervisors and are shaped to be leaders. Use this!
+Pros: Great learning opportunities. You create your experience; you are treated equally and with respect.
+
+Cons: The travel is extensive. Though you can see a lot of different places you are rarely home. When you are on a customer site you usually work long hours.
+Advice: Consultant are re organized often so it is difficult to build a relationship with management. I suggest thinking about different solutions rather than re organizing the consultants every year.
+Pros: Great benefits and good pay. The job also provides great travel opportunities to see the country and the world
+
+Cons: Politics, self-promotion, every person for themselves, old hardline Oracle-style dog eat, dog world.
+Advice: None - it's over for them! The management team (from the beginning and whatever is left) is focused on one thing - how do I ingratiate myself to SAP management? Nothing else matters to them.
+Pros: Good pay - but does it matter when there is nothing but a self-promoting, backstabbing culture.
+
+Cons: Internal politics and confusion around messaging.  Have struggled to pay people correctly and on time.  Still focused in the on premise world and need to adjust more rapidly to be "the cloud company"
+Advice: Transparency, Environment of Trust, Execute on the Simplification Message, Truly embrace the cloud, Need to make a radical change to stop good people from leaving
+Pros: Smart people, great eco-system, strong assets and customer install base
+
+Cons: Difficult to gain a lot of useful experience due to slow process. 
+A lot of corporate politics. 
+Not a whole lot of motivation to push out quality products. Managers and execs mostly care about getting something out.
+Advice: Be more open to listening to people you manage and let experts do their what they excel at.
+Pros: Work life balance 
+Free lunch
+Competitive salary
+
+Cons: In my opinion, customer service was sacrificed for growth and now the customer experience is often poor.  Small issues continue to get overlooked and never get fixed.  Competition has caught up and true innovation has slowed.
+Advice: Pay attention to the little things and focus more on customer (and employee) retention.
+Pros: Every company could use this kind of technology.
+Great work space and very intelligent coworkers.
+
+Cons: It's easy to get wrapped up in the demands of the job, and your work/life balance will suffer as a result.  Job is very demanding, with lots of travel usually, so you have to learn to manage that.
+Advice: None
+Pros: Great technology, cares about it's people, lots of career opportunities, good money.  SAP continually reinvents itself to stay on tops of it's game, and stay relevant.
+
+Cons: there are too many incapable mid-management. Some good talents are not paid properly or embroiled into unnecessary politics. The senior management and executives are disconnected from working people thanks to mid-managers.
+Advice: None
+Pros: work life balance is better than any other company. It respects people's private time and family matters.  Many people works from home if needed though people have to balance it.
+
+Cons: Expectations were often difficult to achieve. From the sales side revenue expectations per individual sales engineer were difficult to attain in certain verticals and product lines and seemed to continue to rise. Pay per deal seemed to continually decrease over time.
+Advice: None
+Pros: Pay was definitely above average. Worked with extremely bright hardworking people. Innovative company with a lot of moving parts (i.e. products and solutions).
+
+Cons: It is too large of an organization. Sometimes, it feels like everything works hierarchically. But the organization is aware of this and actively tries to get rid of this.
+Advice: None
+Pros: Worked with some of the most complex software systems out there. Had a great mentor-mentee relationship with manager. The culture is great for self-development and continuous improvement. The best place I have ever worked at!
+
+Cons: Work life balance is not very good.  There is more to do than can be done at any time.
+Advice: Continue to simplify the business.....
+Pros: Great company with good benefits.  They are in the process of recreating themselves with new innovative products.  Good opportunities in my 10 years at SAP.  The compensation has been very good and leadership has been solid.
+
+Cons: Too much of a boys club at the top
+Margin is emphasized above all else
+You have to be in sales to become anyone at SAP.
+Advice: Stop doing so many reorgs and outsourcing jobs.  The fabric of the company is slowly unravelling
+Pros: The pay and benefits are above average for my job.
+Management at least talks about a good work/life balance
+
+Cons: company culture is changing due to SAP acquisition
+Advice: Don't introduce SAP processes to slow innovation
+Pros: great work environment, great leadership in product management and engineering, beautiful office space in South San Francisco with a spectular view of the Bay, if you are a good performer SFSF will take care of you financially with bonus and stock options
+
+Cons: -Not a clear career path
+-Not enough hands on training
+-High attrition rate
+Advice: -Implement more training's
+-Hold on to top talent
+Pros: -Gain tons of industry knowledge
+-Work with some bright individuals
+-Lots of perks: benefits, lunches, electronics (IPAD, laptop, cell phones)
+-They take care of their employees
+-Andrew at the front desk is amazing
+-Upper management is always available to talk
+-Lot of volunteering opportunities within the company
+
+Cons: Minor growing pains relating to recent acquisitions and shift in strategy. Focus on simplification needs to be more than just a rallying cry, but a reality for the market to understand the full depth of out potential.
+Advice: None
+Pros: Cloud focus and investment is taking the business forward. Leadership is focused at the right level. Company culture is professional and dynamic.
+
+Cons: Company strategy changes a lot, things dont always move as quickly as you want them to go. It is difficult to move across departments, especially going from consulting to a non-revenue job.
+Advice: None
+Pros: Very flexible work from home policy.  Generous benefits, especially if you are at one of the HQ offices. For consultants, the expense policy is really liberal.
+
+Cons: Had to work late hours or early morning due to time zone difference,went through re-org at least once a year. Better to be at the "right" locations, seems US is not on that list.
+Advice: None
+Pros: Chance to work for a global company with teams in different locations and different culture backgrounds. Good pay with good benefits, telecommute if you want to.
+
+Cons: No intern program or oversight on the workload you're asked complete. Work hours - expect 60-70 with no overtime. One out of 20+ interns were converted to full-time HR employees in the last 3 years. Internship expected to last for over 2 years
+Advice: Stop working interns like mules.
+Pros: Exposure to multiple areas of HR. Lunch. Involvement in projects (compete w/ other interns though)
+
+Cons: Reorganization happens quite often, it led to unexpected future for working project. However, the job is stable most of the time,
+Advice: Consider feedback of employee and developer for project's potential future.
+Pros: The working environment is very friendly, although it is a big corporation. Benefits are good, lunch is provided. And most important, the communication is transparent from management to employee
+
+Cons: The company is going through a shift now that they have acquired so many companies!
+Advice: Work to keep the colleagues that you have!
+Pros: SAP has a great work life balance with lots of opportunities to work from home.  Great benefits for employees like free lunch at the office, great health benefits and still a strong bonus system.
+
+Cons: Wants to be the next big cloud play when hugely late in the game with with people that are all about on-prem ERP.  
+Really complex place to work, just like their systems.
+Advice: Keep it simple stupid, and bring in more cloud people that walk the walk, not just talk.
+Pros: Depth, history, and a willingness to change
+
+Cons: Some overlap of responsibilities, limited upward mobility or unclear migration paths.
+Advice: Treat everyone equally i.e., provide opportunities based on merit rather than singling out a particular group
+Pros: Solid management team, great culture, cohesive strategy make SAP a very attractive company to work for if you are looking for a large enterprise technology company.
+
+Cons: Process Intensive.  Simply requesting a memory upgrade for a laptop might take up to two months to get approved.  That being said, the process for booking business travel was streamlined, and painless.
+Advice: None
+Pros: Professional team and top flight talent, as of 2008.  Good Benefits.  Excellent training curriculum for the product suite.
+
+Cons: Very current quarter focussed.  If you have a good patch, then it is a great place and you have the time and space to build relationships and develop your pipeline/opportunities.  If you have a bad patch, you are micro managed, and do not have as much time to engage with your customers.
+Advice: None
+Pros: Innovative, great products, great marketing, global brand
+
+Cons: Impetuous leadership vision to focus on sales and only sales while business implications at the time of software deployment suffer.
+Advice: Approachable communication with upper management is needed. Talented subordinates have an insurmountable mechanism to address their issues when direct manager(s) are incapable to do their job.
+Pros: Direct access to communicating with skilled German software engineers who can resolve technical matters.
+
+Cons: Very difficult to get a full-time position
+Advice: The system for hiring isn't fair and is turning away a lot of valuable employees.
+Pros: Very relaxed workplace, ability to work from home
+
+Cons: In sales very demanding and pushy. Management is either "old Boys Network" or "the new Kids on the block" (complete Teams from Oracle, IBM, etc.).
+Advice: None
+Pros: Working with passionate and talented People. 65% of the worlds GDP runs better with SAP - so you work really can make a big Impact.
+
+Cons: Advancement requires being located at headquarters in Germany.  For a big company, you need to be part of the small inner circle.
+Advice: Trust your managers - communicate with them.  Give advancement opportunities to leaders outside of Europe.
+Pros: Good benefits, lots of interesting projects, interesting and smart people.
+
+Cons: I enjoyed my time at SAP but felt the environment was not very nurturing. Technology felt outdated compared to others in Silicon Valley
+Advice: None
+Pros: The best perk is the 5-6 weeks of vacation US employees get. You get the benefits of a German company while working in the US.
+
+Cons: Leadership is lacking since SAP acquisition.  Work and workplace are very hectic, but that is slowing down since SAP aquisition.
+Advice: None
+Pros: Great Company, Innovation at the speed of light.  Needs more process to be oriented, which it will be now that SAP has acquired.  Pure SAAS company with alot of room to grow.
+
+Cons: There are no real cons, there are not many companies especially in the US that are as great to work for as SAP. As I have to put a con I would say that the HQ is in Newtown SQ, PA on East Coast, NYC would be better!
+Advice: None
+Pros: European company with a global footprint
+
+Cons: Internal politics are very tough and can be career limiting if you are on the wrong side. Difficult and time consuming to learn the internal network.
+Advice: No comment
+Pros: The people in the field are all willing to support you.  Great team work and great people. Very good money if you have the right accounts/territory
+
+Cons: They give you cell phone and Ipad and allow working remote because they want to be able to contact you 24x7; no work/life balance. They are part of SAP
+Advice: You blew it by being acquired by SAP
+Pros: Free food, nice offices, all employees get iPads, cell phones, lots of flexibility for remote workers
+
+Cons: Rewards for the average worker are few.  Average raise is 2-4%  2 for merit and 4 for promotion!!
+mired with middle management
+Advice: the little people keep all the parts moving; reward us too!
+Pros: Co-workers are helpful and smart
+Benefits are great
+Global company so there is a lot of opportunity to travel and relocate
+
+Cons: Very different company than it was 4+ years ago.  
+Lots of political infighting is preventing progress
+Extremely difficult to get anything done
+Advice: None
+Pros: Exposure to broad array of technologies
+World class go-to-market and Sales
+Freedom to think creatively, but ability to execute is limited
+
+Cons: Inevitable burn out. Extensive travel. IT market is getting tougher and tougher. SAP is not as flexible as smaller competitors. Innovation comes mostly with acquisitions.
+Advice: None
+Pros: Dynamic environment in one of the best industries. Highly demanding environment. Good compensation and benefits. Team spirit. Attractive work environment. Amazing customer base. Great brand.
+
+Cons: Inevitable burn out. Extensive travel. IT market is getting tougher and tougher. SAP is not as flexible as smaller competitors. Innovation comes mostly with acquisitions.
+Advice: None
+Pros: Dynamic environment in one of the best industries. Highly demanding environment. Good compensation and benefits. Team spirit. Attractive work environment. Amazing customer base. Great brand.
+
+Cons: Quite low pay for most positions
+Advice: Keep doing what you're doing
+Pros: Great people, great team, great company, great software to work with, great learning experience, they teach you everything you need to know
+
+Everyone is easy going, and loves to help. Can ask whenever to get more information. 
+Good work/life balance
+Flexible
+Care about employees, and employee satisfaction
+
+Cons: Subsidiary integration is chaotic. Not sure if the company can move from license software to service model.
+Advice: Become more agile and move quickly
+Pros: Strong brand with tremendous power in the market. The people who work at SAP are talented and have the desire to evolve the company from its rigid past.
+
+Cons: Limited personal growth, culture could get confrontational
+Advice: You are probably good engineers but need to become better at managing people.
+Pros: Compensation is good, and if in the right place you will work in cutting edge technologies
+
+Cons: Not so much.... but SAP acquisition also presents some challenges and could see so restructuring. The training and education reimbursement programs could be improved.
+Advice: None
+Pros: Good company with a lot of upside. The benefits are great.. especially the bonus. SAP acquisition means more opportunities. Flexibility and virtual work environment.
+
+Cons: Some areas are a little siloed still but this is getting better.
+Advice: Keep listening and responding to employees needs, wants and career aspirations!
+Pros: Flexibility, leadership and amazing people make this company what it is.  A great atmosphere to grow and challenge yourself!
+
+Cons: Travel, 24/7 work culture, lack of work/life balance
+Advice: Push for more remote work in traveling roles, eliminate culture of "working vacations"
+Pros: Training, experience, resume building, public speaking, benefits, bonus, stability
+
+Cons: Organizational change is by definition disruptive.  Organization can be a challenge to navigate.  If you're not in one of the key offices, you'll need to work to maintain engagement and visibility.
+Advice: None
+Pros: For a large established, company, SAP continues to innovate and evolve which creates opportunities for career advancement and enrichment.
+
+Cons: Too many changes, lack of growth for management talent coming from outside of the company into it.
+Advice: Break up the political clique across all areas. It is not helping the company catalyze change.
+Pros: International company with breadth and depth of solutions in all core business areas.
+
+Cons: Tough to advance or qualify for opportunities unless very technical or sales savvy.
+Advice: None
+Pros: Very competitive with other companies in resources, salaries, benefits, opportunities and virtual work environment.
+
+Cons: Extremely political, behind the technology curve, big, big company that's disconnected, relies too much on legacy SAP shops and slow to innovate
+Advice: Keep doing the best you can with the resources you have
+Pros: Good compensation and benefits, internal networking opportunities, talented people, good opportunities to move into management
+
+Cons: The recent sales leader from SAP are asking employees to do more with even less, higher quotas with smaller territories, less resources, migration to SAP systems is a nightmare, big company bureaucracy.
+Advice: None
+Pros: great culture, pay is good, good benefits. Customers are very positive about the solutions.
+
+Cons: Its long-term strategy is unclear for people who want steadiness and it has too many moving parts that rub against each other.
+Advice: This is an excellent company.
+Pros: SAP is a high paced, performance based culture that continues to excel in a quickly changing software environment.
+
+Cons: The company is too big. Feel irrelevant sometimes.
+Advice: Simplify the management hierarchy and try to stabilize the upper management team. We saw many potential business units are gone due to management change, specially those acquired ones.
+Pros: Relatively good benefit, good work environment, and good work culture
+
+Cons: Software consulting was/is sensitive to swings in the economy so projects can get stalled with a moment's notice. That experience left me in limbo and killed my consulting career.
+Advice: Management is great here.
+Pros: Diversity, great work/life balance, and awesome benefits.
+
+Cons: 100% travel
+Occasionally project where they sell you as an expert and you are not.
+Advice: When on the bench let the consultant rest or talk classes.
+Pros: Great Company
+Great Leadership
+Good Salary
+Usually a Monday - Thursday schedule.  
+Great Learning experience
+Awesome Co-workers
+
+Cons: They seem to be confused on future direction.  It's pretty much all or nothing with Hana
+Advice: Put some more thought into the acquistions.
+Pros: the products here are the best in class when it come to ERP.
+
+Cons: Fast paced, very much a sales culture, not enough work-life balance, reorgs were constant, challenges between cultures
+Advice: None
+Pros: Innovative company with very smart people working there.  So many opportunities to learn and grow.  Really enjoyed the people I worked with.
+
+Cons: Expensive, poor customer, do not implement own systems and rely too much on partners
+Advice: Care more about the customer and practice what you preach
+Pros: No real need to cold call generally invited to participate in evaluations.
+
+Cons: Middle management, CRM accuracy, culture of crisis management, ramp up for new hires versus demand for high production.
+Advice: Not sure since management fosters hierarchal structure that drives revenue creation over employee mentorship, in my experience.
+Pros: Base salary, brand name technology, opportunity being employed creates for future.
+
+Cons: Can get lost in company.  Too many processes and procedures to complete simple tasks.
+Advice: None
+Pros: Large company with corporate office in Germany.  Very involved in social media.  Benefits, bonus and vacation time are great.  However, could do better with one-on-one training.
+
+Cons: Very hard to move from team to team. A very structured organization with not much room to move up in the ranks.
+Advice: None
+Pros: The company provided its employees with a great work facility, with wonderful benefits.
+
+Cons: Too many PIL processes and procedures make it hard to innovate quickly and compete with smaller software companies.  Very frequent management and organizational changes.
+Advice: None
+Pros: Lots of opportunities to work with various other teams and product lines at SAP.
+
+Cons: Closed local office, closed local office, closed local office, closed local office, closed local office, closed local office, closed local
+Advice: NA
+Pros: Great people, Scrum, exciting technology, have to fill 20 minimum, but it pointless because corporate decided to consolidate offices and
+
+Cons: Company is so large and internal processes are overly complicated. It's terribly difficult and frustrating to get anything done because of all the road blocks.
+Advice: None
+Pros: Good pay, great benefits, flexible hours, ability to work remotely
+
+Cons: ever-changing environment can lend to a lot of uncertainty at times
+Advice: Keep evolving but notice that the employees are only human.
+Pros: great people, ever-changing environment, encouraged to move jobs internally and try new things
+
+Cons: It will take some time to understand as its just too bog company with deep portfolio.
+Advice: Kep calm, Carry on :)
+Pros: Its a great european company to work for. Management is very strategic and well planned.
+communication is open and transperant.
+
+Cons: lack of targeted employee development, too may reorgs, some politics
+Advice: simplify, reduce bureaucracy, sharper focus on changing customer needs
+Pros: variety of work opportunities, access to deep technical expertise, work life balance
+
+Cons: I do not have anything negative to say about the company. Great place to work and I have enjoyed it.
+Advice: None
+Pros: Good work/life balance. Have worked for the company for years and have no complaints
+
+Cons: Occassionally slow to adapt when rapid changes occur. Somewhat Waldorf focused in decision making.
+Advice: Stay flexible.
+Pros: Worldwide presence. Multi-national culture. Innovative technology. Company offers opportunities for growth and professional development. Multiple area of expertise to learn from and leverage.
+
+Cons: Perhaps at times it can be challenging being on your feet for a very long time. Just remember to have great footwear.
+Advice: None
+Pros: Variety of events to work, great team to work with, trainings, supportive management, and great pay.
+
+Cons: You have to constantly upgrade yourself, lot to training and elearning
+Advice: Need to be lean... lot of managers
+Pros: Great product, Very Global, Premium services, Good bonus, Perfect tech company to work in services sector
+
+Cons: It is a very large company and speed of execution is a challenge.
+Advice: Help employees understand what the go-forward strategy means to them.
+Pros: SAP is ethical and cares about its customers.  Benefits are good.
+
+Cons: Too many re-org . Politics at its peak.
+Advice: None
+Pros: Has many products in the port folio. Has may different career path to choose. Very flexible about change of a career path. Has good work life balance.
+
+Cons: Work loaf can be overwhelming at times
+Advice: Set more realistic goals and expectations.
+Pros: This is s greet company with a real vision for where it wants to go.
+
+Cons: - bureaucratic
+- focus and pressure on high utilization
+- bonus not specific to particular team's performance
+- 75% travel requirement
+Advice: - inspire more and focus less on money itself
+Pros: - great benefits
+- good salary
+
+Cons: A lot of deeply entrenched politics, disconnect between top-level words and actions, methodology driven management, inconsistency in processes between units
+Advice: Improve communication skills of top management.
+Pros: Combination of cultures from the entire world, solid customers
+
+Cons: To many layers of middle management and management. 
+Worst consulting division, all the good folks have left and only the old tired bunch remain
+Advice: Put an end to your consulting practice....it's very evident that no one really cares about this business
+Pros: Great Product Still has a good brand name (not sure if it will last!!)
+
+Cons: They are not keeping up their salaries with the industry. There is too much bureaucracy. There is not much growth.
+Advice: None
+Pros: There are a stable and big company. They provide good benefits. They have yearly raises, which is nice.
+
+Cons: This company was very hard to grow with and move on to other positions. Work life balance was very hard depending on your manager.
+Advice: None
+Pros: Lunch was free and it was not a long commute
+
+Cons: They call you when you're sick. Too much politics.
+Advice: Not everyone needs to be certified to be a great performer. Consider those who aren't visible when considering bonuses and advancement opportunities.
+Pros: Benefits. People are okay. Lunch is good.
+
+Cons: Need a Godfather to pull you up
+Advice: Give more weight age to customer feedback about your Consultants
+Pros: Market competitive pay, good benefits, multiple career paths available
+
+Cons: Bureaucracy!  Too much time hunting down information instead of selling!
+Advice: Get a user friendly CRM system that employees will actually use.
+Pros: After 3 years at SAP you can move to a partner.
+
+Cons: From time to time long hours are required, but that's not unusual in software development.
+Advice: Work hard to keep employees skills up to date.
+Pros: Flexible hours, good benefits, great bonus plan.
+
+Cons: Highly political, especially during transition.  Talent has been lost due to this.
+Advice: Go back to a flat structure
+Pros: Smart people, good technology.  It's an entrepreneurial atmosphere.
+
+Cons: The atmosphere can get very political depending on where you are working because of the clients.
+Advice: Keep listening to your subordinates and stop politicizing contracts.
+Pros: Amazing Benefits
+Good Work Schedule 
+Great Interesting People & Work
+
+Cons: Hard dealing with Germany and India when you are in the USA
+Advice: Needs more excitement for younger people.
+Pros: Good work life balance. Can take time off when needed.
+
+Cons: favouritism on promotions, chaotic working among different groups spread geaographically worldwide
+Advice: promotions should be transparent
+groups have their own rules creating unnecessary beauracracy
+Pros: Flexibility, telecommute, salary, benefits
+Good place to learn and move on
+
+Cons: SIMPLIFLICATION!!! Work Balance... no Life. Find your own career path and opportunities. Self Training.
+Advice: Wake up. Actually manage. Focus on your employee's growth and career goals
+Pros: Free Soda and Coffee :)
+
+Cons: Some politics but nothing too awful, benefits could have been better.
+Advice: None
+Pros: Good work live balance and great management, loved the culture and opportunity to travel if it's what you are into.
+
+Cons: Sometimes the politics are intense.  Execution has been an issue in the past.
+Advice: None
+Pros: Great colleagues, ability to drive your own topics/ projects with autonomy, solid compensation.
+
+Cons: lack of corporate and product direction.
+Advice: None
+Pros: I worked with smart and hungry sales people.
+
+Cons: little hard to learn need more attention
+Advice: get more practical and small chapters to learn
+Pros: will get good jobs anywhere in top rating
+
+Cons: little hard to learn need more attention
+Advice: get more practical and small chapters to learn
+Pros: will get good jobs anywhere in top rating
+
+Cons: There is no work-life balance when working at SAP. Vacation is a luxury. You will be financially hurt when taking vacations.
+Advice: None
+Pros: Getting to work with smart people
+
+Cons: Too many changes, re-organization almost the norm
+Advice: Stop the constant changes, choose long term strategy and execute
+Pros: Great People, Diverse Culture , Learn a lot, Successful Company, Work closely with custoimers
+
+Cons: promotion or  growth is very slow
+Advice: Strengthen the managers to be more able to handle the teams
+Pros: You get to work with the best minds in the industry
+
+Cons: Whenever layoffs occur, all global locations are affected except Germany
+Time off is very uneven among all locations
+Advice: Listen more; talk less
+Pros: Decent pay; decent bonuses
+Great colleagues
+
+Cons: Frequent changes in leadership w/in some departments/orgs, unclear direction at times
+Advice: None
+Pros: Pay, benefits, culture, training, flexible work arrangements (telecommuting)
+
+Cons: Whenever layoffs occur, all global locations are affected except Germany
+Time off is very uneven among all locations
+Advice: Listen more; talk less
+Pros: Decent pay; decent bonuses
+Great colleagues
+
+Cons: Starting to get a larger company mindset with being part of SAP.
+Advice: None
+Pros: Small culture still prevails with an strong emphasis on customer success
+
+Cons: Re-org never stops. Senior managers come and go.
+Advice: None
+Pros: There is always new generation of technologies and platforms to learn and develop.
+
+Cons: The organization is constantly changing. Many re-orgs make for messy reporting relationships
+Advice: None
+Pros: Excellent benefits and competitive salary. Access to training and support of colleagues top notch.
+
+Cons: Frequent international travel as a consultant.
+Advice: None
+Pros: Great working environment. Great benifits. Frequent international travel as a consultant. Good reputation.
+
+Cons: Compensation is just so so , promotions are slow, traing is not useful.
+Advice: More creative and keep up to dated
+Pros: Slow pace for produt delivery
+
+Cons: Work overload.  Lack of in-depth training.
+Advice: Do more intense training and lower the workload.
+Pros: Autonomy, training, support of the company.
+
+Cons: Few cons. It has its bureaucracy like any large company however its not crazy
+Advice: None
+Pros: Innovation Innovation Innovation. Great vision and energy
+
+Cons: Ther are no cons that I can think of.
+Advice: None
+Pros: Work Satisfaction, Freedom PTO, Friendly Managment
+
+Cons: Political culture in upper management.  Limited senior management roles for those not politically connected.
+Advice: None
+Pros: People are great, global work environment
+
+Cons: There is not much new projects to work on in the team
+Advice: None
+Pros: Good pay, good work/life balance. teammates are very friendly and helpful
+
+Cons: 1) too much travel....
+2) need more work flexibility
+Advice: more work / life balance...
+Pros: 1) lots of new opportunities
+2) Good work environment
+3)
+
+Cons: Too complex, too many systems, too many layers of management.
+Advice: None
+Pros: Progressive, super nice people, good work life balance.
+
+Cons: I can't think of any at the moment.
+Advice: None
+Pros: Plateau system was a great place to work.  A great start up operation that encourage learning and team work.
+
+Cons: lack of career growth if you are in USA.
+Advice: None.
+Pros: Compensation is good. Benefits are good.
+
+Cons: Processes, systems, and people need to be ready for this switch
+Advice: None
+Pros: Great time for company that is evolving from on-premise to cloud
+
+Cons: work-life balance is good, but not good for personal growth, as cloud is hot today
+Advice: None
+Pros: Not much pressure, reasonable compensation
+
+Cons: Too many reorgs and mid-management instability.
+Advice: None
+Pros: Great, stable business. Management cares about employee satisfaction. Lots of traveling, always business class and good benefits.
+
+Cons: none that i have found
+Advice: None
+Pros: Good working environment and great place to learn
+
+Cons: Not Open enough,  sometime too serious, people is afraid of asking question
+Advice: More Open
+Pros: Work-Life Balance,  Great People to work with
+
+Cons: Too many products competing with each other with confusing sales strategy
+Advice: None
+Pros: Good pay and benefits with a focus on trying to do the right thing
+
+Cons: Have not found.Most teams allow working from home. Sometimes not good for teamwork.
+Advice: None
+Pros: Good culture, and easy work model.
+
+Cons: Sometimes you get lost in the corporate politics
+Advice: None
+Pros: Availability to Work independently and use your creativity
+
+Cons: Lot of pressure from customer with short implementation cycle
+Advice: Need to change consulting organizational structure
+Pros: Good learning experience at all level
+
+Cons: Heavy heavy workload, you don't want to take PTO the workload is so heavy.  Not organized.
+Advice: None
+Pros: Remote work, unlimited PTO, training.
+
+Cons: not much growth opportunities for Temp staff.
+Advice: None
+Pros: good and relaxed environment, lot of benefits for Permanent employee
+
+Cons: Organizational changes seem to be overly excessive
+Advice: Stay focused on filling mgmt slots with qualified individuals
+Pros: Compensation is within industry range
+
+Cons: Focus on people development should be improved.
+Advice: None
+Pros: Stable company with very good benefits. Working culture and atmosphere is awesome.
+
+Cons: Focus on people development should be improved.
+Advice: None
+Pros: Stable company with very good benefits. Working culture and atmosphere is awesome.
+
+Cons: As a very large organization it sometimes is difficult to get information
+Advice: None
+Pros: Great opportunities for innovation and growth
+
+Cons: Constant changes, favoritism, inconsistent leadership
+Advice: Allow longer time in territories to succeed.
+Pros: Great benefits, good culture, descent compensation plan
+
+Cons: Big company, hard to relate to different functions.
+Advice: None
+Pros: High reputation company! Good work dynamics with team members, high flexibility
+
+Cons: salary is just average, and work content
+Advice: None
+Pros: free lunch, work life blance
+
+Cons: Micro-Managers in departments where managers are not qualified for their jobs.
+Advice: None
+Pros: Overall company is great with very pleasant people
+
+Cons: political structure is huge and hard to understand
+Advice: Less managers
+Pros: Great culture. Technology driven company
+
+Cons: Work-Life Balance, SAP/SFSF Culture Clash
+Advice: Retain the cloud DNA
+Pros: Great Product, Smart People, Time-Off, New Building
+
+Cons: Big company bureaucracy, sales model frequently changes
+Advice: None
+Pros: Pay, products, executive leadership
+
+Cons: A lot of Management turnover
+Advice: Career Growth for mid-level Management
+Pros: WFH policy and vacation time.
+
+Cons: Company's location is not ideal
+Advice: None
+Pros: Good management, great products, awesome environment to work in!
+
+Cons: Work 60+ hours a week
+Advice: VP's only care about current quarter
+Pros: Awesome company and great pay
+
+Cons: Unorganized structure for sales.  Hard to get consistent answers.
+Advice: None
+Pros: Good Perks, funding for projects,
+
+Cons: Low Income, no innovation, hard to define career path
+Advice: None
+Pros: Nice Environment, culture, defined projects
+
+Cons: - Confusion arising from complexity
+Advice: None
+Pros: - Job Satisfaction
+- Ability to move around/Overall flexibility
+- Employee satisfaction focus
+
+Cons: No work life balance to speak of!
+Advice: work-life balance
+Pros: Good people to work with.
+
+Cons: Lack of work/life balance sometimes
+Advice: None
+Pros: Great Place to work; Good culture
