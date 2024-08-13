@@ -9,10 +9,6 @@
 #### This code scrapes Glassdoor.com for employee reviews and saves them to json files
 #### It tracks the average time it takes per Glassdoor page
 
-
-########################################################################################################################
-### STEP 0: IMPORT PACKAGES AND DEFINE PARAMETERS AND FILE DIRECTORIES
-########################################################################################################################
 import asyncio
 import json
 import re
@@ -20,9 +16,9 @@ import os
 import tempfile
 import time
 from typing import Dict, Optional
-from scrapfly import ScrapeApiResponse, ScrapeConfig, ScrapflyClient
+from scrapfly import ScrapeApiResponse, ScrapeConfig, ScrapflyClient, ScrapflyError
 
-client = ScrapflyClient(key="scp-live-799547289b9247f39e40ba4b6b9b3417")
+client = ScrapflyClient(key="...")          #Insert Scrapfly Client Key here
 
 # Setting up relative file paths
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -30,17 +26,16 @@ link_file_path = os.path.join(base_dir, '01_raw_data', 'list_of_links_to_do.txt'
 name_file_path = os.path.join(base_dir, '01_raw_data', 'list_of_companies_to_do.txt')
 checkpoint_file_path = os.path.join(base_dir, '02_temp_files', 'checkpoint.json')
 error_log_path = os.path.join(base_dir, '02_temp_files', 'error_log.txt')
-#output_dir = os.path.join(base_dir, '03_scraped_gd_reviews')
-output_dir = os.path.join(base_dir)
+output_dir = os.path.join(base_dir, '03_scraped_gd_reviews', '01_new')
 os.makedirs(output_dir, exist_ok=True)
 
-MAX_PAGES_TO_SCRAPE = 50
+MAX_PAGES_TO_SCRAPE = 500
 
 BASE_CONFIG = {
     "country": "US",
     "asp": True,
     "cookies": {"tldp": "1"},
-    #"proxy_pool": "PUBLIC_RESIDENTIAL_POOL"
+    "proxy_pool": "PUBLIC_RESIDENTIAL_POOL"
 }
 
 def find_hidden_data(result: ScrapeApiResponse) -> dict:
@@ -169,6 +164,54 @@ def load_checkpoint() -> Optional[Dict]:
             return None
     return None
 
+async def scrape_page(url: str, page: int, company: str, reviews: Dict, page_times: list, max_retries: int = 2, pause_duration: int = 600):
+    """
+    Scrape a single page of reviews, with retry and pause logic for handling errors.
+
+    Args:
+        url (str): The base URL of the Glassdoor reviews page.
+        page (int): The page number to scrape.
+        company (str): The company name.
+        reviews (Dict): The accumulated reviews.
+        page_times (list): List to record times for scraping each page.
+        max_retries (int): Maximum number of immediate retries upon error.
+        pause_duration (int): Pause duration (in seconds) after exhausting immediate retries.
+
+    Returns:
+        None
+    """
+    retries = 0
+    while retries <= max_retries:
+        try:
+            page_start_time = time.time()
+            result = await client.async_scrape(ScrapeConfig(url=change_page(url, page=page), **BASE_CONFIG))
+            page_reviews = parse_reviews(result)
+            reviews["reviews"].extend(page_reviews["reviews"])
+            save_checkpoint(company, page, reviews)
+            print(f"Successfully scraped page {page} for {company}")
+
+            # Save the intermediate results to JSON with UTF-8 encoding and atomic write
+            new_file_name = os.path.join(output_dir, f"{company}.json")
+            with tempfile.NamedTemporaryFile('w', delete=False, encoding='utf-8') as temp_file:
+                json.dump(reviews, temp_file, ensure_ascii=False, indent=4)
+            os.replace(temp_file.name, new_file_name)
+
+            page_end_time = time.time()
+            page_times.append(page_end_time - page_start_time)
+            average_time = sum(page_times) / len(page_times)
+            print(f"Average time per page so far: {average_time:.2f} seconds")
+
+            return  # Exit the function if scraping is successful
+
+        except ScrapflyError as e:
+            log_error(f"Error scraping page {page} for {company}: {e}")
+            retries += 1
+            if retries > max_retries:
+                print(f"Scraping unsuccessful for {company} on page {page}. Max retries exceeded. Pausing for {pause_duration // 60} minutes.")
+                await asyncio.sleep(pause_duration)
+            else:
+                print(f"Scraping unsuccessful for {company} on page {page}. Retrying now. Attempt {retries} of {max_retries}.")
+
 async def scrape_reviews(url: str, company: str, start_page: int = 1, max_pages: Optional[int] = None) -> Dict:
     """
     Scrape Glassdoor reviews listings from the reviews page (with pagination).
@@ -197,32 +240,16 @@ async def scrape_reviews(url: str, company: str, start_page: int = 1, max_pages:
     if max_pages and max_pages < total_pages:
         total_pages = max_pages
 
-    start_time = time.time()
     page_times = []
 
-    other_pages = [
-        ScrapeConfig(url=change_page(url, page=page), **BASE_CONFIG)
-        for page in range(start_page + 1, total_pages + 1)
-    ]
-
+    tasks = []
     for page in range(start_page + 1, total_pages + 1):
-        page_start_time = time.time()
-        async for result in client.concurrent_scrape([ScrapeConfig(url=change_page(url, page=page), **BASE_CONFIG)]):
-            page_reviews = parse_reviews(result)
-            reviews["reviews"].extend(page_reviews["reviews"])
-            save_checkpoint(company, page, reviews)
-            print(f"Successfully scraped page {page} for {company}")
-
-            # Save the intermediate results to JSON with UTF-8 encoding and atomic write
-            new_file_name = os.path.join(output_dir, f"{company}.json")
-            with tempfile.NamedTemporaryFile('w', delete=False, encoding='utf-8') as temp_file:
-                json.dump(reviews, temp_file, ensure_ascii=False, indent=4)
-            os.replace(temp_file.name, new_file_name)
-
-            page_end_time = time.time()
-            page_times.append(page_end_time - page_start_time)
-            average_time = sum(page_times) / len(page_times)
-            print(f"Average time per page so far: {average_time:.2f} seconds")
+        tasks.append(scrape_page(url, page, company, reviews, page_times))
+        if len(tasks) == 4:
+            await asyncio.gather(*tasks)
+            tasks = []
+    if tasks:
+        await asyncio.gather(*tasks)
 
     return reviews
 

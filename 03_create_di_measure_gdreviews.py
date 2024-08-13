@@ -51,14 +51,14 @@ CSV_OUTPUT_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_pro
 PERFORM_COMPILE_REVIEWS = False
 PERFORM_PREPROCESSING = False
 PERFORM_CLEANING = False
-PERFORM_TRAINING = False
-PERFORM_DICTIONARY_CREATION = False
-PERFORM_DI_MEASUREMENT = True
+PERFORM_TRAINING = True
+PERFORM_DICTIONARY_CREATION = True
+PERFORM_DI_MEASUREMENT = False
 
 # Parameters for the steps
 PREPROC_NER = True          # Named Entity Recognition - yes or no?
 PREPROC_DP = True           # Dependency parsing - yes or no?
-PROC_SPACY = True          # Use SpaCy if True, else use Stanza
+PROC_SPACY = False          # Use SpaCy if True, else use Stanza
 
 # Seed words for DI dictionary
 SEED_WORDS = ["diversity", "inclusion", "equal_opportunity", "belonging", "engagement", "representation", "inclusive_culture", "diverse_skills"]

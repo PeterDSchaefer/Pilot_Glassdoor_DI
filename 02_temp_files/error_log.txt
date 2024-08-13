@@ -1,1 +1,453 @@
 No apolloState data found in the page content for URL: https://www.glassdoor.com/Reviews/SAP-Reviews-E10471_P7.htm
+Error scraping page 72 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 80 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 89 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 89 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 103 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 160 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 166 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 201 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 209 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 242 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 342 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 355 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 360 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 369 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 369 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 387 for Apple: Target website responded with 520 - 
+Error scraping page 390 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 390 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 390 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 391 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 396 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 405 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 405 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 408 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 408 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 418 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 419 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 421 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 425 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 423 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 423 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 427 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 426 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 427 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 433 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 433 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 436 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 434 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 439 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 439 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 445 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 449 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 453 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 451 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 457 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 461 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 461 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 459 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 465 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 464 for Apple: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 464 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 468 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 469 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 468 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 466 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 468 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 466 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 466 for Apple: Target website responded with 403 - Forbidden
+Error scraping page 314 for Microsoft: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 339 for Microsoft: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 339 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 343 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 342 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 346 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 350 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 362 for Microsoft: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 365 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 378 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 385 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 392 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 392 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 397 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 397 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 401 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 399 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 401 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 403 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 413 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 436 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 460 for Microsoft: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 463 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 476 for Microsoft: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 476 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 478 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 480 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 478 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 481 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 481 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 483 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 485 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 483 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 483 for Microsoft: Target website responded with 403 - Forbidden
+Error scraping page 48 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 52 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 65 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 69 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 79 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 92 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 92 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 95 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 109 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 115 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 117 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 135 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 151 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 152 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 271 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 321 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 325 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 322 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 327 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 332 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 333 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 335 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 336 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 335 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 335 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 405 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 434 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 473 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 477 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 478 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 478 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 483 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 483 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 487 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 487 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 487 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 495 for General Motors: Target website responded with 403 - Forbidden
+Error scraping page 2 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 2 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 8 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 6 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 7 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 10 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 13 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 16 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 18 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 33 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 53 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 51 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 58 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 59 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 65 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 68 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 72 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 70 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 70 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 79 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 79 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 79 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 107 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 110 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 114 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 116 for Volkswagen: Target website responded with 403 - Forbidden
+Error scraping page 8 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 7 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 6 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 81 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 84 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 84 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 99 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 99 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 161 for SAP: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 301 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 301 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 303 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 312 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 310 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 328 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 346 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 352 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 354 for SAP: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 354 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 360 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 359 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 365 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 364 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 367 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 379 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 389 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 395 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 395 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 400 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 402 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 408 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 408 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 410 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 416 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 421 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 425 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 427 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 427 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 427 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 487 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 500 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 500 for SAP: Target website responded with 403 - Forbidden
+Error scraping page 12 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 13 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 17 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 20 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 23 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 22 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 33 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 30 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 36 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 40 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 45 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 44 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 47 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 52 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 52 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 50 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 54 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 60 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 63 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 66 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 66 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 76 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 76 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 75 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 77 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 80 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 85 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 82 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 86 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 88 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 91 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 97 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 94 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 98 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 100 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 108 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 106 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 108 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 108 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 166 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 226 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 231 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 232 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 232 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 235 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 241 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 245 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 251 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 258 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 262 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 266 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 275 for Shell: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 278 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 283 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 286 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 289 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 289 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 288 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 289 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 302 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 352 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 351 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 364 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 364 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 369 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 369 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 369 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 454 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 465 for Shell: Target website responded with 403 - Forbidden
+Error scraping page 486 for Shell: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 50 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 54 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 57 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 57 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 59 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 58 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 58 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 62 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 69 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 66 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 66 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 73 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 73 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 75 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 74 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 77 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 77 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 79 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 81 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 82 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 82 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 82 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 108 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 107 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 110 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 118 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 124 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 124 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 124 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 141 for Roche Holding AG: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 259 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 262 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 280 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 280 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 280 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 433 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 451 for Roche Holding AG: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 451 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 457 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 456 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 456 for Roche Holding AG: Target website responded with 403 - Forbidden
+Error scraping page 8 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 20 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 21 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 20 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 28 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 26 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 30 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 34 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 38 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 75 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 79 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 85 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 85 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 85 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 169 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 188 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 192 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 197 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 199 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 205 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 205 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 207 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 217 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 217 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 221 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 218 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 222 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 223 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 223 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 226 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 231 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 231 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 232 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 234 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 235 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 241 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 240 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 238 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 245 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 244 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 243 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 242 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 244 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 244 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 294 for L'Oreal: <-- 422 | ERR::ASP::TIMEOUT - The ASP made too much time to solve or respond - Resolution of challenge take too much time. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection
+Error scraping page 368 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 366 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 408 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 406 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 412 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 415 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 417 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 418 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 424 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 424 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 424 for L'Oreal: Target website responded with 403 - Forbidden
+Error scraping page 55 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 63 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 63 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 69 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 69 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 66 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 71 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 76 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 95 for Samsung Electronics: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 96 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 98 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 110 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 111 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 111 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 116 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 114 for Samsung Electronics: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 119 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 121 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 119 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 120 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 120 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 120 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 141 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 165 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 288 for Samsung Electronics: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 315 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 320 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 318 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 324 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 329 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 336 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 340 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 340 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 343 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 347 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 348 for Samsung Electronics: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 348 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 353 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 356 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 354 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 358 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 370 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 415 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 424 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 427 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 431 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 433 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 437 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 434 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 438 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 443 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 445 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 449 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 447 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 453 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 451 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 457 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 456 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 458 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 461 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 469 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 473 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 477 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 475 for Samsung Electronics: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 477 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 477 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 476 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 485 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 487 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 495 for Samsung Electronics: Target website responded with 403 - Forbidden
+Error scraping page 7 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 8 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 13 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 16 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 16 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 22 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 30 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 42 for Volvo Car: <-- 422 | ERR::ASP::SHIELD_PROTECTION_FAILED - The ASP shield failed to solve the challenge against the anti scrapping protection - Unable to bypass cloudflare, please retry in few seconds. Checkout the related doc: https://scrapfly.io/docs/scrape-api/anti-scraping-protection#maximize_success_rate
+Error scraping page 52 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 62 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 66 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 72 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 70 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 76 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 81 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 81 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 83 for Volvo Car: Target website responded with 403 - Forbidden
+Error scraping page 87 for Volvo Car: Target website responded with 403 - Forbidden
