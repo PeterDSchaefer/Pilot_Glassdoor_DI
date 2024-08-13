@@ -38,14 +38,14 @@ spacy_nlp = spacy.load("en_core_web_sm")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Relative file paths
-RAW_DATA_FOLDER = os.path.join(BASE_DIR, '04_processed_gd_reviews', '01_txt')
-OUTPUT_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '01_joint_gdreviews.txt')
-PREPROCESSED_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '02_preprocessed_gdreviews.txt')
-CLEANED_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '03_cleaned_gdreviews.txt')
-WORD2VEC_MODEL_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps','04_word2vec_model')
-DICTIONARY_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '05_di_dictionary.txt')
-DICTIONARY_REVISED_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '06_di_dictionary_revised.txt')
-CSV_OUTPUT_FILE = os.path.join(BASE_DIR, '04_processed_gd_reviews', '03_text_processing_steps', '07_di_measures.csv')
+RAW_DATA_FOLDER = os.path.join(BASE_DIR, '04_process_gd_reviews', '01_txt')
+OUTPUT_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '01_joint_gdreviews.txt')
+PREPROCESSED_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '02_preprocessed_gdreviews.txt')
+CLEANED_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '03_cleaned_gdreviews.txt')
+WORD2VEC_MODEL_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps','04_word2vec_model')
+DICTIONARY_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '05_di_dictionary.txt')
+DICTIONARY_REVISED_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '06_di_dictionary_revised.txt')
+CSV_OUTPUT_FILE = os.path.join(BASE_DIR, '04_process_gd_reviews', '03_text_processing_steps', '07_di_measures.csv')
 
 # Steps to perform
 PERFORM_COMPILE_REVIEWS = False

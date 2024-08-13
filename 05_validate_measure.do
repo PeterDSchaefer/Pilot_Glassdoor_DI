@@ -19,8 +19,8 @@ global main_folder = 	"C:\Users\pesc713f\Desktop\01_Research\01_projects\14_Holi
 global temp_folder = 	"02_temp_files"
 
 ** File directories
-global gd_di_file = "04_processed_gd_reviews\02_dta\reviews_data.dta" 	
-global our_di_file = "04_processed_gd_reviews\03_text_processing_steps\07_di_measures.csv"
+global gd_di_file = "04_process_gd_reviews\02_dta\reviews_data.dta"
+global our_di_file = "04_process_gd_reviews\03_text_processing_steps\07_di_measures.csv"
 
 
 cd $main_folder
