@@ -13,8 +13,8 @@ import pandas as pd
 # Define the path to the folder containing the JSON files
 base_dir = os.path.dirname(os.path.abspath(__file__))
 folder_path = os.path.join(base_dir, '03_scraped_gd_reviews',)
-output_folder_path = os.path.join(base_dir, '04_process_gd_reviews', '01_txt')
-dta_folder_path = os.path.join(base_dir, '04_process_gd_reviews', '02_dta')
+output_folder_path = os.path.join(base_dir, '04_proc_gd_reviews', '01_txt')
+dta_folder_path = os.path.join(base_dir, '04_proc_gd_reviews', '02_dta')
 
 # Get a list of all files in the folder
 file_list = os.listdir(folder_path)
