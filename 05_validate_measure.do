@@ -30,7 +30,7 @@ cd $main_folder
 ** Import our DI File 
 import delimited "$our_di_file", clear
 save "$temp_folder\temp.dta", replace
-label variable diversitymeasure "Diversity & Inclusion Rating from Machine Learning"
+label variable diversitymeasure "Diversity & Inclusion Scores from Machine Learning"
 
 ** Generate histogram
 drop if diversitymeasure == 0
@@ -51,12 +51,12 @@ merge 1:1 companyid year using "$temp_folder\temp.dta"
 drop if _merge==2
 drop _merge
 
-label variable ratingDiversityAndInclusion "Glassdoor DI Rating"
+label variable ratingDiversityAndInclusion "Glassdoor Diversity & Inclusion Rating"
 
 
 
 ** Generate scatter plot and calculate correlations
-label variable diversitymeasure "Diversity & Inclusion Rating from Machine Learning"
+label variable diversitymeasure "Diversity & Inclusion Scores from Machine Learning"
 drop if diversitymeasure == 0
 corr ratingDiversityAndInclusion diversitymeasure
 scatter ratingDiversityAndInclusion diversitymeasure  
